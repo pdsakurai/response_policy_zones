@@ -1,8 +1,8 @@
-; Last modified: 2023-08-07T17:16:00+08:00
+; Last modified: 2023-08-10T03:49:01+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308071716 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308100349 86400 60 2592000 30
  NS localhost.
 
 chatdate.app CNAME .
@@ -10680,6 +10680,7 @@ www.hoodatingapp.com CNAME .
 hookupabout.com CNAME .
 www.hookupabout.com CNAME .
 hookupking.com CNAME .
+www.hookupking.com CNAME .
 hornyaffairs.com CNAME .
 antispam.hornyaffairs.com CNAME .
 api.hornyaffairs.com CNAME .
@@ -11699,6 +11700,7 @@ messaging.lifestylelounge.com CNAME .
 mobile.lifestylelounge.com CNAME .
 services.lifestylelounge.com CNAME .
 sgchat.lifestylelounge.com CNAME .
+sgdb1.lifestylelounge.com CNAME .
 sgweb4.lifestylelounge.com CNAME .
 smtp.lifestylelounge.com CNAME .
 v2.lifestylelounge.com CNAME .
@@ -16297,6 +16299,7 @@ es.spicymatch.com CNAME .
 fi.spicymatch.com CNAME .
 fr.spicymatch.com CNAME .
 ftp.spicymatch.com CNAME .
+gcp.spicymatch.com CNAME .
 gino.spicymatch.com CNAME .
 he.spicymatch.com CNAME .
 hr.spicymatch.com CNAME .
@@ -16809,6 +16812,7 @@ chat1.swinglifestyle.com CNAME .
 chat8.swinglifestyle.com CNAME .
 chatb.swinglifestyle.com CNAME .
 chatjoel.swinglifestyle.com CNAME .
+chatterdemo.swinglifestyle.com CNAME .
 chatv.swinglifestyle.com CNAME .
 chatvstaging.swinglifestyle.com CNAME .
 chopper.swinglifestyle.com CNAME .
@@ -17119,7 +17123,6 @@ redirects.t101.com CNAME .
 sip.t101.com CNAME .
 supportweb.t101.com CNAME .
 www.t101.com CNAME .
-zabbix.t101.com CNAME .
 tabulife.com CNAME .
 autodiscover.tabulife.com CNAME .
 chat.tabulife.com CNAME .
@@ -19909,7 +19912,6 @@ plesk01.picky.dating CNAME .
 sentry.picky.dating CNAME .
 placeme.dating CNAME .
 www.placeme.dating CNAME .
-www.plant.dating CNAME .
 play.dating CNAME .
 www.play.dating CNAME .
 pleb.dating CNAME .
@@ -19931,14 +19933,6 @@ billing.profiles.dating CNAME .
 project.dating CNAME .
 www.project.dating CNAME .
 puffin.dating CNAME .
-filebrowser.dev.pull.dating CNAME .
-ide.dev.pull.dating CNAME .
-minio.dev.pull.dating CNAME .
-node-api.dev.pull.dating CNAME .
-node-zach.dev.pull.dating CNAME .
-swarmpit.dev.pull.dating CNAME .
-sync.dev.pull.dating CNAME .
-technitium.dev.pull.dating CNAME .
 appnative.pulse.dating CNAME .
 crfprofile.punk.dating CNAME .
 crmprofile.punk.dating CNAME .
@@ -20261,8 +20255,6 @@ www.unitypoint.dating CNAME .
 unjected.dating CNAME .
 unvaxxed.dating CNAME .
 www.unvaxxed.dating CNAME .
-urmytype.dating CNAME .
-www.urmytype.dating CNAME .
 vali.dating CNAME .
 webmail.vali.dating CNAME .
 www.vali.dating CNAME .
@@ -20339,8 +20331,6 @@ www.xo.dating CNAME .
 xr.dating CNAME .
 www.xr.dating CNAME .
 xvideos.dating CNAME .
-magento.xvideos.dating CNAME .
-staging.xvideos.dating CNAME .
 www.xvideos.dating CNAME .
 dev.yogi.dating CNAME .
 staging.yogi.dating CNAME .
@@ -21655,4 +21645,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: d61fec8c6812f3387780eff8ba9773f6
+; md5: 2bbf3807390042f1ad0873a52ce3bf5b
