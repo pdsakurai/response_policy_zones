@@ -1,8 +1,8 @@
-; Last modified: 2023-08-10T03:49:01+08:00
+; Last modified: 2023-08-11T03:49:01+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308100349 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308110349 86400 60 2592000 30
  NS localhost.
 
 chatdate.app CNAME .
@@ -17082,6 +17082,7 @@ webmail.swingvillage.com CNAME .
 www.swingvillage.com CNAME .
 wwww.swingvillage.com CNAME .
 swirlr.com CNAME .
+4322.swirlr.com CNAME .
 74.swirlr.com CNAME .
 avatar.swirlr.com CNAME .
 comune.swirlr.com CNAME .
@@ -17100,8 +17101,13 @@ pictures.swirlr.com CNAME .
 quiz3.swirlr.com CNAME .
 quiz7.swirlr.com CNAME .
 root.swirlr.com CNAME .
+sem1.swirlr.com CNAME .
+links.sem1.swirlr.com CNAME .
+o8.sem1.swirlr.com CNAME .
 server1.swirlr.com CNAME .
+set1.swirlr.com CNAME .
 links.set1.swirlr.com CNAME .
+o7.set1.swirlr.com CNAME .
 shanghai.swirlr.com CNAME .
 smtp01.swirlr.com CNAME .
 static.swirlr.com CNAME .
@@ -21645,4 +21651,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: 2bbf3807390042f1ad0873a52ce3bf5b
+; md5: dec3ee34b200fd2d3de3292fa126ed32
