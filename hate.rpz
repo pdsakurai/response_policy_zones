@@ -1,8 +1,8 @@
-; Last modified: 2023-08-07T17:16:08+08:00
+; Last modified: 2023-08-15T17:24:17+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308071716 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308151724 86400 60 2592000 30
  NS localhost.
 
 qalerts.app CNAME .
@@ -1306,6 +1306,7 @@ ponyexpress3.afa.net CNAME .
 ponyexpress4.afa.net CNAME .
 pray.afa.net CNAME .
 pulseway.afa.net CNAME .
+webhook.raisedonors.afa.net CNAME .
 resources.afa.net CNAME .
 api.resources.afa.net CNAME .
 shareathonwebhook.afa.net CNAME .
@@ -1352,7 +1353,6 @@ rs-stripe.forbiddenknowledgetv.net CNAME .
 www.forbiddenknowledgetv.net CNAME .
 jamesperloff.net CNAME .
 staging.jamesperloff.net CNAME .
-www.staging.jamesperloff.net CNAME .
 www.jamesperloff.net CNAME .
 kiwifarms.net CNAME .
 element.kiwifarms.net CNAME .
@@ -2125,4 +2125,4 @@ ww25.wearethene.ws CNAME .
 ww38.wearethene.ws CNAME .
 www.wearethene.ws CNAME .
 
-; md5: b957650d8cc5c6f4664b3c461ad0df34
+; md5: 5438c44663b24efb9b5032b3859d0d07

@@ -1,8 +1,8 @@
-; Last modified: 2023-08-11T03:49:01+08:00
+; Last modified: 2023-08-15T17:24:15+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308110349 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308151724 86400 60 2592000 30
  NS localhost.
 
 chatdate.app CNAME .
@@ -1111,6 +1111,8 @@ ty1cap.adultwork.com CNAME .
 ty2cap.adultwork.com CNAME .
 ty3.adultwork.com CNAME .
 ty3cap.adultwork.com CNAME .
+tya.adultwork.com CNAME .
+tyb.adultwork.com CNAME .
 typ.adultwork.com CNAME .
 typ1.adultwork.com CNAME .
 typ2.adultwork.com CNAME .
@@ -5599,7 +5601,6 @@ autodiscover.clubfa.com CNAME .
 cpanel.clubfa.com CNAME .
 cpcalendars.clubfa.com CNAME .
 cpcontacts.clubfa.com CNAME .
-freedomacresresorts.clubfa.com CNAME .
 ftp.clubfa.com CNAME .
 holygraildesigns.clubfa.com CNAME .
 www.holygraildesigns.clubfa.com CNAME .
@@ -9732,8 +9733,6 @@ webdisk.freedatingaustralia.com CNAME .
 webmail.freedatingaustralia.com CNAME .
 www.freedatingaustralia.com CNAME .
 freedatingfreetst.com CNAME .
-freedatingsiteall.com CNAME .
-www.freedatingsiteall.com CNAME .
 freedatingsitesus.com CNAME .
 www.freedatingsitesus.com CNAME .
 freefemaleescorts.com CNAME .
@@ -12200,6 +12199,7 @@ www.luckfuck.com CNAME .
 lumasearch.com CNAME .
 staging10.lumasearch.com CNAME .
 staging11.lumasearch.com CNAME .
+staging12.lumasearch.com CNAME .
 www.lumasearch.com CNAME .
 luvfree.com CNAME .
 ftp.luvfree.com CNAME .
@@ -18686,7 +18686,6 @@ hostmaster.alanya.dating CNAME .
 login.alanya.dating CNAME .
 www.alanya.dating CNAME .
 www.alex.dating CNAME .
-alfa.dating CNAME .
 alleinerziehendemutter.dating CNAME .
 amouramour.dating CNAME .
 amwf.dating CNAME .
@@ -21651,4 +21650,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: dec3ee34b200fd2d3de3292fa126ed32
+; md5: 8dc82b88021d46b09e2bb56174c8eeaa
