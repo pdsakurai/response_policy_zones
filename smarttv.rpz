@@ -1,8 +1,8 @@
-; Last modified: 2023-08-19T10:52:38+08:00
+; Last modified: 2023-08-20T01:26:49+08:00
 ; Source #1: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308191052 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308200126 86400 60 2592000 30
  NS localhost.
 
 0077777700140002.myhomescreen.tv CNAME .

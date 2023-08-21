@@ -1,8 +1,8 @@
-; Last modified: 2023-08-19T10:52:39+08:00
+; Last modified: 2023-08-21T19:09:31+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308191052 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308211909 86400 60 2592000 30
  NS localhost.
 
 chatdate.app CNAME .
@@ -10764,7 +10764,6 @@ hinge-dating.com CNAME .
 mx.hinge-dating.com CNAME .
 www.hinge-dating.com CNAME .
 hingedatingsite.com CNAME .
-www.hingedatingsite.com CNAME .
 hitwe.com CNAME .
 corp.hitwe.com CNAME .
 ihkprs.hitwe.com CNAME .
@@ -18914,7 +18913,6 @@ female.bbwsex.dating CNAME .
 local.bbwsex.dating CNAME .
 male.bbwsex.dating CNAME .
 staging.bbwsex.dating CNAME .
-besthookupsites.dating CNAME .
 bewitchy.dating CNAME .
 www.bewitchy.dating CNAME .
 bharat.dating CNAME .
@@ -21749,4 +21747,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: 430520a1b857d0b820661c74981e301b
+; md5: 96cc8a87aa560a3b25bcf1d8cf34f080
