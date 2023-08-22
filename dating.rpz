@@ -1,8 +1,8 @@
-; Last modified: 2023-08-21T19:49:12+08:00
+; Last modified: 2023-08-23T01:26:35+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308211949 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308230126 86400 60 2592000 30
  NS localhost.
 
 chatdate.app CNAME .
@@ -10760,7 +10760,6 @@ static.hily.com CNAME .
 track.hily.com CNAME .
 trail.hily.com CNAME .
 www.hily.com CNAME .
-hinge-dating.com CNAME .
 mx.hinge-dating.com CNAME .
 www.hinge-dating.com CNAME .
 hingedatingsite.com CNAME .
@@ -11186,6 +11185,7 @@ videos5.jalf.com CNAME .
 vpn.jalf.com CNAME .
 webcam2.jalf.com CNAME .
 webcam3.jalf.com CNAME .
+webcam5.jalf.com CNAME .
 www.jalf.com CNAME .
 xsoli.jalf.com CNAME .
 japancupid.com CNAME .
@@ -13418,6 +13418,8 @@ ns2.mnogochat.com CNAME .
 pop.mnogochat.com CNAME .
 secure.mnogochat.com CNAME .
 www.mnogochat.com CNAME .
+chat.modernhookup.com CNAME .
+www.modernhookup.com CNAME .
 momsmakecents.com CNAME .
 m.momsmakecents.com CNAME .
 www.momsmakecents.com CNAME .
@@ -21747,4 +21749,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: 96cc8a87aa560a3b25bcf1d8cf34f080
+; md5: be6cfd2b4ee3f99b42c7582839554ac2
