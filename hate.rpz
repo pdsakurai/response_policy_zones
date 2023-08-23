@@ -1,8 +1,8 @@
-; Last modified: 2023-08-21T19:09:32+08:00
+; Last modified: 2023-08-24T01:26:27+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308211909 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308240126 86400 60 2592000 30
  NS localhost.
 
 qalerts.app CNAME .
@@ -629,6 +629,7 @@ affiliates.naturalnews.com CNAME .
 ahiflower.naturalnews.com CNAME .
 ahiflowersoftgel.naturalnews.com CNAME .
 airandwaterfilter.naturalnews.com CNAME .
+almondbutterenergybars.naturalnews.com CNAME .
 almonds.naturalnews.com CNAME .
 aloevera.naturalnews.com CNAME .
 aloeveradigestionsupport.naturalnews.com CNAME .
@@ -759,6 +760,7 @@ healthydessertrecipes.naturalnews.com CNAME .
 healthysweeteners.naturalnews.com CNAME .
 heirloomseedsgarden.naturalnews.com CNAME .
 hempjuvenate.naturalnews.com CNAME .
+hempmilk.naturalnews.com CNAME .
 hempseed.naturalnews.com CNAME .
 herbaltinctures.naturalnews.com CNAME .
 himalayansalt.naturalnews.com CNAME .
@@ -784,6 +786,7 @@ lavenderbodyoil.naturalnews.com CNAME .
 lemoncake.naturalnews.com CNAME .
 library.naturalnews.com CNAME .
 limitedinventoryflashevent.naturalnews.com CNAME .
+liposomalglutathione.naturalnews.com CNAME .
 liquiddeodorant.naturalnews.com CNAME .
 lucumapowder.naturalnews.com CNAME .
 maca.naturalnews.com CNAME .
@@ -845,6 +848,7 @@ organicaloeveraextract.naturalnews.com CNAME .
 organicaloeverapowder.naturalnews.com CNAME .
 organicapplepeelpowder.naturalnews.com CNAME .
 organicavocado.naturalnews.com CNAME .
+organicbanana.naturalnews.com CNAME .
 organicbaobabsuperfruitsnacks.naturalnews.com CNAME .
 organicbeepollen.naturalnews.com CNAME .
 organicbeetjuicepowder.naturalnews.com CNAME .
@@ -954,6 +958,7 @@ share.naturalnews.com CNAME .
 share1.naturalnews.com CNAME .
 signup.naturalnews.com CNAME .
 silverbreathspray.naturalnews.com CNAME .
+silverfreshdeodorant.naturalnews.com CNAME .
 silversafe.naturalnews.com CNAME .
 smtplw1.naturalnews.com CNAME .
 smtplw2.naturalnews.com CNAME .
@@ -2127,4 +2132,4 @@ ww25.wearethene.ws CNAME .
 ww38.wearethene.ws CNAME .
 www.wearethene.ws CNAME .
 
-; md5: a2eef4e028a2e59cc135f3667d8f5c5b
+; md5: f2736729c0d536d412edb7d6145f1e38
