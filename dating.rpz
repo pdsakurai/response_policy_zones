@@ -1,8 +1,8 @@
-; Last modified: 2023-08-23T01:26:35+08:00
+; Last modified: 2023-08-25T01:26:34+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308230126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308250126 86400 60 2592000 30
  NS localhost.
 
 chatdate.app CNAME .
@@ -18781,10 +18781,6 @@ staging.agancy.dating CNAME .
 www.agancy.dating CNAME .
 age-gap.dating CNAME .
 alanya.dating CNAME .
-admin.alanya.dating CNAME .
-hostmaster.alanya.dating CNAME .
-login.alanya.dating CNAME .
-www.alanya.dating CNAME .
 www.alex.dating CNAME .
 alleinerziehendemutter.dating CNAME .
 amouramour.dating CNAME .
@@ -21749,4 +21745,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: be6cfd2b4ee3f99b42c7582839554ac2
+; md5: 3debec59d8029d7cd6acac52d5e2ac58
