@@ -1,9 +1,9 @@
-; Last modified: 2023-08-26T12:19:13+08:00
+; Last modified: 2023-08-26T14:51:18+08:00
 ; Source #1: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308261219 86400 60 2592000 30
- NS localhost.
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308261451 86400 60 2592000 30
+ IN NS localhost.
 
 1oavsblobprodcus350.blob.core.windows.net A 0.0.0.0
 37bvsblobprodcus311.blob.core.windows.net A 0.0.0.0
