@@ -1,8 +1,8 @@
-; Last modified: 2023-08-26T15:17:34+08:00
+; Last modified: 2023-08-27T11:18:55+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308261517 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308271118 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -3483,13 +3483,16 @@ www.blk-app.com A 0.0.0.0
 blossoms.com A 0.0.0.0
 1222.blossoms.com A 0.0.0.0
 af.blossoms.com A 0.0.0.0
+amazon.blossoms.com A 0.0.0.0
 api.blossoms.com A 0.0.0.0
 asia.blossoms.com A 0.0.0.0
 av.blossoms.com A 0.0.0.0
+aws.blossoms.com A 0.0.0.0
 blog.blossoms.com A 0.0.0.0
 cbchat.blossoms.com A 0.0.0.0
 chat.blossoms.com A 0.0.0.0
 cloud.blossoms.com A 0.0.0.0
+crop.blossoms.com A 0.0.0.0
 dev.blossoms.com A 0.0.0.0
 enterpriseenrollment.blossoms.com A 0.0.0.0
 images.blossoms.com A 0.0.0.0
@@ -3509,12 +3512,14 @@ sg.blossoms.com A 0.0.0.0
 sip.blossoms.com A 0.0.0.0
 socket.blossoms.com A 0.0.0.0
 socketio.blossoms.com A 0.0.0.0
+socketioaws.blossoms.com A 0.0.0.0
 ssl.blossoms.com A 0.0.0.0
 stats.blossoms.com A 0.0.0.0
 thumbnail.blossoms.com A 0.0.0.0
 thumbnails.blossoms.com A 0.0.0.0
 travel.blossoms.com A 0.0.0.0
 upload.blossoms.com A 0.0.0.0
+uploadaws.blossoms.com A 0.0.0.0
 uploadsg.blossoms.com A 0.0.0.0
 web4.blossoms.com A 0.0.0.0
 web5.blossoms.com A 0.0.0.0
@@ -18767,8 +18772,6 @@ benin.africa.dating A 0.0.0.0
 botswana.africa.dating A 0.0.0.0
 burkinafaso.africa.dating A 0.0.0.0
 casablanca.africa.dating A 0.0.0.0
-chad.africa.dating A 0.0.0.0
-classifieds.africa.dating A 0.0.0.0
 congo.africa.dating A 0.0.0.0
 daressalaam.africa.dating A 0.0.0.0
 equatorialguinea.africa.dating A 0.0.0.0
@@ -21788,4 +21791,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: eaaeedc55072e578952740db57df4a60
+; md5: a1b1e7639051d1f2b98785897ddb8ca9
