@@ -1,8 +1,8 @@
-; Last modified: 2023-08-26T15:17:37+08:00
+; Last modified: 2023-08-30T01:25:54+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308261517 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308300125 86400 60 2592000 30
  IN NS localhost.
 
 qalerts.app A 0.0.0.0
@@ -463,7 +463,6 @@ auth.infowars.com A 0.0.0.0
 rss.b.infowars.com A 0.0.0.0
 beta.infowars.com A 0.0.0.0
 bigmedia1.infowars.com A 0.0.0.0
-cdn.infowars.com A 0.0.0.0
 cdntest.infowars.com A 0.0.0.0
 comments.infowars.com A 0.0.0.0
 cpdns1.infowars.com A 0.0.0.0
@@ -2132,4 +2131,4 @@ ww25.wearethene.ws A 0.0.0.0
 ww38.wearethene.ws A 0.0.0.0
 www.wearethene.ws A 0.0.0.0
 
-; md5: f2736729c0d536d412edb7d6145f1e38
+; md5: eb7e2cfcba219ef35ac4f5a76b09b693

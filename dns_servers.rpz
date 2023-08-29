@@ -1,8 +1,8 @@
-; Last modified: 2023-08-29T01:25:48+08:00
+; Last modified: 2023-08-30T01:25:55+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308290125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308300125 86400 60 2592000 30
  IN NS localhost.
 
 003.tisyang.com A 0.0.0.0
@@ -72,6 +72,7 @@ ad1.heronet.nl A 0.0.0.0
 ad2.heronet.nl A 0.0.0.0
 ad.aghaaliagha.tk A 0.0.0.0
 adampowell.pro A 0.0.0.0
+ada.openbld.net A 0.0.0.0
 adb.aadityakushwaha.com A 0.0.0.0
 adb-home.xaoimoon.fr A 0.0.0.0
 adblock.any.dns.nixnet.xyz A 0.0.0.0
@@ -475,6 +476,8 @@ area51.mywire.org A 0.0.0.0
 arespctw.tk A 0.0.0.0
 argon.molinero.dev A 0.0.0.0
 arkadia100.pl A 0.0.0.0
+arm2.nzcow.com A 0.0.0.0
+arm3.nzcow.com A 0.0.0.0
 armorrush.eu.org A 0.0.0.0
 as17820865.click A 0.0.0.0
 a.safe.ns.dnslify.com A 0.0.0.0
@@ -501,6 +504,7 @@ au-syd.doh.sb A 0.0.0.0
 au-syd-w-2.nashkan.net A 0.0.0.0
 au-syd-w-3.nashkan.net A 0.0.0.0
 au.teradns.org A 0.0.0.0
+auth.phclinz.de A 0.0.0.0
 auto-cn-hk-8000.go-behind.one A 0.0.0.0
 autodiscover.elshad-adgh-dns.ru A 0.0.0.0
 autodiscover.promsdns.com A 0.0.0.0
@@ -700,6 +704,7 @@ d2.shabi.icu A 0.0.0.0
 d3.shabi.icu A 0.0.0.0
 d3.supremum.io A 0.0.0.0
 dac-one.nayemador.com A 0.0.0.0
+d.adguard-dns.com A 0.0.0.0
 daisukivn.asuscomm.com A 0.0.0.0
 dakulov.synology.me A 0.0.0.0
 dandelionsprout.asuscomm.com A 0.0.0.0
@@ -713,6 +718,7 @@ darya.persiannit.net A 0.0.0.0
 daswieddodeushtuhaw.xyz A 0.0.0.0
 davidcampos.duckdns.org A 0.0.0.0
 davidzeh.eu.org A 0.0.0.0
+dawnings.cn A 0.0.0.0
 dbbs.dns.databyte-network.com A 0.0.0.0
 dclab.live A 0.0.0.0
 ddd2.loukky.com A 0.0.0.0
@@ -1257,7 +1263,6 @@ dns.juancamos.com A 0.0.0.0
 dns.jucker.engineering A 0.0.0.0
 dns.jungle-im.ir A 0.0.0.0
 dns.junhengyun.com A 0.0.0.0
-dns.jupitr.cc A 0.0.0.0
 dns.jupitrdns.com A 0.0.0.0
 dns.jupitrdns.net A 0.0.0.0
 dns.just-hosting.net A 0.0.0.0
@@ -1937,6 +1942,7 @@ dubere.home.ro A 0.0.0.0
 dub.r.rnet.ie A 0.0.0.0
 ducphuclee.tech A 0.0.0.0
 dukun.de A 0.0.0.0
+dumbledore.steinr.eu A 0.0.0.0
 dupatruwi22.fun A 0.0.0.0
 dus.ysbs.uk A 0.0.0.0
 duyyen.cf A 0.0.0.0
@@ -1950,6 +1956,7 @@ dyhw.ddns.net A 0.0.0.0
 dyn-ip.borjalopez.eu A 0.0.0.0
 ea-dns.rubyfish.cn A 0.0.0.0
 eaereaper.ru A 0.0.0.0
+eajtech.com A 0.0.0.0
 easyhandshake.com A 0.0.0.0
 ec2-52-12-183-214.us-west-2.compute.amazonaws.com A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
@@ -2178,6 +2185,7 @@ home.basthorst.eu A 0.0.0.0
 home-bitteeinbyte.ddns.net A 0.0.0.0
 home.bitteeinbyte.de A 0.0.0.0
 home.bruckmoser.it A 0.0.0.0
+home.ddns.network A 0.0.0.0
 home.dlinkddns.com A 0.0.0.0
 homedns.gumeniuk.com A 0.0.0.0
 homeemoh.ddns.net A 0.0.0.0
@@ -2328,6 +2336,8 @@ kellerbier-home.de A 0.0.0.0
 kendentil.org.uk A 0.0.0.0
 kenit.me A 0.0.0.0
 kennethhuang.com A 0.0.0.0
+kent6.ajaest.net A 0.0.0.0
+kent6.dyn.ajaest.net A 0.0.0.0
 kerio.dns.amigo-mgn.ru A 0.0.0.0
 keymiagar.ir A 0.0.0.0
 khsan.com A 0.0.0.0
@@ -2860,6 +2870,7 @@ rgnet-iad.anycast.censurfridns.nu A 0.0.0.0
 rgnet-iad.anycast.uncensoreddns.dk A 0.0.0.0
 rgnet-iad.anycast.uncensoreddns.org A 0.0.0.0
 ricko.is A 0.0.0.0
+ric.openbld.net A 0.0.0.0
 rilaic-multi.daonidc.com A 0.0.0.0
 rin.sh A 0.0.0.0
 riverboat6228.ddns.net A 0.0.0.0
@@ -3032,6 +3043,7 @@ steering.nextdns.io A 0.0.0.0
 steff.sbs A 0.0.0.0
 storage.jjlizz.com A 0.0.0.0
 storydoh.kinergetica.com A 0.0.0.0
+strata.gurupannu.com A 0.0.0.0
 stream.securely.sh A 0.0.0.0
 streltsov.net A 0.0.0.0
 stuxen.duckdns.org A 0.0.0.0
@@ -3045,6 +3057,7 @@ svg33.eu A 0.0.0.0
 sv.oispace.eu.org A 0.0.0.0
 sweethome.in.eu.org A 0.0.0.0
 switch.ch A 0.0.0.0
+swoletux.ave.zone A 0.0.0.0
 syd1.norgannetworks.net.au A 0.0.0.0
 syd.adfilter.net A 0.0.0.0
 syd.core.access.zznet.fun A 0.0.0.0
@@ -3204,6 +3217,7 @@ v2.xx3210766.live A 0.0.0.0
 v3.passby.eu.org A 0.0.0.0
 v3.passby.ga A 0.0.0.0
 v6.rubyfish.cn A 0.0.0.0
+vador.sillundil.ovh A 0.0.0.0
 valis.sx A 0.0.0.0
 vallecerroazul.com A 0.0.0.0
 valleverde.icu A 0.0.0.0
@@ -3447,6 +3461,7 @@ yrc.synology.me A 0.0.0.0
 ys.cloud-sekeng.com A 0.0.0.0
 ytpom.tk A 0.0.0.0
 yuhui.tk A 0.0.0.0
+yumenashyi.tpddns.cn A 0.0.0.0
 yunyun.is.my.waifu.cz A 0.0.0.0
 yuripe.ccnt.fr A 0.0.0.0
 yvanliang.tech A 0.0.0.0
@@ -3465,4 +3480,4 @@ zougloub.eu A 0.0.0.0
 zrh1-ns01.monzoon.net A 0.0.0.0
 zxcvb.pp.ua A 0.0.0.0
 
-; md5: cf005c1a781191fd82bc3f9777457d61
+; md5: ffa92eb7d8e660b68127a9c134208cf0
