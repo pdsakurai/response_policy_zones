@@ -1,8 +1,8 @@
-; Last modified: 2023-08-30T01:25:55+08:00
+; Last modified: 2023-08-31T01:25:58+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308300125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308310125 86400 60 2592000 30
  IN NS localhost.
 
 003.tisyang.com A 0.0.0.0
@@ -423,6 +423,7 @@ akhil.ddns.net A 0.0.0.0
 akhilkalwakurthy.dyndns.org A 0.0.0.0
 akr177.com A 0.0.0.0
 akylah.zapto.org A 0.0.0.0
+aleafy.ddns.net A 0.0.0.0
 alexpollard.synology.me A 0.0.0.0
 alihk-dns.itbbs.org A 0.0.0.0
 a.lilinth.com A 0.0.0.0
@@ -2182,8 +2183,6 @@ home27.duckdns.org A 0.0.0.0
 home3.brosena.xyz A 0.0.0.0
 home.501w.net A 0.0.0.0
 home.basthorst.eu A 0.0.0.0
-home-bitteeinbyte.ddns.net A 0.0.0.0
-home.bitteeinbyte.de A 0.0.0.0
 home.bruckmoser.it A 0.0.0.0
 home.ddns.network A 0.0.0.0
 home.dlinkddns.com A 0.0.0.0
@@ -2372,6 +2371,7 @@ kr-sel.doh.sb A 0.0.0.0
 krtekvpn.duckdns.org A 0.0.0.0
 kr.telex.app A 0.0.0.0
 kr-x64-2.lov.host A 0.0.0.0
+ks1.plop.cc A 0.0.0.0
 k-s-edition.ru A 0.0.0.0
 ksedns.ru A 0.0.0.0
 kswro.web.id A 0.0.0.0
@@ -2743,7 +2743,6 @@ photo.dehb.ru A 0.0.0.0
 phucbui.top A 0.0.0.0
 pi1.node15.com A 0.0.0.0
 pi.daryllswer.net A 0.0.0.0
-piekacz.pl A 0.0.0.0
 pihole1.hoerli.net A 0.0.0.0
 pihole2.hoerli.net A 0.0.0.0
 pihole3.hoerli.net A 0.0.0.0
@@ -3461,7 +3460,6 @@ yrc.synology.me A 0.0.0.0
 ys.cloud-sekeng.com A 0.0.0.0
 ytpom.tk A 0.0.0.0
 yuhui.tk A 0.0.0.0
-yumenashyi.tpddns.cn A 0.0.0.0
 yunyun.is.my.waifu.cz A 0.0.0.0
 yuripe.ccnt.fr A 0.0.0.0
 yvanliang.tech A 0.0.0.0
@@ -3480,4 +3478,4 @@ zougloub.eu A 0.0.0.0
 zrh1-ns01.monzoon.net A 0.0.0.0
 zxcvb.pp.ua A 0.0.0.0
 
-; md5: ffa92eb7d8e660b68127a9c134208cf0
+; md5: 53031b8c0ae1e9af331f0b7019ae873f
