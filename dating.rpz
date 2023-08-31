@@ -1,8 +1,8 @@
-; Last modified: 2023-08-31T01:25:54+08:00
+; Last modified: 2023-09-01T01:25:43+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2308310125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309010125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -509,7 +509,6 @@ link.hinge.co A 0.0.0.0
 ablinks.mail.hinge.co A 0.0.0.0
 mailer.hinge.co A 0.0.0.0
 page.hinge.co A 0.0.0.0
-staging.hinge.co A 0.0.0.0
 www.hinge.co A 0.0.0.0
 luckyapp.co A 0.0.0.0
 mail.luckyapp.co A 0.0.0.0
@@ -4190,7 +4189,6 @@ pictureunstable-origin.c-date.com A 0.0.0.0
 proxy-fallback.c-date.com A 0.0.0.0
 px.c-date.com A 0.0.0.0
 res.c-date.com A 0.0.0.0
-ssl.c-date.com A 0.0.0.0
 api.stage.c-date.com A 0.0.0.0
 app2.stage.c-date.com A 0.0.0.0
 pic.stage.c-date.com A 0.0.0.0
@@ -18763,14 +18761,6 @@ auth.affinity.dating A 0.0.0.0
 email.affinity.dating A 0.0.0.0
 members.affinity.dating A 0.0.0.0
 www.affinity.dating A 0.0.0.0
-pashtun.afghan.dating A 0.0.0.0
-angola.africa.dating A 0.0.0.0
-botswana.africa.dating A 0.0.0.0
-casablanca.africa.dating A 0.0.0.0
-daressalaam.africa.dating A 0.0.0.0
-free.africa.dating A 0.0.0.0
-girls.africa.dating A 0.0.0.0
-senegal.africa.dating A 0.0.0.0
 agancy.dating A 0.0.0.0
 beta.agancy.dating A 0.0.0.0
 crm.agancy.dating A 0.0.0.0
@@ -19001,7 +18991,6 @@ bump.dating A 0.0.0.0
 bumpy.dating A 0.0.0.0
 api-dev.bumpy.dating A 0.0.0.0
 api-prod.bumpy.dating A 0.0.0.0
-api-v1.bumpy.dating A 0.0.0.0
 api-v2.bumpy.dating A 0.0.0.0
 api-v3.bumpy.dating A 0.0.0.0
 cdn.bumpy.dating A 0.0.0.0
@@ -19012,10 +19001,7 @@ files.bumpy.dating A 0.0.0.0
 fly-dev.bumpy.dating A 0.0.0.0
 fly-prod.bumpy.dating A 0.0.0.0
 fly-test.bumpy.dating A 0.0.0.0
-fly-v1.bumpy.dating A 0.0.0.0
 fly-v2.bumpy.dating A 0.0.0.0
-maintenance.bumpy.dating A 0.0.0.0
-partner.bumpy.dating A 0.0.0.0
 app.butterfly.dating A 0.0.0.0
 c-date.dating A 0.0.0.0
 www.c-date.dating A 0.0.0.0
@@ -21781,4 +21767,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: 4f5531b0aed31d293acd03f212d62bc2
+; md5: 1db6ae94c7eae246bc891264b90b5887
