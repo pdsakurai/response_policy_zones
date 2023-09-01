@@ -1,8 +1,8 @@
-; Last modified: 2023-09-01T01:25:45+08:00
+; Last modified: 2023-09-02T01:26:08+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309010125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309020126 86400 60 2592000 30
  IN NS localhost.
 
 003.tisyang.com A 0.0.0.0
@@ -10,14 +10,12 @@ $TTL 3600
 01qnpxtzym02adjlrcub03.sergeykobzar.com.ua A 0.0.0.0
 04qnpxtzym05adjlrcub06.sergeykobzar.com.ua A 0.0.0.0
 07qnpxtzym08adjlrcub09.sergeykobzar.com.ua A 0.0.0.0
-0ms.run A 0.0.0.0
 1001.cloudflare-dns.com A 0.0.0.0
 10qnpxtzym11adjlrcub12.sergeykobzar.com.ua A 0.0.0.0
 1.0rz.space A 0.0.0.0
 1111.cloudflare-dns.com A 0.0.0.0
 1.11i.eu A 0.0.0.0
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua A 0.0.0.0
-1438109-cc23219.tw1.ru A 0.0.0.0
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com A 0.0.0.0
 180.0rz.space A 0.0.0.0
 1and1-dns.de A 0.0.0.0
@@ -477,8 +475,6 @@ area51.mywire.org A 0.0.0.0
 arespctw.tk A 0.0.0.0
 argon.molinero.dev A 0.0.0.0
 arkadia100.pl A 0.0.0.0
-arm2.nzcow.com A 0.0.0.0
-arm3.nzcow.com A 0.0.0.0
 armorrush.eu.org A 0.0.0.0
 as17820865.click A 0.0.0.0
 a.safe.ns.dnslify.com A 0.0.0.0
@@ -505,7 +501,6 @@ au-syd.doh.sb A 0.0.0.0
 au-syd-w-2.nashkan.net A 0.0.0.0
 au-syd-w-3.nashkan.net A 0.0.0.0
 au.teradns.org A 0.0.0.0
-auth.phclinz.de A 0.0.0.0
 auto-cn-hk-8000.go-behind.one A 0.0.0.0
 autodiscover.elshad-adgh-dns.ru A 0.0.0.0
 autodiscover.promsdns.com A 0.0.0.0
@@ -705,7 +700,6 @@ d2.shabi.icu A 0.0.0.0
 d3.shabi.icu A 0.0.0.0
 d3.supremum.io A 0.0.0.0
 dac-one.nayemador.com A 0.0.0.0
-d.adguard-dns.com A 0.0.0.0
 daisukivn.asuscomm.com A 0.0.0.0
 dakulov.synology.me A 0.0.0.0
 dandelionsprout.asuscomm.com A 0.0.0.0
@@ -719,7 +713,6 @@ darya.persiannit.net A 0.0.0.0
 daswieddodeushtuhaw.xyz A 0.0.0.0
 davidcampos.duckdns.org A 0.0.0.0
 davidzeh.eu.org A 0.0.0.0
-dawnings.cn A 0.0.0.0
 dbbs.dns.databyte-network.com A 0.0.0.0
 dclab.live A 0.0.0.0
 ddd2.loukky.com A 0.0.0.0
@@ -1367,6 +1360,7 @@ dns.murgi.de A 0.0.0.0
 dns.murzyn.top A 0.0.0.0
 dns.muxinghe.cn A 0.0.0.0
 dns.myadguard.top A 0.0.0.0
+dns.mymanga.pro A 0.0.0.0
 dns.mysvc.de A 0.0.0.0
 dns.mzrme.cn A 0.0.0.0
 dns.n23.io A 0.0.0.0
@@ -1943,7 +1937,6 @@ dubere.home.ro A 0.0.0.0
 dub.r.rnet.ie A 0.0.0.0
 ducphuclee.tech A 0.0.0.0
 dukun.de A 0.0.0.0
-dumbledore.steinr.eu A 0.0.0.0
 dupatruwi22.fun A 0.0.0.0
 dus.ysbs.uk A 0.0.0.0
 duyyen.cf A 0.0.0.0
@@ -1957,7 +1950,6 @@ dyhw.ddns.net A 0.0.0.0
 dyn-ip.borjalopez.eu A 0.0.0.0
 ea-dns.rubyfish.cn A 0.0.0.0
 eaereaper.ru A 0.0.0.0
-eajtech.com A 0.0.0.0
 easyhandshake.com A 0.0.0.0
 ec2-52-12-183-214.us-west-2.compute.amazonaws.com A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
@@ -2298,7 +2290,6 @@ jp.68360612.xyz A 0.0.0.0
 jp-dns1.bancuh.com A 0.0.0.0
 jpdns.cola16.app A 0.0.0.0
 jp.dns.ikataruto.com A 0.0.0.0
-jpginformatica.com A 0.0.0.0
 jp.gridns.xyz A 0.0.0.0
 jp.hm3.day A 0.0.0.0
 jp.kano.sh A 0.0.0.0
@@ -2335,8 +2326,6 @@ kellerbier-home.de A 0.0.0.0
 kendentil.org.uk A 0.0.0.0
 kenit.me A 0.0.0.0
 kennethhuang.com A 0.0.0.0
-kent6.ajaest.net A 0.0.0.0
-kent6.dyn.ajaest.net A 0.0.0.0
 kerio.dns.amigo-mgn.ru A 0.0.0.0
 keymiagar.ir A 0.0.0.0
 khsan.com A 0.0.0.0
@@ -2742,6 +2731,7 @@ photo.dehb.ru A 0.0.0.0
 phucbui.top A 0.0.0.0
 pi1.node15.com A 0.0.0.0
 pi.daryllswer.net A 0.0.0.0
+piekacz.pl A 0.0.0.0
 pihole1.hoerli.net A 0.0.0.0
 pihole2.hoerli.net A 0.0.0.0
 pihole3.hoerli.net A 0.0.0.0
@@ -3041,7 +3031,6 @@ steering.nextdns.io A 0.0.0.0
 steff.sbs A 0.0.0.0
 storage.jjlizz.com A 0.0.0.0
 storydoh.kinergetica.com A 0.0.0.0
-strata.gurupannu.com A 0.0.0.0
 stream.securely.sh A 0.0.0.0
 streltsov.net A 0.0.0.0
 stuxen.duckdns.org A 0.0.0.0
@@ -3055,7 +3044,6 @@ svg33.eu A 0.0.0.0
 sv.oispace.eu.org A 0.0.0.0
 sweethome.in.eu.org A 0.0.0.0
 switch.ch A 0.0.0.0
-swoletux.ave.zone A 0.0.0.0
 syd1.norgannetworks.net.au A 0.0.0.0
 syd.adfilter.net A 0.0.0.0
 syd.core.access.zznet.fun A 0.0.0.0
@@ -3477,4 +3465,4 @@ zougloub.eu A 0.0.0.0
 zrh1-ns01.monzoon.net A 0.0.0.0
 zxcvb.pp.ua A 0.0.0.0
 
-; md5: 7b41298e68c9445b5c9889d5c92187d2
+; md5: 3456dcf8fae2b6fe243d556232c736ad

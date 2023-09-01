@@ -1,8 +1,8 @@
-; Last modified: 2023-09-01T01:25:43+08:00
+; Last modified: 2023-09-02T01:26:05+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309010125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309020126 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -478,6 +478,7 @@ staging.feeld.co A 0.0.0.0
 status.feeld.co A 0.0.0.0
 support.feeld.co A 0.0.0.0
 test-api.feeld.co A 0.0.0.0
+tools.feeld.co A 0.0.0.0
 uat-api.feeld.co A 0.0.0.0
 www.feeld.co A 0.0.0.0
 go3fun.co A 0.0.0.0
@@ -12167,6 +12168,7 @@ spam.loveawake.com A 0.0.0.0
 srv.loveawake.com A 0.0.0.0
 start.loveawake.com A 0.0.0.0
 store.loveawake.com A 0.0.0.0
+supervisor.loveawake.com A 0.0.0.0
 svn.loveawake.com A 0.0.0.0
 vmail.loveawake.com A 0.0.0.0
 vpn.loveawake.com A 0.0.0.0
@@ -18244,6 +18246,7 @@ dev.whappz.com A 0.0.0.0
 email.whappz.com A 0.0.0.0
 img.email.whappz.com A 0.0.0.0
 r.email.whappz.com A 0.0.0.0
+forms.whappz.com A 0.0.0.0
 go.whappz.com A 0.0.0.0
 prod.whappz.com A 0.0.0.0
 www.whappz.com A 0.0.0.0
@@ -19032,7 +19035,6 @@ www.cherish.dating A 0.0.0.0
 chinesewomen.dating A 0.0.0.0
 staging-steppyweb.chinesewomen.dating A 0.0.0.0
 www.christianity.dating A 0.0.0.0
-chs.dating A 0.0.0.0
 capetown.city.dating A 0.0.0.0
 www.capetown.city.dating A 0.0.0.0
 durban.city.dating A 0.0.0.0
@@ -19725,7 +19727,6 @@ app.meet.dating A 0.0.0.0
 www.meet.dating A 0.0.0.0
 meetcute.dating A 0.0.0.0
 www.meetcute.dating A 0.0.0.0
-meetville.dating A 0.0.0.0
 login.meetville.dating A 0.0.0.0
 www.login.meetville.dating A 0.0.0.0
 www.meetville.dating A 0.0.0.0
@@ -20238,10 +20239,6 @@ www.stake.dating A 0.0.0.0
 start.dating A 0.0.0.0
 www.start.dating A 0.0.0.0
 static.dating A 0.0.0.0
-std.dating A 0.0.0.0
-www.std.dating A 0.0.0.0
-sti.dating A 0.0.0.0
-www.sti.dating A 0.0.0.0
 stoney.dating A 0.0.0.0
 www.stoney.dating A 0.0.0.0
 strapon.dating A 0.0.0.0
@@ -21767,4 +21764,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: 1db6ae94c7eae246bc891264b90b5887
+; md5: 7d4030a74f86944bb3fc8062bef71da3
