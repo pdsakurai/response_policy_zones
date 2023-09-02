@@ -1,8 +1,8 @@
-; Last modified: 2023-09-02T01:26:05+08:00
+; Last modified: 2023-09-03T01:26:23+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309020126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309030126 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -18993,16 +18993,13 @@ brook.dating A 0.0.0.0
 bump.dating A 0.0.0.0
 bumpy.dating A 0.0.0.0
 api-dev.bumpy.dating A 0.0.0.0
-api-prod.bumpy.dating A 0.0.0.0
 api-v2.bumpy.dating A 0.0.0.0
 api-v3.bumpy.dating A 0.0.0.0
 cdn.bumpy.dating A 0.0.0.0
 crm.bumpy.dating A 0.0.0.0
 crm-dev.bumpy.dating A 0.0.0.0
-crm-prod.bumpy.dating A 0.0.0.0
 files.bumpy.dating A 0.0.0.0
 fly-dev.bumpy.dating A 0.0.0.0
-fly-prod.bumpy.dating A 0.0.0.0
 fly-test.bumpy.dating A 0.0.0.0
 fly-v2.bumpy.dating A 0.0.0.0
 app.butterfly.dating A 0.0.0.0
@@ -19727,9 +19724,6 @@ app.meet.dating A 0.0.0.0
 www.meet.dating A 0.0.0.0
 meetcute.dating A 0.0.0.0
 www.meetcute.dating A 0.0.0.0
-login.meetville.dating A 0.0.0.0
-www.login.meetville.dating A 0.0.0.0
-www.meetville.dating A 0.0.0.0
 immo.admin.apps.megusta.dating A 0.0.0.0
 pp-immo.admin.apps.megusta.dating A 0.0.0.0
 api.apps.megusta.dating A 0.0.0.0
@@ -21764,4 +21758,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: 7d4030a74f86944bb3fc8062bef71da3
+; md5: 0fb32527a7ee03db04a5d9912f95d456

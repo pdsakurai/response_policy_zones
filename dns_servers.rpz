@@ -1,8 +1,8 @@
-; Last modified: 2023-09-02T01:26:08+08:00
+; Last modified: 2023-09-03T01:26:26+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309020126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309030126 86400 60 2592000 30
  IN NS localhost.
 
 003.tisyang.com A 0.0.0.0
@@ -68,6 +68,7 @@ acomit.lk A 0.0.0.0
 ad1guard.duckdns.org A 0.0.0.0
 ad1.heronet.nl A 0.0.0.0
 ad2.heronet.nl A 0.0.0.0
+ad4msan.win A 0.0.0.0
 ad.aghaaliagha.tk A 0.0.0.0
 adampowell.pro A 0.0.0.0
 ada.openbld.net A 0.0.0.0
@@ -427,6 +428,7 @@ alihk-dns.itbbs.org A 0.0.0.0
 a.lilinth.com A 0.0.0.0
 alisa.dns.amigo-mgn.ru A 0.0.0.0
 alisa.fb.i81.ru A 0.0.0.0
+alisa.vd.i81.ru A 0.0.0.0
 alisa.vpn.i81.ru A 0.0.0.0
 all.dns.mullvad.net A 0.0.0.0
 alpha1.jnraptor.net A 0.0.0.0
@@ -435,6 +437,7 @@ alpha.rferee.dev A 0.0.0.0
 altvpn.ppm.mrhost.biz A 0.0.0.0
 amd1.sjp.loukky.com A 0.0.0.0
 amgr.ddns.net A 0.0.0.0
+amigo.vd.i81.ru A 0.0.0.0
 amigo.vpn.i81.ru A 0.0.0.0
 a.mole.cf A 0.0.0.0
 amz.long-nguyen.info A 0.0.0.0
@@ -846,6 +849,7 @@ dns2.art-nas.pp.ua A 0.0.0.0
 dns2.bai0012.com A 0.0.0.0
 dns2.biryuk.name A 0.0.0.0
 dns.2.bsh4.com A 0.0.0.0
+dns2.cantello.media A 0.0.0.0
 dns2.cbio.top A 0.0.0.0
 dns2.developer.li A 0.0.0.0
 dns2.digitale-gesellschaft.ch A 0.0.0.0
@@ -1156,6 +1160,7 @@ dnsforge.de A 0.0.0.0
 dns.foximao.cn A 0.0.0.0
 dns.frank-ruan.com A 0.0.0.0
 dns.frankychen.me A 0.0.0.0
+dns.freddys.my.id A 0.0.0.0
 dns.freegod.ml A 0.0.0.0
 dns-free.link A 0.0.0.0
 dns.freequensi.com A 0.0.0.0
@@ -1478,6 +1483,7 @@ dns.reckoningslug.name A 0.0.0.0
 dns.redroot.me A 0.0.0.0
 dns.repressoh.it A 0.0.0.0
 dns.req1.fr A 0.0.0.0
+dns-res-lux.jupitrdns.com A 0.0.0.0
 dns.retakecs.com A 0.0.0.0
 dns.rhscz.eu A 0.0.0.0
 dns.rin.sh A 0.0.0.0
@@ -1605,12 +1611,14 @@ dns.us-phoenix-1.oci.oraclecloud.net A 0.0.0.0
 dns.us-phoenix-1.oraclecloud.com A 0.0.0.0
 dns.vaguthu.mv A 0.0.0.0
 dns.vault-101.net A 0.0.0.0
+dns.vd.i81.ru A 0.0.0.0
 dns.vdl.io A 0.0.0.0
 dns.vectorsigma.ru A 0.0.0.0
 dns.venya.tech A 0.0.0.0
 dns.victorhachard.fr A 0.0.0.0
 dns.vietdns.vn A 0.0.0.0
 dns.vinnyp.xyz A 0.0.0.0
+dns.vinnyradev.com A 0.0.0.0
 dns.vinokurov.tk A 0.0.0.0
 dns.vishalk.com A 0.0.0.0
 dns.vk09.ru A 0.0.0.0
@@ -1664,6 +1672,7 @@ dns.zerologdns.com A 0.0.0.0
 dns.zfsystem.tech A 0.0.0.0
 dns.zion.dev A 0.0.0.0
 dns.zkz.cloud A 0.0.0.0
+dns.zrampage.xyz A 0.0.0.0
 dns.zxi7.cn A 0.0.0.0
 dns.zzuhacker.cn A 0.0.0.0
 dnx.niko-sem.com A 0.0.0.0
@@ -2020,6 +2029,7 @@ file.dehb.ru A 0.0.0.0
 filmgardi.ml A 0.0.0.0
 filter.chyperx.cc A 0.0.0.0
 filya.fb.i81.ru A 0.0.0.0
+filya.vd.i81.ru A 0.0.0.0
 findmethedns.info A 0.0.0.0
 firefox.dns.nextdns.io A 0.0.0.0
 firewall.darknet.bg A 0.0.0.0
@@ -2176,7 +2186,6 @@ home3.brosena.xyz A 0.0.0.0
 home.501w.net A 0.0.0.0
 home.basthorst.eu A 0.0.0.0
 home.bruckmoser.it A 0.0.0.0
-home.ddns.network A 0.0.0.0
 home.dlinkddns.com A 0.0.0.0
 homedns.gumeniuk.com A 0.0.0.0
 homeemoh.ddns.net A 0.0.0.0
@@ -2229,6 +2238,7 @@ ie-dub-w-1.nashkan.net A 0.0.0.0
 igor.bw.i81.ru A 0.0.0.0
 igor.dns.amigo-mgn.ru A 0.0.0.0
 igor.fb.i81.ru A 0.0.0.0
+igor.vd.i81.ru A 0.0.0.0
 igor.vpn.i81.ru A 0.0.0.0
 ihctw.synology.me A 0.0.0.0
 iij.jp A 0.0.0.0
@@ -2248,6 +2258,7 @@ interestingly.eu.org A 0.0.0.0
 internal.fcpsunleashed.org A 0.0.0.0
 internetsehat.bebasid.com A 0.0.0.0
 intertop.link A 0.0.0.0
+int.hverge.org A 0.0.0.0
 intranetv.duckdns.org A 0.0.0.0
 iofixdns2.duckdns.org A 0.0.0.0
 i.passcloud.xyz A 0.0.0.0
@@ -2313,6 +2324,7 @@ kaandikec.com A 0.0.0.0
 kaans.io A 0.0.0.0
 kaiser.int.eu.org A 0.0.0.0
 kaitain.restena.lu A 0.0.0.0
+kakoito.site A 0.0.0.0
 karimdns.com A 0.0.0.0
 kawaii.moeshop.online A 0.0.0.0
 kawpad.southeastasia.cloudapp.azure.com A 0.0.0.0
@@ -2344,6 +2356,7 @@ korzhov.dev A 0.0.0.0
 kotys.bw.i81.ru A 0.0.0.0
 kotys.dns.amigo-mgn.ru A 0.0.0.0
 kotys.fb.i81.ru A 0.0.0.0
+kotys.vd.i81.ru A 0.0.0.0
 kotys.vpn.i81.ru A 0.0.0.0
 kozak.ujwie.co A 0.0.0.0
 kr1.ooroot.com A 0.0.0.0
@@ -2360,6 +2373,7 @@ kr-sel.doh.sb A 0.0.0.0
 krtekvpn.duckdns.org A 0.0.0.0
 kr.telex.app A 0.0.0.0
 kr-x64-2.lov.host A 0.0.0.0
+ks1.plop.cc A 0.0.0.0
 k-s-edition.ru A 0.0.0.0
 ksedns.ru A 0.0.0.0
 kswro.web.id A 0.0.0.0
@@ -2386,6 +2400,7 @@ lekdijk.online A 0.0.0.0
 lelux.fi A 0.0.0.0
 lemonpiesite.duckdns.org A 0.0.0.0
 lena.fb.i81.ru A 0.0.0.0
+lena.vd.i81.ru A 0.0.0.0
 leochen-dns.ddns.net A 0.0.0.0
 levislondon-proxy.nerdpol.ovh A 0.0.0.0
 lf-ns-001.my.to A 0.0.0.0
@@ -2414,6 +2429,7 @@ lqh280.iok.la A 0.0.0.0
 lt-vil-w-2.nashkan.net A 0.0.0.0
 lt-vil-w-3.nashkan.net A 0.0.0.0
 luba.fb.i81.ru A 0.0.0.0
+luba.vd.i81.ru A 0.0.0.0
 luba.vpn.i81.ru A 0.0.0.0
 lux1.nixnet.xyz A 0.0.0.0
 lux.sn0w.nl A 0.0.0.0
@@ -2537,6 +2553,7 @@ nayemador.com A 0.0.0.0
 nd.nimbahanet.xyz A 0.0.0.0
 ndns.233py.com A 0.0.0.0
 neatdns.ustclug.org A 0.0.0.0
+nebula.neo7.kim A 0.0.0.0
 nebula.tru.io A 0.0.0.0
 neelhatesads.cf A 0.0.0.0
 neochronicles.live A 0.0.0.0
@@ -2563,6 +2580,7 @@ noadsapp.net A 0.0.0.0
 noads.cloud A 0.0.0.0
 noads.dns.vladpro.ru A 0.0.0.0
 noads.imbuffering.com A 0.0.0.0
+noads.vdl.io A 0.0.0.0
 node3.b4el.ru A 0.0.0.0
 nongdanthanky.com A 0.0.0.0
 no-osl-w-1.nashkan.net A 0.0.0.0
@@ -2658,6 +2676,7 @@ okijara.com A 0.0.0.0
 oko.haneulo.com A 0.0.0.0
 olga.dns.amigo-mgn.ru A 0.0.0.0
 olga.fb.i81.ru A 0.0.0.0
+olga.vd.i81.ru A 0.0.0.0
 olga.vpn.i81.ru A 0.0.0.0
 olivier-adguard.duckdns.org A 0.0.0.0
 one.nafni.one A 0.0.0.0
@@ -2731,7 +2750,6 @@ photo.dehb.ru A 0.0.0.0
 phucbui.top A 0.0.0.0
 pi1.node15.com A 0.0.0.0
 pi.daryllswer.net A 0.0.0.0
-piekacz.pl A 0.0.0.0
 pihole1.hoerli.net A 0.0.0.0
 pihole2.hoerli.net A 0.0.0.0
 pihole3.hoerli.net A 0.0.0.0
@@ -2984,7 +3002,6 @@ sin.core.access.zznet.fun A 0.0.0.0
 singapore.fuckll.com A 0.0.0.0
 sink.nolo.ltd A 0.0.0.0
 sip.amigo-mgn.ru A 0.0.0.0
-sips.my.id A 0.0.0.0
 sitdns.com A 0.0.0.0
 site-1.duckdns.org A 0.0.0.0
 site-2.duckdns.org A 0.0.0.0
@@ -3203,7 +3220,6 @@ v2.xx3210766.live A 0.0.0.0
 v3.passby.eu.org A 0.0.0.0
 v3.passby.ga A 0.0.0.0
 v6.rubyfish.cn A 0.0.0.0
-vador.sillundil.ovh A 0.0.0.0
 valis.sx A 0.0.0.0
 vallecerroazul.com A 0.0.0.0
 valleverde.icu A 0.0.0.0
@@ -3211,8 +3227,10 @@ vanced.ddns.net A 0.0.0.0
 vanced.racinas.com A 0.0.0.0
 varganet.org A 0.0.0.0
 vasya.fb.i81.ru A 0.0.0.0
+vasya.vd.i81.ru A 0.0.0.0
 vault.lisl.ink A 0.0.0.0
 vcdriy.top A 0.0.0.0
+vd.i81.ru A 0.0.0.0
 v.dnscrypt.uk A 0.0.0.0
 vdsina.ddns.net A 0.0.0.0
 victormdns.ddns.net A 0.0.0.0
@@ -3237,6 +3255,8 @@ vovadeti.fb.i81.ru A 0.0.0.0
 vova.fb.i81.ru A 0.0.0.0
 vovale.dns.amigo-mgn.ru A 0.0.0.0
 vovale.fb.i81.ru A 0.0.0.0
+vovale.vd.i81.ru A 0.0.0.0
+vova.vd.i81.ru A 0.0.0.0
 vova.vpn.i81.ru A 0.0.0.0
 vpn0109.voodonline.fr A 0.0.0.0
 vpn.adrielso.tec.br A 0.0.0.0
@@ -3301,6 +3321,7 @@ whitegeek.icu A 0.0.0.0
 wifi.dns.amigo-mgn.ru A 0.0.0.0
 wikipeter.me A 0.0.0.0
 win10virtual.fb.i81.ru A 0.0.0.0
+win10virtual.vd.i81.ru A 0.0.0.0
 win-d7snj2gu70b.duckdns.org A 0.0.0.0
 wir.rbs-net.ru A 0.0.0.0
 wmapi.cn A 0.0.0.0
@@ -3465,4 +3486,4 @@ zougloub.eu A 0.0.0.0
 zrh1-ns01.monzoon.net A 0.0.0.0
 zxcvb.pp.ua A 0.0.0.0
 
-; md5: 3456dcf8fae2b6fe243d556232c736ad
+; md5: 7a55c0ca15451e732904a8153e438a53
