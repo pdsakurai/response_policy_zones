@@ -1,8 +1,8 @@
-; Last modified: 2023-09-03T01:26:23+08:00
+; Last modified: 2023-09-04T02:11:36+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309030126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309040211 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -4278,6 +4278,7 @@ jf22-r37.cam4.com A 0.0.0.0
 ka.cam4.com A 0.0.0.0
 ko.cam4.com A 0.0.0.0
 ks.cam4.com A 0.0.0.0
+landers.cam4.com A 0.0.0.0
 lblw.cam4.com A 0.0.0.0
 links.cam4.com A 0.0.0.0
 logger007.cam4.com A 0.0.0.0
@@ -14437,6 +14438,7 @@ support.paltalk.com A 0.0.0.0
 sv.paltalk.com A 0.0.0.0
 technow.paltalk.com A 0.0.0.0
 tl.paltalk.com A 0.0.0.0
+tls.paltalk.com A 0.0.0.0
 tr.paltalk.com A 0.0.0.0
 upport.paltalk.com A 0.0.0.0
 vertising.paltalk.com A 0.0.0.0
@@ -21758,4 +21760,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: 0fb32527a7ee03db04a5d9912f95d456
+; md5: dec6c949533153111757146fec4c6a09
