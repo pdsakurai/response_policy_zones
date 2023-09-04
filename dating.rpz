@@ -1,8 +1,8 @@
-; Last modified: 2023-09-04T02:11:36+08:00
+; Last modified: 2023-09-05T01:25:43+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309040211 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309050125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -18984,7 +18984,6 @@ dashboard.breeze.dating A 0.0.0.0
 dashboard-old.breeze.dating A 0.0.0.0
 office.breeze.dating A 0.0.0.0
 partner.breeze.dating A 0.0.0.0
-www.bridge.dating A 0.0.0.0
 dhl.de.bright.dating A 0.0.0.0
 tracking.de.bright.dating A 0.0.0.0
 parcel.dhl-de.bright.dating A 0.0.0.0
@@ -21760,4 +21759,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: dec6c949533153111757146fec4c6a09
+; md5: 71de8da18942170440d88f38d389f506

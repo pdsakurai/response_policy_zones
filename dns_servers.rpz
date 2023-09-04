@@ -1,8 +1,8 @@
-; Last modified: 2023-09-04T02:11:38+08:00
+; Last modified: 2023-09-05T01:25:47+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309040211 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309050125 86400 60 2592000 30
  IN NS localhost.
 
 003.tisyang.com A 0.0.0.0
@@ -16,8 +16,6 @@ $TTL 3600
 1111.cloudflare-dns.com A 0.0.0.0
 1.11i.eu A 0.0.0.0
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua A 0.0.0.0
-15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com A 0.0.0.0
-180.0rz.space A 0.0.0.0
 1and1-dns.de A 0.0.0.0
 1a.ns.ozer.im A 0.0.0.0
 1b.ns.ozer.im A 0.0.0.0
@@ -1962,7 +1960,6 @@ d.wcguo.space A 0.0.0.0
 d.x2jz.cn A 0.0.0.0
 dycn.vip A 0.0.0.0
 dyhw.ddns.net A 0.0.0.0
-dyn-ip.borjalopez.eu A 0.0.0.0
 ea-dns.rubyfish.cn A 0.0.0.0
 eaereaper.ru A 0.0.0.0
 eajtech.com A 0.0.0.0
@@ -2088,7 +2085,6 @@ gaoadmin.win A 0.0.0.0
 garage.jjlizz.com A 0.0.0.0
 garanphomai.ga A 0.0.0.0
 gate.oliver-pietsch.de A 0.0.0.0
-gateway.baltes.info A 0.0.0.0
 gateway-el.cname.ustclug.org A 0.0.0.0
 gateway.fomichev.cloud A 0.0.0.0
 gateway.mcebox.com A 0.0.0.0
@@ -2703,7 +2699,6 @@ opennic.tenta.io A 0.0.0.0
 open-resolver1.unima.ac.id A 0.0.0.0
 opera.cloudflare-dns.com A 0.0.0.0
 ora1.nocnik.org A 0.0.0.0
-oracle2.herry.dev A 0.0.0.0
 oracle5.losfa.xyz A 0.0.0.0
 oracle6.losfa.xyz A 0.0.0.0
 oracle.cepheus0.com A 0.0.0.0
@@ -2784,7 +2779,6 @@ pluton.plan9-dns.com A 0.0.0.0
 pluton.plan9dns.com A 0.0.0.0
 pl-waw-w-1.nashkan.net A 0.0.0.0
 pl-waw-w-2.nashkan.net A 0.0.0.0
-polaris.mrmartian.co A 0.0.0.0
 pope.cnblw.me A 0.0.0.0
 pop.novacia.com.ua A 0.0.0.0
 portal.iddqd.uk A 0.0.0.0
@@ -3105,6 +3099,7 @@ testaghome.meshkov.info A 0.0.0.0
 testdjango.live A 0.0.0.0
 test.dnsteam.globuscs.info A 0.0.0.0
 test.fatucloud.gosprout.org A 0.0.0.0
+tezoi.duckdns.org A 0.0.0.0
 thanh933.cf A 0.0.0.0
 thanos.pleumkungz.com A 0.0.0.0
 thebeloveduck.duckdns.org A 0.0.0.0
@@ -3499,4 +3494,4 @@ zougloub.eu A 0.0.0.0
 zrh1-ns01.monzoon.net A 0.0.0.0
 zxcvb.pp.ua A 0.0.0.0
 
-; md5: e76f71ebeca6b1831b76fd7c853f4366
+; md5: 510b5bcf51881ccef8a7acb908707037
