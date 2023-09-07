@@ -1,8 +1,8 @@
-; Last modified: 2023-09-06T14:03:31+08:00
+; Last modified: 2023-09-08T01:25:34+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309061403 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309080125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -497,7 +497,6 @@ web2.go3fun.co CNAME .
 www.go3fun.co CNAME .
 hinge.co CNAME .
 app.hinge.co CNAME .
-assets.hinge.co CNAME .
 contact.hinge.co CNAME .
 email.hinge.co CNAME .
 click.email.hinge.co CNAME .
@@ -21755,4 +21754,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: 3da3d68f706a4fee698ff47dc954325d
+; md5: ee28c505470462f20f2e908725b3335a
