@@ -1,8 +1,8 @@
-; Last modified: 2023-09-08T01:25:34+08:00
+; Last modified: 2023-09-08T13:51:18+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309080125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309081351 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -16546,6 +16546,7 @@ web6730.stripchat.com CNAME .
 websocket.stripchat.com CNAME .
 white-label.stripchat.com CNAME .
 wiki.stripchat.com CNAME .
+ru.wiki.stripchat.com CNAME .
 wrw.stripchat.com CNAME .
 ww.stripchat.com CNAME .
 wws.stripchat.com CNAME .
@@ -20037,8 +20038,6 @@ www.ready.dating CNAME .
 real.dating CNAME .
 www.real.dating CNAME .
 reifes.dating CNAME .
-resume.dating CNAME .
-www.resume.dating CNAME .
 richguy.dating CNAME .
 richmen.dating CNAME .
 autodiscover.richmen.dating CNAME .
@@ -21754,4 +21753,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: ee28c505470462f20f2e908725b3335a
+; md5: 84f1ca50227c96c4397d1718769c3857
