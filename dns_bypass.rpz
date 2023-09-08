@@ -1,10 +1,10 @@
-; Last modified: 2023-09-08T13:51:18+08:00
+; Last modified: 2023-09-09T01:26:13+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 ; Source #2: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309081351 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309090126 86400 60 2592000 30
  IN NS localhost.
 
 0000a-fast-proxy.de CNAME .
@@ -2080,22 +2080,21 @@ dns1.steering.nextdns.io CNAME .
 funknetwork.com CNAME .
 ychen.cf CNAME .
 dns1.sytes.net CNAME .
-dns.youni.win CNAME .
-dns1.tardishost.ru CNAME .
 your-dns.run CNAME .
-dns1.taterdns.nl CNAME .
+dns1.tardishost.ru CNAME .
 yovbak.com CNAME .
+dns1.taterdns.nl CNAME .
 dns1.techeasy.org CNAME .
 gabstorm.com CNAME .
-dns.209.wf CNAME .
 doh.zephyrus.id CNAME .
-gamers-nor.com CNAME .
+dns.209.wf CNAME .
 dns.zfsystem.tech CNAME .
+gamers-nor.com CNAME .
+zougloub.eu CNAME .
 dns.23-4.cn CNAME .
 gamingssh.com CNAME .
-zougloub.eu CNAME .
-dns.240527.xyz CNAME .
 dns.zzuhacker.cn CNAME .
+dns.240527.xyz CNAME .
 dns.240601.xyz CNAME .
 gang4.info CNAME .
 dns2.adblocker.eu.org CNAME .
@@ -3247,6 +3246,7 @@ dns.yingroad.top CNAME .
 proxycloyd.com CNAME .
 dns.ymv8.cn CNAME .
 proxydrop.com CNAME .
+dns.youni.win CNAME .
 proxydude.faith CNAME .
 dns.ytpom.tk CNAME .
 proxydude.red CNAME .
@@ -4443,66 +4443,66 @@ youcanhide.net CNAME .
 maku-tech.com CNAME .
 youfreeproxytube.com CNAME .
 manage.fcpsunleashed.org CNAME .
-management.alexpollard.net CNAME .
 youproxytube.com CNAME .
+management.alexpollard.net CNAME .
 mana.harrache.info CNAME .
-marcrnt.ddnss.de CNAME .
 your-freedom.de CNAME .
-marginnote.ga CNAME .
+marcrnt.ddnss.de CNAME .
 yourcheat.com CNAME .
-markolll.ru CNAME .
+marginnote.ga CNAME .
 yourinternetproxy.info CNAME .
-mars.pccoach.nl CNAME .
+markolll.ru CNAME .
 yourvpn.info CNAME .
-mask-api.fe.apple-dns.net CNAME .
+mars.pccoach.nl CNAME .
 youtube-unblocker.com CNAME .
+mask-api.fe.apple-dns.net CNAME .
 youtubeunblocked.live CNAME .
 mask.apple-dns.net CNAME .
 yui.cat CNAME .
 yxorproxy.com CNAME .
 zacebookpk.com CNAME .
 mathease.cn CNAME .
-matrix.soeding.ddnss.de CNAME .
 zagbit.com CNAME .
-matthias-prost.com CNAME .
+matrix.soeding.ddnss.de CNAME .
 zalmos.com CNAME .
-matvey.dns.vladpro.ru CNAME .
+matthias-prost.com CNAME .
 zcoup.com CNAME .
-mavrikk.duckdns.org CNAME .
+matvey.dns.vladpro.ru CNAME .
 zen44.com CNAME .
+mavrikk.duckdns.org CNAME .
 zend2.com CNAME .
-max.sardinesindigo.cf CNAME .
 zendproxy.com CNAME .
-maye.ir CNAME .
+max.sardinesindigo.cf CNAME .
 zenmate.com CNAME .
-mbz.meudns.minhacasainteligente.cf CNAME .
+maye.ir CNAME .
 zenrows.com CNAME .
-mcptero.teunschrader.nl CNAME .
+mbz.meudns.minhacasainteligente.cf CNAME .
 zenvpn.net CNAME .
+mcptero.teunschrader.nl CNAME .
 mcttechs.com CNAME .
 megacodx.online CNAME .
-megumin.is.my.waifu.cz CNAME .
 zerotier.com CNAME .
-meiju444.tk CNAME .
+megumin.is.my.waifu.cz CNAME .
 zerotunnel.com CNAME .
+meiju444.tk CNAME .
 melbicom-server.site CNAME .
-meudns.minhacasainteligente.cf CNAME .
 zippyproxy.com CNAME .
-mg.zbr2464.buzz CNAME .
+meudns.minhacasainteligente.cf CNAME .
 zonevpn.com CNAME .
-mia.dns4sec.com CNAME .
+mg.zbr2464.buzz CNAME .
 zoogvpn.com CNAME .
-michiganska.com CNAME .
+mia.dns4sec.com CNAME .
 zorrovpn.io CNAME .
+michiganska.com CNAME .
 mikatos.de CNAME .
-mikewaddick.com CNAME .
 zpn.im CNAME .
-mimile.despagne.net CNAME .
+mikewaddick.com CNAME .
 zproxy.de CNAME .
-mimile.despagne.ovh CNAME .
+mimile.despagne.net CNAME .
 zscalertwo.net CNAME .
-mimir.netwerk.io CNAME .
+mimile.despagne.ovh CNAME .
 zwyr157wwiu6eior.com CNAME .
+mimir.netwerk.io CNAME .
 minilla.store CNAME .
 mkrepair.ddns.net CNAME .
 mo0on15.com CNAME .
@@ -5303,4 +5303,4 @@ zephyrus.id CNAME .
 zetland.rm-ni.uk CNAME .
 zh.sorannbb.buzz CNAME .
 
-; md5: f226187dc34587e21362f06ced556367
+; md5: 32effe55c55b073eedf729649ebe9dea

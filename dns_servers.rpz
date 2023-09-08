@@ -1,9 +1,9 @@
-; Last modified: 2023-09-08T13:51:17+08:00
+; Last modified: 2023-09-09T01:26:13+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 ; Source #2: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309081351 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309090126 86400 60 2592000 30
  IN NS localhost.
 
 ns.00dani.me CNAME .
@@ -1547,19 +1547,18 @@ lion.yazilimatolye.com CNAME .
 dns1.steering.nextdns.io CNAME .
 ychen.cf CNAME .
 dns1.sytes.net CNAME .
-dns.youni.win CNAME .
-dns1.tardishost.ru CNAME .
 your-dns.run CNAME .
-dns1.taterdns.nl CNAME .
+dns1.tardishost.ru CNAME .
 yovbak.com CNAME .
+dns1.taterdns.nl CNAME .
 dns1.techeasy.org CNAME .
-dns.209.wf CNAME .
 doh.zephyrus.id CNAME .
+dns.209.wf CNAME .
 dns.zfsystem.tech CNAME .
-dns.23-4.cn CNAME .
 zougloub.eu CNAME .
-dns.240527.xyz CNAME .
+dns.23-4.cn CNAME .
 dns.zzuhacker.cn CNAME .
+dns.240527.xyz CNAME .
 dns.240601.xyz CNAME .
 dns2.adblocker.eu.org CNAME .
 dns2.afastserver.com CNAME .
@@ -2140,6 +2139,7 @@ dns.yameenassotally.com CNAME .
 dns.ygonline.de CNAME .
 dns.yingroad.top CNAME .
 dns.ymv8.cn CNAME .
+dns.youni.win CNAME .
 dns.ytpom.tk CNAME .
 dns-yul.bastnet.co CNAME .
 dns.yumenashyi.com CNAME .
@@ -3513,4 +3513,4 @@ zephyrus.id CNAME .
 zetland.rm-ni.uk CNAME .
 zh.sorannbb.buzz CNAME .
 
-; md5: 569454dd14472b9c6baa1a52a92e930e
+; md5: 1de7b8564e495f68300167360d14dd38
