@@ -1,9 +1,9 @@
-; Last modified: 2023-09-09T01:26:13+08:00
+; Last modified: 2023-09-10T01:25:37+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 ; Source #2: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309090126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309100125 86400 60 2592000 30
  IN NS localhost.
 
 ns.00dani.me CNAME .
@@ -1482,82 +1482,83 @@ tlz.asia CNAME .
 dns03.almir1904.eu CNAME .
 d.toairs.com CNAME .
 nsc.torgues.net CNAME .
+dns.0.l.ovpn.bond CNAME .
 doh.totoro.pub CNAME .
-dns0.permafrostmiami.com CNAME .
 nebula.tru.io CNAME .
-dns0.tardishost.ru CNAME .
+dns0.permafrostmiami.com CNAME .
 dns.truong.fi CNAME .
+dns0.tardishost.ru CNAME .
 doh.ibr.cs.tu-bs.de CNAME .
 nat64.tuxis.nl CNAME .
-dns.123099.xyz CNAME .
 dns.twnic.tw CNAME .
+dns.123099.xyz CNAME .
 typaza.com CNAME .
-dns140.zhhz.cc CNAME .
 dns.umbrella.com CNAME .
+dns140.zhhz.cc CNAME .
 dns168.zhhz.cc CNAME .
 dns.1833015459.site CNAME .
 dns.193.gs CNAME .
-dns1.a-desg.cc CNAME .
 kracon.anycast.uncensoreddns.org CNAME .
-dns1.adrianion.eu CNAME .
+dns1.a-desg.cc CNAME .
 rgnet-iad.anycast.uncensoreddns.org CNAME .
-dns1.afastserver.com CNAME .
+dns1.adrianion.eu CNAME .
 unicast.uncensoreddns.org CNAME .
-dns1.biryuk.name CNAME .
+dns1.afastserver.com CNAME .
 dns.unerror.network CNAME .
-dns.1.bsh4.com CNAME .
+dns1.biryuk.name CNAME .
 ines.zfn.uni-bremen.de CNAME .
-dns1.burtnet.xyz CNAME .
+dns.1.bsh4.com CNAME .
 galileo.math.unipd.it CNAME .
+dns1.burtnet.xyz CNAME .
 resolver.unstoppable.io CNAME .
 use-application-dns.net CNAME .
-dns1.idsam.com CNAME .
 neatdns.ustclug.org CNAME .
+dns1.idsam.com CNAME .
 tor.vasi.li CNAME .
 securedns.vendorvista.xyz CNAME .
 dns.vinnyp.xyz CNAME .
-dns1.klcd.eu CNAME .
 dns.vinokurov.tk CNAME .
+dns1.klcd.eu CNAME .
 dns-1.lostvpn.ru CNAME .
-dns1.luan.contact CNAME .
 dns.wakgood.net CNAME .
-dns1.n3120.wang CNAME .
+dns1.luan.contact CNAME .
 wantaquddin.com CNAME .
+dns1.n3120.wang CNAME .
 dns1.newapi.host CNAME .
 dns.warpnine.de CNAME .
-dns1.nielsdb.be CNAME .
 doh.this.web.id CNAME .
-dns1.niub.one CNAME .
+dns1.nielsdb.be CNAME .
 doh.wewitro.net CNAME .
+dns1.niub.one CNAME .
 dns1.permafrostmiami.com CNAME .
-dns1.pietjacobs.be CNAME .
 wyx.cloud CNAME .
-dns1.quickline.ch CNAME .
+dns1.pietjacobs.be CNAME .
 doh.xcom.pro CNAME .
+dns1.quickline.ch CNAME .
 xenergy.cc CNAME .
-dns1.ryanpalmer.com CNAME .
 doh.xfinity.com CNAME .
-dns1.sarak.as CNAME .
+dns1.ryanpalmer.com CNAME .
 dot.xfinity.com CNAME .
-dns1.sarakas.net CNAME .
+dns1.sarak.as CNAME .
 doh2.gslb2.xfinity.com CNAME .
+dns1.sarakas.net CNAME .
 dns1-secure.wifire.it CNAME .
-dns1.slvrsrvr.de CNAME .
 lion.yazilimatolye.com CNAME .
-dns1.steering.nextdns.io CNAME .
+dns1.slvrsrvr.de CNAME .
 ychen.cf CNAME .
-dns1.sytes.net CNAME .
+dns1.steering.nextdns.io CNAME .
 your-dns.run CNAME .
-dns1.tardishost.ru CNAME .
+dns1.sytes.net CNAME .
 yovbak.com CNAME .
+dns1.tardishost.ru CNAME .
 dns1.taterdns.nl CNAME .
-dns1.techeasy.org CNAME .
 doh.zephyrus.id CNAME .
+dns1.techeasy.org CNAME .
 dns.209.wf CNAME .
 dns.zfsystem.tech CNAME .
 zougloub.eu CNAME .
-dns.23-4.cn CNAME .
 dns.zzuhacker.cn CNAME .
+dns.23-4.cn CNAME .
 dns.240527.xyz CNAME .
 dns.240601.xyz CNAME .
 dns2.adblocker.eu.org CNAME .
@@ -2155,6 +2156,7 @@ dns.zrampage.xyz CNAME .
 dns.zxi7.cn CNAME .
 dnx.niko-sem.com CNAME .
 dnx.tttpai.com CNAME .
+dnx.tttpai.com.w.kunlunaq.com CNAME .
 docker-hub.ir CNAME .
 dockernet.vpsburti.com CNAME .
 doctorbrobotnik.com CNAME .
@@ -2879,6 +2881,7 @@ outie.8ws.net CNAME .
 outiejr.8ws.net CNAME .
 overwatch.ddns.net CNAME .
 ovh.panszelescik.pl CNAME .
+ovpn.bond CNAME .
 owa.elshad-adgh-dns.ru CNAME .
 owa.promsdns.com CNAME .
 p549314cd.dip0.t-ipconnect.de CNAME .
@@ -3014,7 +3017,6 @@ ru-mos-w-1.nashkan.net CNAME .
 ru-mos-w-2.nashkan.net CNAME .
 s.101818.xyz CNAME .
 s1.soft88.click CNAME .
-s3cure.us CNAME .
 s.960423.xyz CNAME .
 sabeendns.hopto.org CNAME .
 safe.kswro.web.id CNAME .
@@ -3364,6 +3366,7 @@ wg.req1.fr CNAME .
 whax.eu.org CNAME .
 whitegeek.icu CNAME .
 wifi.dns.amigo-mgn.ru CNAME .
+wikimedia-dns.org CNAME .
 wikipeter.me CNAME .
 win10virtual.fb.i81.ru CNAME .
 win10virtual.vd.i81.ru CNAME .
@@ -3513,4 +3516,4 @@ zephyrus.id CNAME .
 zetland.rm-ni.uk CNAME .
 zh.sorannbb.buzz CNAME .
 
-; md5: 1de7b8564e495f68300167360d14dd38
+; md5: e33dbf017cc43c1c836d22308ce2004b

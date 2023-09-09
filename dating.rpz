@@ -1,8 +1,8 @@
-; Last modified: 2023-09-08T13:51:18+08:00
+; Last modified: 2023-09-10T01:25:40+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309081351 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309100125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -17558,7 +17558,6 @@ staging-register.theleague.com CNAME .
 static-test.theleague.com CNAME .
 terms.theleague.com CNAME .
 test.theleague.com CNAME .
-tzngrok.theleague.com CNAME .
 url2410.theleague.com CNAME .
 url7876.theleague.com CNAME .
 w.theleague.com CNAME .
@@ -18988,7 +18987,6 @@ bro.dating CNAME .
 mail.bro.dating CNAME .
 www.bro.dating CNAME .
 brook.dating CNAME .
-bump.dating CNAME .
 bumpy.dating CNAME .
 api-dev.bumpy.dating CNAME .
 api-v2.bumpy.dating CNAME .
@@ -19537,8 +19535,6 @@ intersex.dating CNAME .
 www.intersex.dating CNAME .
 intrigue.dating CNAME .
 introvert.dating CNAME .
-introverts.dating CNAME .
-www.introverts.dating CNAME .
 m.invite.dating CNAME .
 www.iou.dating CNAME .
 ru.its.dating CNAME .
@@ -21753,4 +21749,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: 84f1ca50227c96c4397d1718769c3857
+; md5: 4ef634b506d251f6f0ace6e555cfba4d
