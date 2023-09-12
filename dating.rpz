@@ -1,8 +1,8 @@
-; Last modified: 2023-09-12T01:25:31+08:00
+; Last modified: 2023-09-13T01:25:42+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309120125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309130125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -10435,8 +10435,13 @@ api.gogaper.com CNAME .
 ws.gogaper.com CNAME .
 www.gogaper.com CNAME .
 gotabuu.com CNAME .
+cpanel.gotabuu.com CNAME .
+cpcalendars.gotabuu.com CNAME .
+cpcontacts.gotabuu.com CNAME .
 ftp.gotabuu.com CNAME .
 mail.gotabuu.com CNAME .
+webdisk.gotabuu.com CNAME .
+webmail.gotabuu.com CNAME .
 www.gotabuu.com CNAME .
 gotinder.com CNAME .
 account.gotinder.com CNAME .
@@ -16402,6 +16407,7 @@ ns1.speedmiamidating.com CNAME .
 smtp3.speedmiamidating.com CNAME .
 www.speedmiamidating.com CNAME .
 spicymatch.com CNAME .
+cdn.spicymatch.com CNAME .
 cs.spicymatch.com CNAME .
 cz.spicymatch.com CNAME .
 de.spicymatch.com CNAME .
@@ -21775,4 +21781,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: 2622669221848e5e834e65dcb1e62f86
+; md5: d87a02bda7dda5365e7334256fcd235f
