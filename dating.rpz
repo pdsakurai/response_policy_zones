@@ -1,8 +1,8 @@
-; Last modified: 2023-09-13T01:25:42+08:00
+; Last modified: 2023-09-14T02:29:00+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309130125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309140229 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -19579,7 +19579,6 @@ singlestore.jigsaw.dating CNAME .
 test.jigsaw.dating CNAME .
 tiktok.jigsaw.dating CNAME .
 uat.jigsaw.dating CNAME .
-uat-api-load-balancer.jigsaw.dating CNAME .
 youtube.jigsaw.dating CNAME .
 job.dating CNAME .
 jobspeed.dating CNAME .
@@ -20370,7 +20369,6 @@ ucme.dating CNAME .
 uforpligtende.dating CNAME .
 uk-online.dating CNAME .
 ukr.dating CNAME .
-ukrainiangirl.dating CNAME .
 ulive.dating CNAME .
 unicorn.dating CNAME .
 www.unicorn.dating CNAME .
@@ -21781,4 +21779,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: d87a02bda7dda5365e7334256fcd235f
+; md5: 01a255c3482f66be58c5774b369643e5
