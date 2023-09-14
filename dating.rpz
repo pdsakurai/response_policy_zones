@@ -1,8 +1,8 @@
-; Last modified: 2023-09-14T02:29:00+08:00
+; Last modified: 2023-09-15T01:25:41+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309140229 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309150125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -10950,12 +10950,10 @@ appbosh25.imlive.com CNAME .
 appbosh26.imlive.com CNAME .
 appboshcd1.imlive.com CNAME .
 appboshcd8.imlive.com CNAME .
-apprt1.imlive.com CNAME .
 appsrv.imlive.com CNAME .
 appsrv20.imlive.com CNAME .
 appsrv21.imlive.com CNAME .
 appsrv23.imlive.com CNAME .
-appsrv96.imlive.com CNAME .
 appsrv99.imlive.com CNAME .
 ar.imlive.com CNAME .
 artmusic.imlive.com CNAME .
@@ -10973,9 +10971,7 @@ fetish.imlive.com CNAME .
 flashsync.imlive.com CNAME .
 gallery.imlive.com CNAME .
 gay.imlive.com CNAME .
-google.imlive.com CNAME .
 gr.imlive.com CNAME .
-graphics.imlive.com CNAME .
 healthmedicine.imlive.com CNAME .
 host.imlive.com CNAME .
 host77.imlive.com CNAME .
@@ -10988,7 +10984,6 @@ i21.imlive.com CNAME .
 i3.imlive.com CNAME .
 i7.imlive.com CNAME .
 i8.imlive.com CNAME .
-im2.imlive.com CNAME .
 images.imlive.com CNAME .
 jp.imlive.com CNAME .
 lang.imlive.com CNAME .
@@ -10998,24 +10993,15 @@ lesbian.imlive.com CNAME .
 liveconsole.imlive.com CNAME .
 lp.imlive.com CNAME .
 m.imlive.com CNAME .
-mailer.imlive.com CNAME .
 media.imlive.com CNAME .
-media2.imlive.com CNAME .
 messagecenter.imlive.com CNAME .
 milf.imlive.com CNAME .
-mobile.imlive.com CNAME .
-mx10.imlive.com CNAME .
-mx2.imlive.com CNAME .
-mx20.imlive.com CNAME .
-mx4.imlive.com CNAME .
-mx5.imlive.com CNAME .
 mysticism.imlive.com CNAME .
 new.imlive.com CNAME .
 ngs.imlive.com CNAME .
 ngs2.imlive.com CNAME .
 nl.imlive.com CNAME .
 nms.imlive.com CNAME .
-ny-mail.imlive.com CNAME .
 old.imlive.com CNAME .
 panel.imlive.com CNAME .
 partners.imlive.com CNAME .
@@ -19575,7 +19561,6 @@ join.jigsaw.dating CNAME .
 kickstarter.jigsaw.dating CNAME .
 prod.jigsaw.dating CNAME .
 prod-lb.jigsaw.dating CNAME .
-singlestore.jigsaw.dating CNAME .
 test.jigsaw.dating CNAME .
 tiktok.jigsaw.dating CNAME .
 uat.jigsaw.dating CNAME .
@@ -21779,4 +21764,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: 01a255c3482f66be58c5774b369643e5
+; md5: 812254175931a03a765c90e2d1ff26d3

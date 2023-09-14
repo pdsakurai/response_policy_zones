@@ -1,8 +1,8 @@
-; Last modified: 2023-09-10T01:25:39+08:00
+; Last modified: 2023-09-15T01:25:41+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309100125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309150125 86400 60 2592000 30
  IN NS localhost.
 
 qalerts.app CNAME .
@@ -1289,12 +1289,10 @@ cpanel.nationalpolicy.institute CNAME .
 webdisk.nationalpolicy.institute CNAME .
 webmail.nationalpolicy.institute CNAME .
 www.nationalpolicy.institute CNAME .
-qresearch.it CNAME .
 ftp.qresearch.it CNAME .
 mail.qresearch.it CNAME .
 mx.qresearch.it CNAME .
 webmail.qresearch.it CNAME .
-www.qresearch.it CNAME .
 afa.net CNAME .
 activate.afa.net CNAME .
 admin.afa.net CNAME .
@@ -2133,4 +2131,4 @@ ww25.wearethene.ws CNAME .
 ww38.wearethene.ws CNAME .
 www.wearethene.ws CNAME .
 
-; md5: 43a6aad169354c949820508893c092f0
+; md5: c58757ef2ed3e513661aa338cfae2ac9
