@@ -1,8 +1,8 @@
-; Last modified: 2023-09-15T01:25:41+08:00
+; Last modified: 2023-09-16T01:25:45+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309150125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309160125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -5468,6 +5468,7 @@ dev-relay.christiancafe.com CNAME .
 image.christiancafe.com CNAME .
 images.christiancafe.com CNAME .
 legacy-admin.christiancafe.com CNAME .
+marketing.christiancafe.com CNAME .
 new.christiancafe.com CNAME .
 old.christiancafe.com CNAME .
 optout.christiancafe.com CNAME .
@@ -12297,6 +12298,7 @@ lumasearch.com CNAME .
 staging10.lumasearch.com CNAME .
 staging11.lumasearch.com CNAME .
 staging12.lumasearch.com CNAME .
+staging13.lumasearch.com CNAME .
 www.lumasearch.com CNAME .
 luvfree.com CNAME .
 ftp.luvfree.com CNAME .
@@ -21764,4 +21766,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: 812254175931a03a765c90e2d1ff26d3
+; md5: e3105c50afdc00910dc38c49a9d8957b
