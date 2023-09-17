@@ -1,8 +1,8 @@
-; Last modified: 2023-09-16T01:25:45+08:00
+; Last modified: 2023-09-18T01:25:38+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309160125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309180125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -1002,6 +1002,7 @@ api-sandbox.adultwork.com CNAME .
 av.adultwork.com CNAME .
 bbw.adultwork.com CNAME .
 blogs.adultwork.com CNAME .
+bookings.adultwork.com CNAME .
 busty.adultwork.com CNAME .
 c40.adultwork.com CNAME .
 cdn.adultwork.com CNAME .
@@ -1022,6 +1023,7 @@ cx.adultwork.com CNAME .
 devadmin.adultwork.com CNAME .
 developers.adultwork.com CNAME .
 devtest.adultwork.com CNAME .
+devtest2.adultwork.com CNAME .
 dt-img.adultwork.com CNAME .
 dt-ty1.adultwork.com CNAME .
 dt-ty2.adultwork.com CNAME .
@@ -1037,6 +1039,7 @@ errlog.adultwork.com CNAME .
 escorts.adultwork.com CNAME .
 finest.adultwork.com CNAME .
 forsale.adultwork.com CNAME .
+gods.adultwork.com CNAME .
 groups.adultwork.com CNAME .
 help.adultwork.com CNAME .
 hooks.adultwork.com CNAME .
@@ -3546,6 +3549,7 @@ albany.bonepage.com CNAME .
 alberta.bonepage.com CNAME .
 albuquerque.bonepage.com CNAME .
 allentown.bonepage.com CNAME .
+alt.bonepage.com CNAME .
 altoona-johnstown.bonepage.com CNAME .
 amarillo.bonepage.com CNAME .
 ames.bonepage.com CNAME .
@@ -4178,8 +4182,6 @@ app2.c-date.com CNAME .
 au.c-date.com CNAME .
 cmail.c-date.com CNAME .
 es.c-date.com CNAME .
-test.es.c-date.com CNAME .
-unstable.es.c-date.com CNAME .
 mail.c-date.com CNAME .
 mail01.c-date.com CNAME .
 picture.c-date.com CNAME .
@@ -11797,7 +11799,6 @@ mobile.lifestylelounge.com CNAME .
 services.lifestylelounge.com CNAME .
 sgchat.lifestylelounge.com CNAME .
 sgdb1.lifestylelounge.com CNAME .
-sgweb4.lifestylelounge.com CNAME .
 smtp.lifestylelounge.com CNAME .
 v2.lifestylelounge.com CNAME .
 www.lifestylelounge.com CNAME .
@@ -17297,7 +17298,6 @@ moderator.taimi.com CNAME .
 n.taimi.com CNAME .
 static.taimi.com CNAME .
 track.taimi.com CNAME .
-trail.taimi.com CNAME .
 web.taimi.com CNAME .
 web2.taimi.com CNAME .
 webstorage.taimi.com CNAME .
@@ -17536,7 +17536,6 @@ click.theleague.com CNAME .
 em.theleague.com CNAME .
 helper.theleague.com CNAME .
 i.theleague.com CNAME .
-jira.theleague.com CNAME .
 jobs.theleague.com CNAME .
 join.theleague.com CNAME .
 l.theleague.com CNAME .
@@ -19548,25 +19547,17 @@ www.iou.dating CNAME .
 ru.its.dating CNAME .
 jigsaw.dating CNAME .
 cdn.jigsaw.dating CNAME .
-collab.jigsaw.dating CNAME .
 deeplinker.jigsaw.dating CNAME .
 dev.jigsaw.dating CNAME .
-feedback.jigsaw.dating CNAME .
-giphy.jigsaw.dating CNAME .
-global.jigsaw.dating CNAME .
-insta.jigsaw.dating CNAME .
 jigdash.jigsaw.dating CNAME .
 jigdash-dev.jigsaw.dating CNAME .
 jigdash-uat.jigsaw.dating CNAME .
 jobs.jigsaw.dating CNAME .
-join.jigsaw.dating CNAME .
 kickstarter.jigsaw.dating CNAME .
 prod.jigsaw.dating CNAME .
 prod-lb.jigsaw.dating CNAME .
 test.jigsaw.dating CNAME .
-tiktok.jigsaw.dating CNAME .
 uat.jigsaw.dating CNAME .
-youtube.jigsaw.dating CNAME .
 job.dating CNAME .
 jobspeed.dating CNAME .
 app.jobspeed.dating CNAME .
@@ -21766,4 +21757,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: e3105c50afdc00910dc38c49a9d8957b
+; md5: cec39a41d4ddd2b08d1dbd6092fec63f
