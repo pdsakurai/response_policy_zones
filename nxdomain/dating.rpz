@@ -1,8 +1,8 @@
-; Last modified: 2023-09-18T01:25:38+08:00
+; Last modified: 2023-09-18T12:41:11+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309180125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309181241 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -12119,6 +12119,7 @@ mailsrv.loveawake.com CNAME .
 ms.loveawake.com CNAME .
 ms1.loveawake.com CNAME .
 mta.loveawake.com CNAME .
+munin.loveawake.com CNAME .
 mx.loveawake.com CNAME .
 mx02.loveawake.com CNAME .
 mx10.loveawake.com CNAME .
@@ -21757,4 +21758,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: cec39a41d4ddd2b08d1dbd6092fec63f
+; md5: b8e19598cc07458055c4ff6d0f549fbf
