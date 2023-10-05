@@ -1,8 +1,8 @@
-; Last modified: 2023-09-18T12:41:11+08:00
+; Last modified: 2023-10-05T08:24:59+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309181241 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310050824 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -996,6 +996,7 @@ zmail.adultsearch.com CNAME .
 zw.adultsearch.com CNAME .
 adultwork.com CNAME .
 2fwww.adultwork.com CNAME .
+accounts.adultwork.com CNAME .
 admin.adultwork.com CNAME .
 api.adultwork.com CNAME .
 api-sandbox.adultwork.com CNAME .
@@ -1348,21 +1349,7 @@ staging.allmale.com CNAME .
 track.allmale.com CNAME .
 www.allmale.com CNAME .
 allonlinedatingsites.com CNAME .
-all.allonlinedatingsites.com CNAME .
-anvandatrosor.allonlinedatingsites.com CNAME .
-autodiscover.allonlinedatingsites.com CNAME .
-bringitonline.allonlinedatingsites.com CNAME .
-cpanel.allonlinedatingsites.com CNAME .
-cpcalendars.allonlinedatingsites.com CNAME .
-cpcontacts.allonlinedatingsites.com CNAME .
 mail.allonlinedatingsites.com CNAME .
-minanakenbilder.allonlinedatingsites.com CNAME .
-minenakenbilder.allonlinedatingsites.com CNAME .
-www.minenakenbilder.allonlinedatingsites.com CNAME .
-ns1.allonlinedatingsites.com CNAME .
-ns2.allonlinedatingsites.com CNAME .
-webdisk.allonlinedatingsites.com CNAME .
-webmail.allonlinedatingsites.com CNAME .
 www.allonlinedatingsites.com CNAME .
 allureslifestyle.com CNAME .
 ftp.allureslifestyle.com CNAME .
@@ -2355,6 +2342,7 @@ res.be2.com CNAME .
 api.stage.be2.com CNAME .
 app.stage.be2.com CNAME .
 app2.stage.be2.com CNAME .
+payment.stage.be2.com CNAME .
 pic.stage.be2.com CNAME .
 static.be2.com CNAME .
 static-origin.be2.com CNAME .
@@ -3485,6 +3473,7 @@ shop.blk-app.com CNAME .
 www.blk-app.com CNAME .
 blossoms.com CNAME .
 1222.blossoms.com CNAME .
+a.blossoms.com CNAME .
 af.blossoms.com CNAME .
 amazon.blossoms.com CNAME .
 api.blossoms.com CNAME .
@@ -3524,6 +3513,7 @@ travel.blossoms.com CNAME .
 upload.blossoms.com CNAME .
 uploadaws.blossoms.com CNAME .
 uploadsg.blossoms.com CNAME .
+web2.blossoms.com CNAME .
 web4.blossoms.com CNAME .
 web5.blossoms.com CNAME .
 web6.blossoms.com CNAME .
@@ -4193,6 +4183,7 @@ px.c-date.com CNAME .
 res.c-date.com CNAME .
 api.stage.c-date.com CNAME .
 app2.stage.c-date.com CNAME .
+payment.stage.c-date.com CNAME .
 pic.stage.c-date.com CNAME .
 static.c-date.com CNAME .
 static-origin.c-date.com CNAME .
@@ -6952,6 +6943,7 @@ mods.doublelist.com CNAME .
 mods-stg.doublelist.com CNAME .
 pics.doublelist.com CNAME .
 staging.doublelist.com CNAME .
+staging-api.doublelist.com CNAME .
 webmail.doublelist.com CNAME .
 www.doublelist.com CNAME .
 doulike.com CNAME .
@@ -10956,7 +10948,6 @@ appboshcd8.imlive.com CNAME .
 appsrv.imlive.com CNAME .
 appsrv20.imlive.com CNAME .
 appsrv21.imlive.com CNAME .
-appsrv23.imlive.com CNAME .
 appsrv99.imlive.com CNAME .
 ar.imlive.com CNAME .
 artmusic.imlive.com CNAME .
@@ -11434,51 +11425,9 @@ ns4.joingy.com CNAME .
 peer.joingy.com CNAME .
 www.joingy.com CNAME .
 jpeoplemeet.com CNAME .
-037topcovid19f5.jpeoplemeet.com CNAME .
-037topcovid19mailer.jpeoplemeet.com CNAME .
-037topcovid19star.jpeoplemeet.com CNAME .
-1017covid19.jpeoplemeet.com CNAME .
-1grtopcovid19.jpeoplemeet.com CNAME .
-5037topcovid19.jpeoplemeet.com CNAME .
-7k9topcovid19.jpeoplemeet.com CNAME .
-9vxtopcovid19.jpeoplemeet.com CNAME .
-a-distance-2.jpeoplemeet.com CNAME .
 personals.aol.jpeoplemeet.com CNAME .
-blackvirus.jpeoplemeet.com CNAME .
-cobidb-poc.jpeoplemeet.com CNAME .
-corona.jpeoplemeet.com CNAME .
-corona-california.jpeoplemeet.com CNAME .
-corona84.jpeoplemeet.com CNAME .
-covid19.jpeoplemeet.com CNAME .
-covideo-isus.jpeoplemeet.com CNAME .
-dev-masks.jpeoplemeet.com CNAME .
-devcorona.jpeoplemeet.com CNAME .
-distancelearnpre.jpeoplemeet.com CNAME .
-ecovidrio.jpeoplemeet.com CNAME .
-facemaskpro.jpeoplemeet.com CNAME .
 help.jpeoplemeet.com CNAME .
-kfcoronacpa.jpeoplemeet.com CNAME .
-lockdown.jpeoplemeet.com CNAME .
-maintenance-037topcovid19.jpeoplemeet.com CNAME .
-maskman.jpeoplemeet.com CNAME .
-maskyoo.jpeoplemeet.com CNAME .
-quarantine-tst-its.jpeoplemeet.com CNAME .
-sa.jpeoplemeet.com CNAME .
-sa-discovidev.jpeoplemeet.com CNAME .
-sugarkvirus.jpeoplemeet.com CNAME .
-target-aolmaska.jpeoplemeet.com CNAME .
-teeka.jpeoplemeet.com CNAME .
-tlw-quarantine1.jpeoplemeet.com CNAME .
-uat-vaccines.jpeoplemeet.com CNAME .
-v-corona-is.jpeoplemeet.com CNAME .
-vaccinetracker-qa.jpeoplemeet.com CNAME .
-vaccinetracker-qa00.jpeoplemeet.com CNAME .
-virus0316com.jpeoplemeet.com CNAME .
-virus101.jpeoplemeet.com CNAME .
-virus69.jpeoplemeet.com CNAME .
-wakanavirus.jpeoplemeet.com CNAME .
 www.jpeoplemeet.com CNAME .
-yeastinfectioncurehq.jpeoplemeet.com CNAME .
 jsingles.com CNAME .
 antispam.jsingles.com CNAME .
 auth.jsingles.com CNAME .
@@ -12030,45 +11979,11 @@ www1.loveaccess.com CNAME .
 zimbra.loveaccess.com CNAME .
 zmail.loveaccess.com CNAME .
 loveandseek.com CNAME .
-0.loveandseek.com CNAME .
-01.loveandseek.com CNAME .
-16viruswall.loveandseek.com CNAME .
-anti-virus.loveandseek.com CNAME .
 personals.aol.loveandseek.com CNAME .
-aolcovid19nj.loveandseek.com CNAME .
-blackviruslps.loveandseek.com CNAME .
-catalyst.loveandseek.com CNAME .
-comwww.loveandseek.com CNAME .
-covid.loveandseek.com CNAME .
-covideo-isus.loveandseek.com CNAME .
-csg-blackvirus.loveandseek.com CNAME .
 display.loveandseek.com CNAME .
-distancelearnpre.loveandseek.com CNAME .
-ey-covid.loveandseek.com CNAME .
-ey-covid-19.loveandseek.com CNAME .
-foodvaccine.loveandseek.com CNAME .
 help.loveandseek.com CNAME .
 lps.loveandseek.com CNAME .
-majorasmask.loveandseek.com CNAME .
-majorasmask3d.loveandseek.com CNAME .
-mascara.loveandseek.com CNAME .
-mascara1.loveandseek.com CNAME .
-maskan.loveandseek.com CNAME .
-maskbear.loveandseek.com CNAME .
-maskerade.loveandseek.com CNAME .
-maskolis.loveandseek.com CNAME .
-masku.loveandseek.com CNAME .
-mviruswall.loveandseek.com CNAME .
 a.mx.loveandseek.com CNAME .
-nonce-blackvirus.loveandseek.com CNAME .
-openfire.loveandseek.com CNAME .
-quarantine.loveandseek.com CNAME .
-quarantine51.loveandseek.com CNAME .
-stgmasku.loveandseek.com CNAME .
-vaccine.loveandseek.com CNAME .
-vaccinetstodh.loveandseek.com CNAME .
-virusassist.loveandseek.com CNAME .
-viruslib.loveandseek.com CNAME .
 www.loveandseek.com CNAME .
 loveawake.com CNAME .
 39.loveawake.com CNAME .
@@ -14862,8 +14777,10 @@ appl-pn.pof.com CNAME .
 assets.pof.com CNAME .
 audio.pof.com CNAME .
 authz.pof.com CNAME .
+lsa-api.in.aws.pof.com CNAME .
 api.usw2.in.aws.pof.com CNAME .
 api.usw2.pd.aws.pof.com CNAME .
+lsa-api.qa.aws.pof.com CNAME .
 api.usw2.qa.aws.pof.com CNAME .
 gamelobby-signalr.in.azr.pof.com CNAME .
 gamelobby-signalr.pd.azr.pof.com CNAME .
@@ -15620,6 +15537,7 @@ m.shagtogether.com CNAME .
 www.shagtogether.com CNAME .
 sherisranch.com CNAME .
 blog.sherisranch.com CNAME .
+charms.sherisranch.com CNAME .
 emailsrvr.sherisranch.com CNAME .
 newblog.sherisranch.com CNAME .
 ori.sherisranch.com CNAME .
@@ -15959,61 +15877,12 @@ mail.singleparentlove.com CNAME .
 tracking.singleparentlove.com CNAME .
 www.singleparentlove.com CNAME .
 singleparentmeet.com CNAME .
-110-pwc.singleparentmeet.com CNAME .
-117-12dodu1zahidgrandemask.singleparentmeet.com CNAME .
-akcdn-eduat1-vaccines.singleparentmeet.com CNAME .
 personals.aol.singleparentmeet.com CNAME .
-blackvirus.singleparentmeet.com CNAME .
-chat-distancelearnpre.singleparentmeet.com CNAME .
-coronaria.singleparentmeet.com CNAME .
-coronataxpros.singleparentmeet.com CNAME .
-covibesco-no1.singleparentmeet.com CNAME .
-covid19il.singleparentmeet.com CNAME .
-crimsonlogic.singleparentmeet.com CNAME .
-cuvidstream1public.singleparentmeet.com CNAME .
-datamask.singleparentmeet.com CNAME .
 display.singleparentmeet.com CNAME .
-displayvirus.singleparentmeet.com CNAME .
-distance.singleparentmeet.com CNAME .
-distancelearnadmin.singleparentmeet.com CNAME .
-distancelearnpreiew.singleparentmeet.com CNAME .
-distancelearnpreview.singleparentmeet.com CNAME .
 click.e.singleparentmeet.com CNAME .
-foodvaccine.singleparentmeet.com CNAME .
 help.singleparentmeet.com CNAME .
-iodyingprcentralnjadmingrandemask.singleparentmeet.com CNAME .
-jlhmask.singleparentmeet.com CNAME .
-kaviruspnet1.singleparentmeet.com CNAME .
-lesmask.singleparentmeet.com CNAME .
 lps.singleparentmeet.com CNAME .
-mail-virus.singleparentmeet.com CNAME .
-maskanail.singleparentmeet.com CNAME .
-maskins.singleparentmeet.com CNAME .
-maskolis.singleparentmeet.com CNAME .
-maskolis-chat.singleparentmeet.com CNAME .
-maskolis-www.singleparentmeet.com CNAME .
-maskolisunauthorized.singleparentmeet.com CNAME .
-maskxapas02.singleparentmeet.com CNAME .
-mopairmask.singleparentmeet.com CNAME .
-mvacunah.singleparentmeet.com CNAME .
-www.mvacunah.singleparentmeet.com CNAME .
-startopengodo.singleparentmeet.com CNAME .
-tbandlaptopengr.singleparentmeet.com CNAME .
-themaskheraid.singleparentmeet.com CNAME .
-uat-vaccines.singleparentmeet.com CNAME .
-uatvaccines.singleparentmeet.com CNAME .
-umaskbento.singleparentmeet.com CNAME .
-unauthorizedquarantine51.singleparentmeet.com CNAME .
-view-maskan.singleparentmeet.com CNAME .
-virus0316.singleparentmeet.com CNAME .
-virusstats.singleparentmeet.com CNAME .
-vogmask.singleparentmeet.com CNAME .
 www.singleparentmeet.com CNAME .
-www-vaccine.singleparentmeet.com CNAME .
-wwwvaccine.singleparentmeet.com CNAME .
-wwwvirus.singleparentmeet.com CNAME .
-wwww-maskan.singleparentmeet.com CNAME .
-zhongyimasks.singleparentmeet.com CNAME .
 singlesnet.com CNAME .
 smtp.singlesnet.com CNAME .
 www.singlesnet.com CNAME .
@@ -16217,6 +16086,7 @@ sr.skokka.com CNAME .
 static.skokka.com CNAME .
 ch.static.skokka.com CNAME .
 cl.static.skokka.com CNAME .
+support.skokka.com CNAME .
 uk.skokka.com CNAME .
 uk-static.skokka.com CNAME .
 uy.skokka.com CNAME .
@@ -16424,6 +16294,7 @@ ro.spicymatch.com CNAME .
 ru.spicymatch.com CNAME .
 sl.spicymatch.com CNAME .
 sr.spicymatch.com CNAME .
+static.spicymatch.com CNAME .
 sv.spicymatch.com CNAME .
 tr.spicymatch.com CNAME .
 www.spicymatch.com CNAME .
@@ -18412,6 +18283,7 @@ test_ws.xdateapp.com CNAME .
 www.xdateapp.com CNAME .
 xpalapp.com CNAME .
 api.xpalapp.com CNAME .
+cdn.xpalapp.com CNAME .
 censor.xpalapp.com CNAME .
 chat.xpalapp.com CNAME .
 www.xpalapp.com CNAME .
@@ -18693,10 +18565,6 @@ dating CNAME .
 wwv.18.dating CNAME .
 20.dating CNAME .
 247.dating CNAME .
-coolify.247.dating CNAME .
-encoder.247.dating CNAME .
-hemligsex.247.dating CNAME .
-status.247.dating CNAME .
 www.247.dating CNAME .
 gitlab.24hours.dating CNAME .
 wiki.24hours.dating CNAME .
@@ -18769,7 +18637,6 @@ panel.agancy.dating CNAME .
 staging.agancy.dating CNAME .
 www.agancy.dating CNAME .
 age-gap.dating CNAME .
-www.alex.dating CNAME .
 alleinerziehendemutter.dating CNAME .
 amouramour.dating CNAME .
 amwf.dating CNAME .
@@ -18783,6 +18650,7 @@ dev.animemanga.dating CNAME .
 staging.animemanga.dating CNAME .
 anonymous.dating CNAME .
 www.anonymous.dating CNAME .
+mail.antie.dating CNAME .
 a.app.dating CNAME .
 www.a.app.dating CNAME .
 admin.app.dating CNAME .
@@ -18855,6 +18723,7 @@ web.app.dating CNAME .
 webmail.app.dating CNAME .
 www.webmail.app.dating CNAME .
 ar.dating CNAME .
+www.artists.dating CNAME .
 asia-kiss.dating CNAME .
 asiadate.dating CNAME .
 dev.atheist.dating CNAME .
@@ -19018,6 +18887,7 @@ casually.dating CNAME .
 www.casually.dating CNAME .
 centro.dating CNAME .
 charleston.dating CNAME .
+charmdate.dating CNAME .
 app.chat2000.dating CNAME .
 media.app.chat2000.dating CNAME .
 chatless.dating CNAME .
@@ -19132,6 +19002,7 @@ ci-translations-api.translations-api-dev.cys.dating CNAME .
 dev.dancing.dating CNAME .
 staging.dancing.dating CNAME .
 date.dating CNAME .
+dateasia.dating CNAME .
 datehookup.dating CNAME .
 www.datehookup.dating CNAME .
 fast.datingadvice.dating CNAME .
@@ -19241,9 +19112,6 @@ help.ebonysex.dating CNAME .
 www.ebonysex.dating CNAME .
 ecologicalstrangers.dating CNAME .
 www.ecologicalstrangers.dating CNAME .
-ecosystem.dating CNAME .
-ecoverse.dating CNAME .
-dan.ecoverse.dating CNAME .
 ecupid.dating CNAME .
 eden.dating CNAME .
 csse.eden.dating CNAME .
@@ -19349,8 +19217,6 @@ www.fond.dating CNAME .
 admin.foodie.dating CNAME .
 fotochat.dating CNAME .
 www.fotochat.dating CNAME .
-framed.dating CNAME .
-www.framed.dating CNAME .
 freeadults.dating CNAME .
 www.freeadults.dating CNAME .
 freeday.dating CNAME .
@@ -19523,6 +19389,8 @@ www.fromtheattic.in.dating CNAME .
 www.www.fromtheattic.in.dating CNAME .
 www.heberhomes.in.dating CNAME .
 infatuation.in.dating CNAME .
+ahh.am.nt.intrested.in.dating CNAME .
+medibuddy.in.dating CNAME .
 sted.in.dating CNAME .
 webmail.in.dating CNAME .
 www.in.dating CNAME .
@@ -19574,6 +19442,7 @@ johnlasseter.dating CNAME .
 joyful.dating CNAME .
 www.joyful.dating CNAME .
 justsex.dating CNAME .
+www.kahve-molasi.dating CNAME .
 kannada.dating CNAME .
 www.kannada.dating CNAME .
 kathmandu.dating CNAME .
@@ -19586,6 +19455,7 @@ keeps.dating CNAME .
 join.keeps.dating CNAME .
 www.keeps.dating CNAME .
 keys.dating CNAME .
+www.keys.dating CNAME .
 kiel.dating CNAME .
 love.kiel.dating CNAME .
 media.love.kiel.dating CNAME .
@@ -19593,6 +19463,7 @@ www.kiel.dating CNAME .
 app.kind.dating CNAME .
 dev.kind.dating CNAME .
 kinkotine.dating CNAME .
+affiliates.meet.kinksters.dating CNAME .
 alerting.meet.kinksters.dating CNAME .
 app.meet.kinksters.dating CNAME .
 local.app.meet.kinksters.dating CNAME .
@@ -19652,6 +19523,7 @@ email.lov.dating CNAME .
 hello.lov.dating CNAME .
 help.lov.dating CNAME .
 www.lov.dating CNAME .
+www.lovebug.dating CNAME .
 lovely.dating CNAME .
 lovey.dating CNAME .
 api.lovey.dating CNAME .
@@ -19766,6 +19638,7 @@ za.moist.dating CNAME .
 mommabare.dating CNAME .
 dev.motorcycle.dating CNAME .
 staging.motorcycle.dating CNAME .
+www.moves.dating CNAME .
 msk.dating CNAME .
 test.msk.dating CNAME .
 top.msk.dating CNAME .
@@ -19989,6 +19862,7 @@ www.pegging.dating CNAME .
 perfectmatch.dating CNAME .
 www.perfectmatch.dating CNAME .
 phi.dating CNAME .
+sitemaps.phi.dating CNAME .
 www.phi.dating CNAME .
 photoshoot.dating CNAME .
 www.photoshoot.dating CNAME .
@@ -20092,12 +19966,17 @@ schwarzwald.dating CNAME .
 secret.dating CNAME .
 www.seeking.dating CNAME .
 seeyou.dating CNAME .
+sensation.dating CNAME .
 serialkillerspeed.dating CNAME .
 www.serialkillerspeed.dating CNAME .
 setup.dating CNAME .
 www.setup.dating CNAME .
+seven.dating CNAME .
+api.seven.dating CNAME .
 api-dev.seven.dating CNAME .
 cdn.seven.dating CNAME .
+datemgmnt.seven.dating CNAME .
+www.seven.dating CNAME .
 sex4.dating CNAME .
 www.sex4.dating CNAME .
 sexo.dating CNAME .
@@ -20124,6 +20003,7 @@ roseauconstruction.com.shadi.dating CNAME .
 solutioo.com.shadi.dating CNAME .
 vatanpartisi.com.shadi.dating CNAME .
 vintagetoursoftexas.com.shadi.dating CNAME .
+nadiastrology.co.in.windorreviews.com.shadi.dating CNAME .
 datingwhy.com.bestoffer.help.shadi.dating CNAME .
 turntablebelts.info.shadi.dating CNAME .
 anytimeschool.org.shadi.dating CNAME .
@@ -20133,6 +20013,9 @@ www.shadow.dating CNAME .
 ww1.shemale.dating CNAME .
 ship.dating CNAME .
 www.ship.dating CNAME .
+shuffle.dating CNAME .
+app.shuffle.dating CNAME .
+www.shuffle.dating CNAME .
 sigma.dating CNAME .
 www.sigma.dating CNAME .
 silver-fox.dating CNAME .
@@ -20166,6 +20049,10 @@ slow.dating CNAME .
 www.slow.dating CNAME .
 vip.smail.dating CNAME .
 ww1.smiley.dating CNAME .
+smitten.dating CNAME .
+snapsext.dating CNAME .
+admin.snapsext.dating CNAME .
+www.snapsext.dating CNAME .
 dev.sober.dating CNAME .
 local.sober.dating CNAME .
 staging.sober.dating CNAME .
@@ -20211,6 +20098,7 @@ speeddate.dating CNAME .
 affiliates.speeddate.dating CNAME .
 blog.speeddate.dating CNAME .
 cdn.speeddate.dating CNAME .
+memberimage0.speeddate.dating CNAME .
 secure.speeddate.dating CNAME .
 speedmeet.dating CNAME .
 www.speedmeet.dating CNAME .
@@ -20241,6 +20129,7 @@ my.strike.dating CNAME .
 shop.strike.dating CNAME .
 dev.submissive.dating CNAME .
 staging.submissive.dating CNAME .
+suddenly.dating CNAME .
 sugardaddies.dating CNAME .
 sugardaddybrasil.dating CNAME .
 sugardaddyturkiye.dating CNAME .
@@ -20272,6 +20161,7 @@ randomapi.tamu.dating CNAME .
 www.tamu.dating CNAME .
 teamo.dating CNAME .
 teaser.dating CNAME .
+www.tech.dating CNAME .
 email.teens18.dating CNAME .
 hello.teens18.dating CNAME .
 tele.dating CNAME .
@@ -20338,6 +20228,8 @@ tsundere.dating CNAME .
 ttpcg.dating CNAME .
 tv.dating CNAME .
 signup.tv.dating CNAME .
+type.dating CNAME .
+www.type.dating CNAME .
 tyre.dating CNAME .
 cdn.tyre.dating CNAME .
 euromaster-de.staging-100.eu.tyre.dating CNAME .
@@ -20454,6 +20346,7 @@ ar.zazy.dating CNAME .
 www.zazy.dating CNAME .
 zen.dating CNAME .
 www.zen.dating CNAME .
+horizon.api.zerofilter.dating CNAME .
 app.zerofilter.dating CNAME .
 zina.dating CNAME .
 zing.dating CNAME .
@@ -20761,6 +20654,7 @@ www.backpage-escorts.net CNAME .
 bbwdatingapp.net CNAME .
 api.bbwdatingapp.net CNAME .
 app.bbwdatingapp.net CNAME .
+cdn.bbwdatingapp.net CNAME .
 chat.bbwdatingapp.net CNAME .
 email.bbwdatingapp.net CNAME .
 im.bbwdatingapp.net CNAME .
@@ -21758,4 +21652,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: b8e19598cc07458055c4ff6d0f549fbf
+; md5: f320fb45e9c495174bec80531ccbc13d

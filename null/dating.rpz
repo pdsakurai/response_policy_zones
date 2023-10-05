@@ -1,8 +1,8 @@
-; Last modified: 2023-09-18T12:41:17+08:00
+; Last modified: 2023-10-05T08:25:17+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2309181241 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310050825 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -996,6 +996,7 @@ zmail.adultsearch.com A 0.0.0.0
 zw.adultsearch.com A 0.0.0.0
 adultwork.com A 0.0.0.0
 2fwww.adultwork.com A 0.0.0.0
+accounts.adultwork.com A 0.0.0.0
 admin.adultwork.com A 0.0.0.0
 api.adultwork.com A 0.0.0.0
 api-sandbox.adultwork.com A 0.0.0.0
@@ -1348,21 +1349,7 @@ staging.allmale.com A 0.0.0.0
 track.allmale.com A 0.0.0.0
 www.allmale.com A 0.0.0.0
 allonlinedatingsites.com A 0.0.0.0
-all.allonlinedatingsites.com A 0.0.0.0
-anvandatrosor.allonlinedatingsites.com A 0.0.0.0
-autodiscover.allonlinedatingsites.com A 0.0.0.0
-bringitonline.allonlinedatingsites.com A 0.0.0.0
-cpanel.allonlinedatingsites.com A 0.0.0.0
-cpcalendars.allonlinedatingsites.com A 0.0.0.0
-cpcontacts.allonlinedatingsites.com A 0.0.0.0
 mail.allonlinedatingsites.com A 0.0.0.0
-minanakenbilder.allonlinedatingsites.com A 0.0.0.0
-minenakenbilder.allonlinedatingsites.com A 0.0.0.0
-www.minenakenbilder.allonlinedatingsites.com A 0.0.0.0
-ns1.allonlinedatingsites.com A 0.0.0.0
-ns2.allonlinedatingsites.com A 0.0.0.0
-webdisk.allonlinedatingsites.com A 0.0.0.0
-webmail.allonlinedatingsites.com A 0.0.0.0
 www.allonlinedatingsites.com A 0.0.0.0
 allureslifestyle.com A 0.0.0.0
 ftp.allureslifestyle.com A 0.0.0.0
@@ -2355,6 +2342,7 @@ res.be2.com A 0.0.0.0
 api.stage.be2.com A 0.0.0.0
 app.stage.be2.com A 0.0.0.0
 app2.stage.be2.com A 0.0.0.0
+payment.stage.be2.com A 0.0.0.0
 pic.stage.be2.com A 0.0.0.0
 static.be2.com A 0.0.0.0
 static-origin.be2.com A 0.0.0.0
@@ -3485,6 +3473,7 @@ shop.blk-app.com A 0.0.0.0
 www.blk-app.com A 0.0.0.0
 blossoms.com A 0.0.0.0
 1222.blossoms.com A 0.0.0.0
+a.blossoms.com A 0.0.0.0
 af.blossoms.com A 0.0.0.0
 amazon.blossoms.com A 0.0.0.0
 api.blossoms.com A 0.0.0.0
@@ -3524,6 +3513,7 @@ travel.blossoms.com A 0.0.0.0
 upload.blossoms.com A 0.0.0.0
 uploadaws.blossoms.com A 0.0.0.0
 uploadsg.blossoms.com A 0.0.0.0
+web2.blossoms.com A 0.0.0.0
 web4.blossoms.com A 0.0.0.0
 web5.blossoms.com A 0.0.0.0
 web6.blossoms.com A 0.0.0.0
@@ -4193,6 +4183,7 @@ px.c-date.com A 0.0.0.0
 res.c-date.com A 0.0.0.0
 api.stage.c-date.com A 0.0.0.0
 app2.stage.c-date.com A 0.0.0.0
+payment.stage.c-date.com A 0.0.0.0
 pic.stage.c-date.com A 0.0.0.0
 static.c-date.com A 0.0.0.0
 static-origin.c-date.com A 0.0.0.0
@@ -6952,6 +6943,7 @@ mods.doublelist.com A 0.0.0.0
 mods-stg.doublelist.com A 0.0.0.0
 pics.doublelist.com A 0.0.0.0
 staging.doublelist.com A 0.0.0.0
+staging-api.doublelist.com A 0.0.0.0
 webmail.doublelist.com A 0.0.0.0
 www.doublelist.com A 0.0.0.0
 doulike.com A 0.0.0.0
@@ -10956,7 +10948,6 @@ appboshcd8.imlive.com A 0.0.0.0
 appsrv.imlive.com A 0.0.0.0
 appsrv20.imlive.com A 0.0.0.0
 appsrv21.imlive.com A 0.0.0.0
-appsrv23.imlive.com A 0.0.0.0
 appsrv99.imlive.com A 0.0.0.0
 ar.imlive.com A 0.0.0.0
 artmusic.imlive.com A 0.0.0.0
@@ -11434,51 +11425,9 @@ ns4.joingy.com A 0.0.0.0
 peer.joingy.com A 0.0.0.0
 www.joingy.com A 0.0.0.0
 jpeoplemeet.com A 0.0.0.0
-037topcovid19f5.jpeoplemeet.com A 0.0.0.0
-037topcovid19mailer.jpeoplemeet.com A 0.0.0.0
-037topcovid19star.jpeoplemeet.com A 0.0.0.0
-1017covid19.jpeoplemeet.com A 0.0.0.0
-1grtopcovid19.jpeoplemeet.com A 0.0.0.0
-5037topcovid19.jpeoplemeet.com A 0.0.0.0
-7k9topcovid19.jpeoplemeet.com A 0.0.0.0
-9vxtopcovid19.jpeoplemeet.com A 0.0.0.0
-a-distance-2.jpeoplemeet.com A 0.0.0.0
 personals.aol.jpeoplemeet.com A 0.0.0.0
-blackvirus.jpeoplemeet.com A 0.0.0.0
-cobidb-poc.jpeoplemeet.com A 0.0.0.0
-corona.jpeoplemeet.com A 0.0.0.0
-corona-california.jpeoplemeet.com A 0.0.0.0
-corona84.jpeoplemeet.com A 0.0.0.0
-covid19.jpeoplemeet.com A 0.0.0.0
-covideo-isus.jpeoplemeet.com A 0.0.0.0
-dev-masks.jpeoplemeet.com A 0.0.0.0
-devcorona.jpeoplemeet.com A 0.0.0.0
-distancelearnpre.jpeoplemeet.com A 0.0.0.0
-ecovidrio.jpeoplemeet.com A 0.0.0.0
-facemaskpro.jpeoplemeet.com A 0.0.0.0
 help.jpeoplemeet.com A 0.0.0.0
-kfcoronacpa.jpeoplemeet.com A 0.0.0.0
-lockdown.jpeoplemeet.com A 0.0.0.0
-maintenance-037topcovid19.jpeoplemeet.com A 0.0.0.0
-maskman.jpeoplemeet.com A 0.0.0.0
-maskyoo.jpeoplemeet.com A 0.0.0.0
-quarantine-tst-its.jpeoplemeet.com A 0.0.0.0
-sa.jpeoplemeet.com A 0.0.0.0
-sa-discovidev.jpeoplemeet.com A 0.0.0.0
-sugarkvirus.jpeoplemeet.com A 0.0.0.0
-target-aolmaska.jpeoplemeet.com A 0.0.0.0
-teeka.jpeoplemeet.com A 0.0.0.0
-tlw-quarantine1.jpeoplemeet.com A 0.0.0.0
-uat-vaccines.jpeoplemeet.com A 0.0.0.0
-v-corona-is.jpeoplemeet.com A 0.0.0.0
-vaccinetracker-qa.jpeoplemeet.com A 0.0.0.0
-vaccinetracker-qa00.jpeoplemeet.com A 0.0.0.0
-virus0316com.jpeoplemeet.com A 0.0.0.0
-virus101.jpeoplemeet.com A 0.0.0.0
-virus69.jpeoplemeet.com A 0.0.0.0
-wakanavirus.jpeoplemeet.com A 0.0.0.0
 www.jpeoplemeet.com A 0.0.0.0
-yeastinfectioncurehq.jpeoplemeet.com A 0.0.0.0
 jsingles.com A 0.0.0.0
 antispam.jsingles.com A 0.0.0.0
 auth.jsingles.com A 0.0.0.0
@@ -12030,45 +11979,11 @@ www1.loveaccess.com A 0.0.0.0
 zimbra.loveaccess.com A 0.0.0.0
 zmail.loveaccess.com A 0.0.0.0
 loveandseek.com A 0.0.0.0
-0.loveandseek.com A 0.0.0.0
-01.loveandseek.com A 0.0.0.0
-16viruswall.loveandseek.com A 0.0.0.0
-anti-virus.loveandseek.com A 0.0.0.0
 personals.aol.loveandseek.com A 0.0.0.0
-aolcovid19nj.loveandseek.com A 0.0.0.0
-blackviruslps.loveandseek.com A 0.0.0.0
-catalyst.loveandseek.com A 0.0.0.0
-comwww.loveandseek.com A 0.0.0.0
-covid.loveandseek.com A 0.0.0.0
-covideo-isus.loveandseek.com A 0.0.0.0
-csg-blackvirus.loveandseek.com A 0.0.0.0
 display.loveandseek.com A 0.0.0.0
-distancelearnpre.loveandseek.com A 0.0.0.0
-ey-covid.loveandseek.com A 0.0.0.0
-ey-covid-19.loveandseek.com A 0.0.0.0
-foodvaccine.loveandseek.com A 0.0.0.0
 help.loveandseek.com A 0.0.0.0
 lps.loveandseek.com A 0.0.0.0
-majorasmask.loveandseek.com A 0.0.0.0
-majorasmask3d.loveandseek.com A 0.0.0.0
-mascara.loveandseek.com A 0.0.0.0
-mascara1.loveandseek.com A 0.0.0.0
-maskan.loveandseek.com A 0.0.0.0
-maskbear.loveandseek.com A 0.0.0.0
-maskerade.loveandseek.com A 0.0.0.0
-maskolis.loveandseek.com A 0.0.0.0
-masku.loveandseek.com A 0.0.0.0
-mviruswall.loveandseek.com A 0.0.0.0
 a.mx.loveandseek.com A 0.0.0.0
-nonce-blackvirus.loveandseek.com A 0.0.0.0
-openfire.loveandseek.com A 0.0.0.0
-quarantine.loveandseek.com A 0.0.0.0
-quarantine51.loveandseek.com A 0.0.0.0
-stgmasku.loveandseek.com A 0.0.0.0
-vaccine.loveandseek.com A 0.0.0.0
-vaccinetstodh.loveandseek.com A 0.0.0.0
-virusassist.loveandseek.com A 0.0.0.0
-viruslib.loveandseek.com A 0.0.0.0
 www.loveandseek.com A 0.0.0.0
 loveawake.com A 0.0.0.0
 39.loveawake.com A 0.0.0.0
@@ -14862,8 +14777,10 @@ appl-pn.pof.com A 0.0.0.0
 assets.pof.com A 0.0.0.0
 audio.pof.com A 0.0.0.0
 authz.pof.com A 0.0.0.0
+lsa-api.in.aws.pof.com A 0.0.0.0
 api.usw2.in.aws.pof.com A 0.0.0.0
 api.usw2.pd.aws.pof.com A 0.0.0.0
+lsa-api.qa.aws.pof.com A 0.0.0.0
 api.usw2.qa.aws.pof.com A 0.0.0.0
 gamelobby-signalr.in.azr.pof.com A 0.0.0.0
 gamelobby-signalr.pd.azr.pof.com A 0.0.0.0
@@ -15620,6 +15537,7 @@ m.shagtogether.com A 0.0.0.0
 www.shagtogether.com A 0.0.0.0
 sherisranch.com A 0.0.0.0
 blog.sherisranch.com A 0.0.0.0
+charms.sherisranch.com A 0.0.0.0
 emailsrvr.sherisranch.com A 0.0.0.0
 newblog.sherisranch.com A 0.0.0.0
 ori.sherisranch.com A 0.0.0.0
@@ -15959,61 +15877,12 @@ mail.singleparentlove.com A 0.0.0.0
 tracking.singleparentlove.com A 0.0.0.0
 www.singleparentlove.com A 0.0.0.0
 singleparentmeet.com A 0.0.0.0
-110-pwc.singleparentmeet.com A 0.0.0.0
-117-12dodu1zahidgrandemask.singleparentmeet.com A 0.0.0.0
-akcdn-eduat1-vaccines.singleparentmeet.com A 0.0.0.0
 personals.aol.singleparentmeet.com A 0.0.0.0
-blackvirus.singleparentmeet.com A 0.0.0.0
-chat-distancelearnpre.singleparentmeet.com A 0.0.0.0
-coronaria.singleparentmeet.com A 0.0.0.0
-coronataxpros.singleparentmeet.com A 0.0.0.0
-covibesco-no1.singleparentmeet.com A 0.0.0.0
-covid19il.singleparentmeet.com A 0.0.0.0
-crimsonlogic.singleparentmeet.com A 0.0.0.0
-cuvidstream1public.singleparentmeet.com A 0.0.0.0
-datamask.singleparentmeet.com A 0.0.0.0
 display.singleparentmeet.com A 0.0.0.0
-displayvirus.singleparentmeet.com A 0.0.0.0
-distance.singleparentmeet.com A 0.0.0.0
-distancelearnadmin.singleparentmeet.com A 0.0.0.0
-distancelearnpreiew.singleparentmeet.com A 0.0.0.0
-distancelearnpreview.singleparentmeet.com A 0.0.0.0
 click.e.singleparentmeet.com A 0.0.0.0
-foodvaccine.singleparentmeet.com A 0.0.0.0
 help.singleparentmeet.com A 0.0.0.0
-iodyingprcentralnjadmingrandemask.singleparentmeet.com A 0.0.0.0
-jlhmask.singleparentmeet.com A 0.0.0.0
-kaviruspnet1.singleparentmeet.com A 0.0.0.0
-lesmask.singleparentmeet.com A 0.0.0.0
 lps.singleparentmeet.com A 0.0.0.0
-mail-virus.singleparentmeet.com A 0.0.0.0
-maskanail.singleparentmeet.com A 0.0.0.0
-maskins.singleparentmeet.com A 0.0.0.0
-maskolis.singleparentmeet.com A 0.0.0.0
-maskolis-chat.singleparentmeet.com A 0.0.0.0
-maskolis-www.singleparentmeet.com A 0.0.0.0
-maskolisunauthorized.singleparentmeet.com A 0.0.0.0
-maskxapas02.singleparentmeet.com A 0.0.0.0
-mopairmask.singleparentmeet.com A 0.0.0.0
-mvacunah.singleparentmeet.com A 0.0.0.0
-www.mvacunah.singleparentmeet.com A 0.0.0.0
-startopengodo.singleparentmeet.com A 0.0.0.0
-tbandlaptopengr.singleparentmeet.com A 0.0.0.0
-themaskheraid.singleparentmeet.com A 0.0.0.0
-uat-vaccines.singleparentmeet.com A 0.0.0.0
-uatvaccines.singleparentmeet.com A 0.0.0.0
-umaskbento.singleparentmeet.com A 0.0.0.0
-unauthorizedquarantine51.singleparentmeet.com A 0.0.0.0
-view-maskan.singleparentmeet.com A 0.0.0.0
-virus0316.singleparentmeet.com A 0.0.0.0
-virusstats.singleparentmeet.com A 0.0.0.0
-vogmask.singleparentmeet.com A 0.0.0.0
 www.singleparentmeet.com A 0.0.0.0
-www-vaccine.singleparentmeet.com A 0.0.0.0
-wwwvaccine.singleparentmeet.com A 0.0.0.0
-wwwvirus.singleparentmeet.com A 0.0.0.0
-wwww-maskan.singleparentmeet.com A 0.0.0.0
-zhongyimasks.singleparentmeet.com A 0.0.0.0
 singlesnet.com A 0.0.0.0
 smtp.singlesnet.com A 0.0.0.0
 www.singlesnet.com A 0.0.0.0
@@ -16217,6 +16086,7 @@ sr.skokka.com A 0.0.0.0
 static.skokka.com A 0.0.0.0
 ch.static.skokka.com A 0.0.0.0
 cl.static.skokka.com A 0.0.0.0
+support.skokka.com A 0.0.0.0
 uk.skokka.com A 0.0.0.0
 uk-static.skokka.com A 0.0.0.0
 uy.skokka.com A 0.0.0.0
@@ -16424,6 +16294,7 @@ ro.spicymatch.com A 0.0.0.0
 ru.spicymatch.com A 0.0.0.0
 sl.spicymatch.com A 0.0.0.0
 sr.spicymatch.com A 0.0.0.0
+static.spicymatch.com A 0.0.0.0
 sv.spicymatch.com A 0.0.0.0
 tr.spicymatch.com A 0.0.0.0
 www.spicymatch.com A 0.0.0.0
@@ -18412,6 +18283,7 @@ test_ws.xdateapp.com A 0.0.0.0
 www.xdateapp.com A 0.0.0.0
 xpalapp.com A 0.0.0.0
 api.xpalapp.com A 0.0.0.0
+cdn.xpalapp.com A 0.0.0.0
 censor.xpalapp.com A 0.0.0.0
 chat.xpalapp.com A 0.0.0.0
 www.xpalapp.com A 0.0.0.0
@@ -18693,10 +18565,6 @@ dating A 0.0.0.0
 wwv.18.dating A 0.0.0.0
 20.dating A 0.0.0.0
 247.dating A 0.0.0.0
-coolify.247.dating A 0.0.0.0
-encoder.247.dating A 0.0.0.0
-hemligsex.247.dating A 0.0.0.0
-status.247.dating A 0.0.0.0
 www.247.dating A 0.0.0.0
 gitlab.24hours.dating A 0.0.0.0
 wiki.24hours.dating A 0.0.0.0
@@ -18769,7 +18637,6 @@ panel.agancy.dating A 0.0.0.0
 staging.agancy.dating A 0.0.0.0
 www.agancy.dating A 0.0.0.0
 age-gap.dating A 0.0.0.0
-www.alex.dating A 0.0.0.0
 alleinerziehendemutter.dating A 0.0.0.0
 amouramour.dating A 0.0.0.0
 amwf.dating A 0.0.0.0
@@ -18783,6 +18650,7 @@ dev.animemanga.dating A 0.0.0.0
 staging.animemanga.dating A 0.0.0.0
 anonymous.dating A 0.0.0.0
 www.anonymous.dating A 0.0.0.0
+mail.antie.dating A 0.0.0.0
 a.app.dating A 0.0.0.0
 www.a.app.dating A 0.0.0.0
 admin.app.dating A 0.0.0.0
@@ -18855,6 +18723,7 @@ web.app.dating A 0.0.0.0
 webmail.app.dating A 0.0.0.0
 www.webmail.app.dating A 0.0.0.0
 ar.dating A 0.0.0.0
+www.artists.dating A 0.0.0.0
 asia-kiss.dating A 0.0.0.0
 asiadate.dating A 0.0.0.0
 dev.atheist.dating A 0.0.0.0
@@ -19018,6 +18887,7 @@ casually.dating A 0.0.0.0
 www.casually.dating A 0.0.0.0
 centro.dating A 0.0.0.0
 charleston.dating A 0.0.0.0
+charmdate.dating A 0.0.0.0
 app.chat2000.dating A 0.0.0.0
 media.app.chat2000.dating A 0.0.0.0
 chatless.dating A 0.0.0.0
@@ -19132,6 +19002,7 @@ ci-translations-api.translations-api-dev.cys.dating A 0.0.0.0
 dev.dancing.dating A 0.0.0.0
 staging.dancing.dating A 0.0.0.0
 date.dating A 0.0.0.0
+dateasia.dating A 0.0.0.0
 datehookup.dating A 0.0.0.0
 www.datehookup.dating A 0.0.0.0
 fast.datingadvice.dating A 0.0.0.0
@@ -19241,9 +19112,6 @@ help.ebonysex.dating A 0.0.0.0
 www.ebonysex.dating A 0.0.0.0
 ecologicalstrangers.dating A 0.0.0.0
 www.ecologicalstrangers.dating A 0.0.0.0
-ecosystem.dating A 0.0.0.0
-ecoverse.dating A 0.0.0.0
-dan.ecoverse.dating A 0.0.0.0
 ecupid.dating A 0.0.0.0
 eden.dating A 0.0.0.0
 csse.eden.dating A 0.0.0.0
@@ -19349,8 +19217,6 @@ www.fond.dating A 0.0.0.0
 admin.foodie.dating A 0.0.0.0
 fotochat.dating A 0.0.0.0
 www.fotochat.dating A 0.0.0.0
-framed.dating A 0.0.0.0
-www.framed.dating A 0.0.0.0
 freeadults.dating A 0.0.0.0
 www.freeadults.dating A 0.0.0.0
 freeday.dating A 0.0.0.0
@@ -19523,6 +19389,8 @@ www.fromtheattic.in.dating A 0.0.0.0
 www.www.fromtheattic.in.dating A 0.0.0.0
 www.heberhomes.in.dating A 0.0.0.0
 infatuation.in.dating A 0.0.0.0
+ahh.am.nt.intrested.in.dating A 0.0.0.0
+medibuddy.in.dating A 0.0.0.0
 sted.in.dating A 0.0.0.0
 webmail.in.dating A 0.0.0.0
 www.in.dating A 0.0.0.0
@@ -19574,6 +19442,7 @@ johnlasseter.dating A 0.0.0.0
 joyful.dating A 0.0.0.0
 www.joyful.dating A 0.0.0.0
 justsex.dating A 0.0.0.0
+www.kahve-molasi.dating A 0.0.0.0
 kannada.dating A 0.0.0.0
 www.kannada.dating A 0.0.0.0
 kathmandu.dating A 0.0.0.0
@@ -19586,6 +19455,7 @@ keeps.dating A 0.0.0.0
 join.keeps.dating A 0.0.0.0
 www.keeps.dating A 0.0.0.0
 keys.dating A 0.0.0.0
+www.keys.dating A 0.0.0.0
 kiel.dating A 0.0.0.0
 love.kiel.dating A 0.0.0.0
 media.love.kiel.dating A 0.0.0.0
@@ -19593,6 +19463,7 @@ www.kiel.dating A 0.0.0.0
 app.kind.dating A 0.0.0.0
 dev.kind.dating A 0.0.0.0
 kinkotine.dating A 0.0.0.0
+affiliates.meet.kinksters.dating A 0.0.0.0
 alerting.meet.kinksters.dating A 0.0.0.0
 app.meet.kinksters.dating A 0.0.0.0
 local.app.meet.kinksters.dating A 0.0.0.0
@@ -19652,6 +19523,7 @@ email.lov.dating A 0.0.0.0
 hello.lov.dating A 0.0.0.0
 help.lov.dating A 0.0.0.0
 www.lov.dating A 0.0.0.0
+www.lovebug.dating A 0.0.0.0
 lovely.dating A 0.0.0.0
 lovey.dating A 0.0.0.0
 api.lovey.dating A 0.0.0.0
@@ -19766,6 +19638,7 @@ za.moist.dating A 0.0.0.0
 mommabare.dating A 0.0.0.0
 dev.motorcycle.dating A 0.0.0.0
 staging.motorcycle.dating A 0.0.0.0
+www.moves.dating A 0.0.0.0
 msk.dating A 0.0.0.0
 test.msk.dating A 0.0.0.0
 top.msk.dating A 0.0.0.0
@@ -19989,6 +19862,7 @@ www.pegging.dating A 0.0.0.0
 perfectmatch.dating A 0.0.0.0
 www.perfectmatch.dating A 0.0.0.0
 phi.dating A 0.0.0.0
+sitemaps.phi.dating A 0.0.0.0
 www.phi.dating A 0.0.0.0
 photoshoot.dating A 0.0.0.0
 www.photoshoot.dating A 0.0.0.0
@@ -20092,12 +19966,17 @@ schwarzwald.dating A 0.0.0.0
 secret.dating A 0.0.0.0
 www.seeking.dating A 0.0.0.0
 seeyou.dating A 0.0.0.0
+sensation.dating A 0.0.0.0
 serialkillerspeed.dating A 0.0.0.0
 www.serialkillerspeed.dating A 0.0.0.0
 setup.dating A 0.0.0.0
 www.setup.dating A 0.0.0.0
+seven.dating A 0.0.0.0
+api.seven.dating A 0.0.0.0
 api-dev.seven.dating A 0.0.0.0
 cdn.seven.dating A 0.0.0.0
+datemgmnt.seven.dating A 0.0.0.0
+www.seven.dating A 0.0.0.0
 sex4.dating A 0.0.0.0
 www.sex4.dating A 0.0.0.0
 sexo.dating A 0.0.0.0
@@ -20124,6 +20003,7 @@ roseauconstruction.com.shadi.dating A 0.0.0.0
 solutioo.com.shadi.dating A 0.0.0.0
 vatanpartisi.com.shadi.dating A 0.0.0.0
 vintagetoursoftexas.com.shadi.dating A 0.0.0.0
+nadiastrology.co.in.windorreviews.com.shadi.dating A 0.0.0.0
 datingwhy.com.bestoffer.help.shadi.dating A 0.0.0.0
 turntablebelts.info.shadi.dating A 0.0.0.0
 anytimeschool.org.shadi.dating A 0.0.0.0
@@ -20133,6 +20013,9 @@ www.shadow.dating A 0.0.0.0
 ww1.shemale.dating A 0.0.0.0
 ship.dating A 0.0.0.0
 www.ship.dating A 0.0.0.0
+shuffle.dating A 0.0.0.0
+app.shuffle.dating A 0.0.0.0
+www.shuffle.dating A 0.0.0.0
 sigma.dating A 0.0.0.0
 www.sigma.dating A 0.0.0.0
 silver-fox.dating A 0.0.0.0
@@ -20166,6 +20049,10 @@ slow.dating A 0.0.0.0
 www.slow.dating A 0.0.0.0
 vip.smail.dating A 0.0.0.0
 ww1.smiley.dating A 0.0.0.0
+smitten.dating A 0.0.0.0
+snapsext.dating A 0.0.0.0
+admin.snapsext.dating A 0.0.0.0
+www.snapsext.dating A 0.0.0.0
 dev.sober.dating A 0.0.0.0
 local.sober.dating A 0.0.0.0
 staging.sober.dating A 0.0.0.0
@@ -20211,6 +20098,7 @@ speeddate.dating A 0.0.0.0
 affiliates.speeddate.dating A 0.0.0.0
 blog.speeddate.dating A 0.0.0.0
 cdn.speeddate.dating A 0.0.0.0
+memberimage0.speeddate.dating A 0.0.0.0
 secure.speeddate.dating A 0.0.0.0
 speedmeet.dating A 0.0.0.0
 www.speedmeet.dating A 0.0.0.0
@@ -20241,6 +20129,7 @@ my.strike.dating A 0.0.0.0
 shop.strike.dating A 0.0.0.0
 dev.submissive.dating A 0.0.0.0
 staging.submissive.dating A 0.0.0.0
+suddenly.dating A 0.0.0.0
 sugardaddies.dating A 0.0.0.0
 sugardaddybrasil.dating A 0.0.0.0
 sugardaddyturkiye.dating A 0.0.0.0
@@ -20272,6 +20161,7 @@ randomapi.tamu.dating A 0.0.0.0
 www.tamu.dating A 0.0.0.0
 teamo.dating A 0.0.0.0
 teaser.dating A 0.0.0.0
+www.tech.dating A 0.0.0.0
 email.teens18.dating A 0.0.0.0
 hello.teens18.dating A 0.0.0.0
 tele.dating A 0.0.0.0
@@ -20338,6 +20228,8 @@ tsundere.dating A 0.0.0.0
 ttpcg.dating A 0.0.0.0
 tv.dating A 0.0.0.0
 signup.tv.dating A 0.0.0.0
+type.dating A 0.0.0.0
+www.type.dating A 0.0.0.0
 tyre.dating A 0.0.0.0
 cdn.tyre.dating A 0.0.0.0
 euromaster-de.staging-100.eu.tyre.dating A 0.0.0.0
@@ -20454,6 +20346,7 @@ ar.zazy.dating A 0.0.0.0
 www.zazy.dating A 0.0.0.0
 zen.dating A 0.0.0.0
 www.zen.dating A 0.0.0.0
+horizon.api.zerofilter.dating A 0.0.0.0
 app.zerofilter.dating A 0.0.0.0
 zina.dating A 0.0.0.0
 zing.dating A 0.0.0.0
@@ -20761,6 +20654,7 @@ www.backpage-escorts.net A 0.0.0.0
 bbwdatingapp.net A 0.0.0.0
 api.bbwdatingapp.net A 0.0.0.0
 app.bbwdatingapp.net A 0.0.0.0
+cdn.bbwdatingapp.net A 0.0.0.0
 chat.bbwdatingapp.net A 0.0.0.0
 email.bbwdatingapp.net A 0.0.0.0
 im.bbwdatingapp.net A 0.0.0.0
@@ -21758,4 +21652,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: b8e19598cc07458055c4ff6d0f549fbf
+; md5: f320fb45e9c495174bec80531ccbc13d
