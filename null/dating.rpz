@@ -1,8 +1,8 @@
-; Last modified: 2023-10-05T08:25:17+08:00
+; Last modified: 2023-10-06T01:26:00+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310050825 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310060126 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -12645,46 +12645,12 @@ smtp.meetinchat.com A 0.0.0.0
 test.meetinchat.com A 0.0.0.0
 www.meetinchat.com A 0.0.0.0
 meetingplacemichigan.com A 0.0.0.0
-box.meetingplacemichigan.com A 0.0.0.0
 email.meetingplacemichigan.com A 0.0.0.0
-exchange.meetingplacemichigan.com A 0.0.0.0
-ftp.meetingplacemichigan.com A 0.0.0.0
-gw.meetingplacemichigan.com A 0.0.0.0
 imap.meetingplacemichigan.com A 0.0.0.0
-imap1.meetingplacemichigan.com A 0.0.0.0
 mail.meetingplacemichigan.com A 0.0.0.0
-mail1.meetingplacemichigan.com A 0.0.0.0
-mail5.meetingplacemichigan.com A 0.0.0.0
-mail7.meetingplacemichigan.com A 0.0.0.0
-mail8.meetingplacemichigan.com A 0.0.0.0
-mailbox.meetingplacemichigan.com A 0.0.0.0
-mailer.meetingplacemichigan.com A 0.0.0.0
-mailhost.meetingplacemichigan.com A 0.0.0.0
-mailin.meetingplacemichigan.com A 0.0.0.0
-mailserver.meetingplacemichigan.com A 0.0.0.0
-mx.meetingplacemichigan.com A 0.0.0.0
-mx1.meetingplacemichigan.com A 0.0.0.0
-mx10.meetingplacemichigan.com A 0.0.0.0
-ns.meetingplacemichigan.com A 0.0.0.0
-ns1.meetingplacemichigan.com A 0.0.0.0
-outmail.meetingplacemichigan.com A 0.0.0.0
-poczta.meetingplacemichigan.com A 0.0.0.0
 pop3.meetingplacemichigan.com A 0.0.0.0
-post.meetingplacemichigan.com A 0.0.0.0
-postmaster.meetingplacemichigan.com A 0.0.0.0
-relay.meetingplacemichigan.com A 0.0.0.0
-relay1.meetingplacemichigan.com A 0.0.0.0
-secure.meetingplacemichigan.com A 0.0.0.0
-server.meetingplacemichigan.com A 0.0.0.0
-server2.meetingplacemichigan.com A 0.0.0.0
 smtp.meetingplacemichigan.com A 0.0.0.0
-smtp1.meetingplacemichigan.com A 0.0.0.0
-smtp2.meetingplacemichigan.com A 0.0.0.0
-smtps.meetingplacemichigan.com A 0.0.0.0
-smtpseguro.meetingplacemichigan.com A 0.0.0.0
 www.meetingplacemichigan.com A 0.0.0.0
-www1.meetingplacemichigan.com A 0.0.0.0
-zimbra.meetingplacemichigan.com A 0.0.0.0
 meetlocalcougars.com A 0.0.0.0
 antispam.meetlocalcougars.com A 0.0.0.0
 auth.meetlocalcougars.com A 0.0.0.0
@@ -14820,7 +14786,6 @@ media.pof.com A 0.0.0.0
 mixerid.pof.com A 0.0.0.0
 mx.pof.com A 0.0.0.0
 nl.pof.com A 0.0.0.0
-oiuwhuth3ut.pof.com A 0.0.0.0
 api.van1.pd.pof.com A 0.0.0.0
 pics.pof.com A 0.0.0.0
 pics1.pof.com A 0.0.0.0
@@ -18624,6 +18589,8 @@ aff.dating A 0.0.0.0
 affair.dating A 0.0.0.0
 cheaters.affair.dating A 0.0.0.0
 meetup.affair.dating A 0.0.0.0
+affaire.dating A 0.0.0.0
+www.affaire.dating A 0.0.0.0
 auth.affinity.dating A 0.0.0.0
 email.affinity.dating A 0.0.0.0
 members.affinity.dating A 0.0.0.0
@@ -19220,7 +19187,6 @@ www.fotochat.dating A 0.0.0.0
 freeadults.dating A 0.0.0.0
 www.freeadults.dating A 0.0.0.0
 freeday.dating A 0.0.0.0
-api.freely.dating A 0.0.0.0
 www.frekk.dating A 0.0.0.0
 frekke.dating A 0.0.0.0
 fresh.dating A 0.0.0.0
@@ -19363,7 +19329,6 @@ post.hott.dating A 0.0.0.0
 static1.hott.dating A 0.0.0.0
 static2.hott.dating A 0.0.0.0
 hotties.dating A 0.0.0.0
-huk.dating A 0.0.0.0
 hydra.dating A 0.0.0.0
 blog.hydra.dating A 0.0.0.0
 business.hydra.dating A 0.0.0.0
@@ -20027,8 +19992,6 @@ www.singleglow.dating A 0.0.0.0
 singleinlove.dating A 0.0.0.0
 www.singleinlove.dating A 0.0.0.0
 singlemums.dating A 0.0.0.0
-singlerocket.dating A 0.0.0.0
-www.singlerocket.dating A 0.0.0.0
 crfprofile.ski.dating A 0.0.0.0
 crmprofile.ski.dating A 0.0.0.0
 dev.ski.dating A 0.0.0.0
@@ -21652,4 +21615,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: f320fb45e9c495174bec80531ccbc13d
+; md5: 8d2db0ec8f17317cc726c6ba165856b2

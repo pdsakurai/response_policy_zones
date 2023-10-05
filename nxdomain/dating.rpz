@@ -1,8 +1,8 @@
-; Last modified: 2023-10-05T08:24:59+08:00
+; Last modified: 2023-10-06T01:25:42+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310050824 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310060125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -12645,46 +12645,12 @@ smtp.meetinchat.com CNAME .
 test.meetinchat.com CNAME .
 www.meetinchat.com CNAME .
 meetingplacemichigan.com CNAME .
-box.meetingplacemichigan.com CNAME .
 email.meetingplacemichigan.com CNAME .
-exchange.meetingplacemichigan.com CNAME .
-ftp.meetingplacemichigan.com CNAME .
-gw.meetingplacemichigan.com CNAME .
 imap.meetingplacemichigan.com CNAME .
-imap1.meetingplacemichigan.com CNAME .
 mail.meetingplacemichigan.com CNAME .
-mail1.meetingplacemichigan.com CNAME .
-mail5.meetingplacemichigan.com CNAME .
-mail7.meetingplacemichigan.com CNAME .
-mail8.meetingplacemichigan.com CNAME .
-mailbox.meetingplacemichigan.com CNAME .
-mailer.meetingplacemichigan.com CNAME .
-mailhost.meetingplacemichigan.com CNAME .
-mailin.meetingplacemichigan.com CNAME .
-mailserver.meetingplacemichigan.com CNAME .
-mx.meetingplacemichigan.com CNAME .
-mx1.meetingplacemichigan.com CNAME .
-mx10.meetingplacemichigan.com CNAME .
-ns.meetingplacemichigan.com CNAME .
-ns1.meetingplacemichigan.com CNAME .
-outmail.meetingplacemichigan.com CNAME .
-poczta.meetingplacemichigan.com CNAME .
 pop3.meetingplacemichigan.com CNAME .
-post.meetingplacemichigan.com CNAME .
-postmaster.meetingplacemichigan.com CNAME .
-relay.meetingplacemichigan.com CNAME .
-relay1.meetingplacemichigan.com CNAME .
-secure.meetingplacemichigan.com CNAME .
-server.meetingplacemichigan.com CNAME .
-server2.meetingplacemichigan.com CNAME .
 smtp.meetingplacemichigan.com CNAME .
-smtp1.meetingplacemichigan.com CNAME .
-smtp2.meetingplacemichigan.com CNAME .
-smtps.meetingplacemichigan.com CNAME .
-smtpseguro.meetingplacemichigan.com CNAME .
 www.meetingplacemichigan.com CNAME .
-www1.meetingplacemichigan.com CNAME .
-zimbra.meetingplacemichigan.com CNAME .
 meetlocalcougars.com CNAME .
 antispam.meetlocalcougars.com CNAME .
 auth.meetlocalcougars.com CNAME .
@@ -14820,7 +14786,6 @@ media.pof.com CNAME .
 mixerid.pof.com CNAME .
 mx.pof.com CNAME .
 nl.pof.com CNAME .
-oiuwhuth3ut.pof.com CNAME .
 api.van1.pd.pof.com CNAME .
 pics.pof.com CNAME .
 pics1.pof.com CNAME .
@@ -18624,6 +18589,8 @@ aff.dating CNAME .
 affair.dating CNAME .
 cheaters.affair.dating CNAME .
 meetup.affair.dating CNAME .
+affaire.dating CNAME .
+www.affaire.dating CNAME .
 auth.affinity.dating CNAME .
 email.affinity.dating CNAME .
 members.affinity.dating CNAME .
@@ -19220,7 +19187,6 @@ www.fotochat.dating CNAME .
 freeadults.dating CNAME .
 www.freeadults.dating CNAME .
 freeday.dating CNAME .
-api.freely.dating CNAME .
 www.frekk.dating CNAME .
 frekke.dating CNAME .
 fresh.dating CNAME .
@@ -19363,7 +19329,6 @@ post.hott.dating CNAME .
 static1.hott.dating CNAME .
 static2.hott.dating CNAME .
 hotties.dating CNAME .
-huk.dating CNAME .
 hydra.dating CNAME .
 blog.hydra.dating CNAME .
 business.hydra.dating CNAME .
@@ -20027,8 +19992,6 @@ www.singleglow.dating CNAME .
 singleinlove.dating CNAME .
 www.singleinlove.dating CNAME .
 singlemums.dating CNAME .
-singlerocket.dating CNAME .
-www.singlerocket.dating CNAME .
 crfprofile.ski.dating CNAME .
 crmprofile.ski.dating CNAME .
 dev.ski.dating CNAME .
@@ -21652,4 +21615,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: f320fb45e9c495174bec80531ccbc13d
+; md5: 8d2db0ec8f17317cc726c6ba165856b2
