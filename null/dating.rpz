@@ -1,8 +1,8 @@
-; Last modified: 2023-10-06T01:26:00+08:00
+; Last modified: 2023-10-07T01:26:04+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310060126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310070126 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -468,10 +468,12 @@ welshdating.dateworld.co A 0.0.0.0
 wichitadating.dateworld.co A 0.0.0.0
 winnipegdating.dateworld.co A 0.0.0.0
 feeld.co A 0.0.0.0
+api.feeld.co A 0.0.0.0
 brand.feeld.co A 0.0.0.0
 dev-api.feeld.co A 0.0.0.0
 core.dev-api.feeld.co A 0.0.0.0
 get.feeld.co A 0.0.0.0
+links.feeld.co A 0.0.0.0
 mail.feeld.co A 0.0.0.0
 open.feeld.co A 0.0.0.0
 staging.feeld.co A 0.0.0.0
@@ -11996,6 +11998,7 @@ blog.loveawake.com A 0.0.0.0
 box.loveawake.com A 0.0.0.0
 comune.loveawake.com A 0.0.0.0
 correo.loveawake.com A 0.0.0.0
+deploy.loveawake.com A 0.0.0.0
 dev.loveawake.com A 0.0.0.0
 dns.loveawake.com A 0.0.0.0
 docs.loveawake.com A 0.0.0.0
@@ -21615,4 +21618,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: 8d2db0ec8f17317cc726c6ba165856b2
+; md5: b60dce15f96bd9c90259d96923e4ed75
