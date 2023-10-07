@@ -1,8 +1,8 @@
-; Last modified: 2023-10-07T01:26:04+08:00
+; Last modified: 2023-10-08T01:26:01+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310070126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310080126 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -655,7 +655,6 @@ a4anetwork.com A 0.0.0.0
 t1.a4anetwork.com A 0.0.0.0
 www.a4anetwork.com A 0.0.0.0
 absolute-angels-bangkok.com A 0.0.0.0
-www.absolute-angels-bangkok.com A 0.0.0.0
 achatapp.com A 0.0.0.0
 api.achatapp.com A 0.0.0.0
 ws.achatapp.com A 0.0.0.0
@@ -10780,6 +10779,8 @@ img2.hitwe.com A 0.0.0.0
 m.hitwe.com A 0.0.0.0
 mlkp.hitwe.com A 0.0.0.0
 www.hitwe.com A 0.0.0.0
+hometownescorts.com A 0.0.0.0
+www.hometownescorts.com A 0.0.0.0
 hoodatingapp.com A 0.0.0.0
 www.hoodatingapp.com A 0.0.0.0
 hookupabout.com A 0.0.0.0
@@ -21618,4 +21619,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: b60dce15f96bd9c90259d96923e4ed75
+; md5: 47ebec31371e828e4fc7f327ae05fd91

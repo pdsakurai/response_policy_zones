@@ -1,8 +1,8 @@
-; Last modified: 2023-10-07T01:25:46+08:00
+; Last modified: 2023-10-08T01:25:43+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310070125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310080125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -655,7 +655,6 @@ a4anetwork.com CNAME .
 t1.a4anetwork.com CNAME .
 www.a4anetwork.com CNAME .
 absolute-angels-bangkok.com CNAME .
-www.absolute-angels-bangkok.com CNAME .
 achatapp.com CNAME .
 api.achatapp.com CNAME .
 ws.achatapp.com CNAME .
@@ -10780,6 +10779,8 @@ img2.hitwe.com CNAME .
 m.hitwe.com CNAME .
 mlkp.hitwe.com CNAME .
 www.hitwe.com CNAME .
+hometownescorts.com CNAME .
+www.hometownescorts.com CNAME .
 hoodatingapp.com CNAME .
 www.hoodatingapp.com CNAME .
 hookupabout.com CNAME .
@@ -21618,4 +21619,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: b60dce15f96bd9c90259d96923e4ed75
+; md5: 47ebec31371e828e4fc7f327ae05fd91
