@@ -1,8 +1,8 @@
-; Last modified: 2023-10-08T01:25:43+08:00
+; Last modified: 2023-10-09T01:25:44+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310080125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310090125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -19828,7 +19828,6 @@ tinder.pc.dating CNAME .
 www.pc.dating CNAME .
 pegging.dating CNAME .
 www.pegging.dating CNAME .
-perfectmatch.dating CNAME .
 www.perfectmatch.dating CNAME .
 phi.dating CNAME .
 sitemaps.phi.dating CNAME .
@@ -21619,4 +21618,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: 47ebec31371e828e4fc7f327ae05fd91
+; md5: a60a153ae4626e06b5d76b2319e66000
