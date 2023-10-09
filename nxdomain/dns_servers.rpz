@@ -1,9 +1,9 @@
-; Last modified: 2023-10-09T01:25:44+08:00
+; Last modified: 2023-10-10T01:25:42+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 ; Source #2: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310090125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310100125 86400 60 2592000 30
  IN NS localhost.
 
 ns.00dani.me CNAME .
@@ -901,84 +901,84 @@ cc2.v8er.net CNAME .
 pihole1.hoerli.net CNAME .
 ccadguard.ddns.net CNAME .
 pihole2.hoerli.net CNAME .
-c-c.eve.surf CNAME .
 pihole3.hoerli.net CNAME .
-pihole4.hoerli.net CNAME .
 ccyykk.top CNAME .
+pihole4.hoerli.net CNAME .
 keithchung.hopto.org CNAME .
 dns.hostux.net CNAME .
-dns.hotta.page CNAME .
 ch01adguardho.me CNAME .
+dns.hotta.page CNAME .
 doh.hottis.de CNAME .
-hshh.org CNAME .
 chanhome.xyz CNAME .
+hshh.org CNAME .
 doth.huque.com CNAME .
 opennic.i2pd.xyz CNAME .
-opennic2.i2pd.xyz CNAME .
 chertila.tk CNAME .
-dns.bw.i81.ru CNAME .
+opennic2.i2pd.xyz CNAME .
 chewbacca.meganerd.nl CNAME .
-dns-public.ibakerserver.pt CNAME .
+dns.bw.i81.ru CNAME .
 chlaebi.synology.me CNAME .
-mask.icloud.com CNAME .
+dns-public.ibakerserver.pt CNAME .
 chno.xyz CNAME .
+mask.icloud.com CNAME .
 mask-api.icloud.com CNAME .
-mask-h2.icloud.com CNAME .
 chromium.dns.nextdns.io CNAME .
+mask-h2.icloud.com CNAME .
 chungocoai.name.vn CNAME .
 ch-zur-w-1.nashkan.net CNAME .
-dns.ihaveacloud.com CNAME .
 cirruscloud.it CNAME .
-iij.jp CNAME .
+dns.ihaveacloud.com CNAME .
 cld.996969.xyz CNAME .
+iij.jp CNAME .
 public.dns.iij.jp CNAME .
-dns.ikataruto.com CNAME .
 cleandns.tk CNAME .
+dns.ikataruto.com CNAME .
 clearnet.zerologdns.com CNAME .
-dns.imaicool.com CNAME .
 clearweb.woodbridge.club CNAME .
-noads.imbuffering.com CNAME .
+dns.imaicool.com CNAME .
 clientdns3.softcom.net CNAME .
+noads.imbuffering.com CNAME .
 dns1.in-berlin.de CNAME .
-dns.indust.me CNAME .
 cloud8.yydsgod.eu.org CNAME .
+dns.indust.me CNAME .
 dns.infosec.xyz CNAME .
 qlf-doh.inria.fr CNAME .
 ipoac.nl CNAME .
-dns.ipv6dns.com CNAME .
 cloud.samutz.com CNAME .
-ns1-doh.iriseden.fr CNAME .
+dns.ipv6dns.com CNAME .
 cloudsrv.charitosnet.de CNAME .
-ns2-doh.iriseden.fr CNAME .
+ns1-doh.iriseden.fr CNAME .
 cloud.tezoi.com CNAME .
+ns2-doh.iriseden.fr CNAME .
 irre.li CNAME .
 dns1.irumatech.com CNAME .
-dns.islandnet.com CNAME .
 c.malicioustation.icu CNAME .
-dns.itdept.pro CNAME .
+dns.islandnet.com CNAME .
 cname-for-doh.go-behind.one CNAME .
-pdns.itxe.net CNAME .
+dns.itdept.pro CNAME .
 cn.turngreatwall.com CNAME .
+pdns.itxe.net CNAME .
 ivnkn.xyz CNAME .
 jabber-germany.de CNAME .
 www.jabber-germany.de CNAME .
-jackyes.ovh CNAME .
 connect.edmoon.co.uk CNAME .
-tj.jamesxue.xyz CNAME .
+jackyes.ovh CNAME .
 connectix.xyz CNAME .
-doh.jeroenhd.nl CNAME .
+tj.jamesxue.xyz CNAME .
 connect.moonficonnect.com CNAME .
+doh.jeroenhd.nl CNAME .
 contacts.dehb.ru CNAME .
-dns.jinwoo.dev CNAME .
 cpux.ru CNAME .
+dns.jinwoo.dev CNAME .
 craft.vps.pw CNAME .
-dns.joey01245.nl CNAME .
 crd.circl.lu CNAME .
-opencdn.jomodns.com CNAME .
+dns.joey01245.nl CNAME .
 cristianocosta.me CNAME .
-dns.jstockley.com CNAME .
+opencdn.jomodns.com CNAME .
 cserv4.schantl.io CNAME .
+dns.jstockley.com CNAME .
 dns.justinnetworkingsolutions.com CNAME .
+cube.neubsi.at CNAME .
 dns.k3nny.fr CNAME .
 cv-2173.dnsserver.eu CNAME .
 dns.kamilszczepanski.com CNAME .
@@ -1147,7 +1147,6 @@ dns.aa.net.uk CNAME .
 dns.193.gs CNAME .
 doh.infotek.net.id CNAME .
 dns1.a-desg.cc CNAME .
-cube.neubsi.at CNAME .
 dns1.biryuk.name CNAME .
 dns.neubsi.at CNAME .
 dns.1.bsh4.com CNAME .
@@ -2331,7 +2330,6 @@ new.nhunor.com CNAME .
 next.miao.ninja CNAME .
 nfti.duckdns.org CNAME .
 ng-lag-w-1.nashkan.net CNAME .
-nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
@@ -2909,4 +2907,4 @@ zetland.rm-ni.uk CNAME .
 zh.sorannbb.buzz CNAME .
 zswb05wng16r892f.eastasia.cloudapp.azure.com CNAME .
 
-; md5: 774bae93d5b6ebb675bff5cb38e776e6
+; md5: 41c2cc5e4a73c7fd81f8a894138c6ee3

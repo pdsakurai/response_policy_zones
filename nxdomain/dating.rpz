@@ -1,8 +1,8 @@
-; Last modified: 2023-10-09T01:25:44+08:00
+; Last modified: 2023-10-10T01:25:42+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310090125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310100125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -3514,6 +3514,7 @@ travel.blossoms.com CNAME .
 upload.blossoms.com CNAME .
 uploadaws.blossoms.com CNAME .
 uploadsg.blossoms.com CNAME .
+web1.blossoms.com CNAME .
 web2.blossoms.com CNAME .
 web4.blossoms.com CNAME .
 web5.blossoms.com CNAME .
@@ -9155,6 +9156,7 @@ new.faceflow.com CNAME .
 signaling.faceflow.com CNAME .
 stun.faceflow.com CNAME .
 turn.faceflow.com CNAME .
+turn-chicago.faceflow.com CNAME .
 turn-frankfurt.faceflow.com CNAME .
 turn-india.faceflow.com CNAME .
 turn-sf.faceflow.com CNAME .
@@ -14145,6 +14147,10 @@ verify.onlyfans.com CNAME .
 webhook.onlyfans.com CNAME .
 welcome.onlyfans.com CNAME .
 www.onlyfans.com CNAME .
+zendesk1.onlyfans.com CNAME .
+zendesk2.onlyfans.com CNAME .
+zendesk3.onlyfans.com CNAME .
+zendesk4.onlyfans.com CNAME .
 onlyswinging.com CNAME .
 beta.onlyswinging.com CNAME .
 cpcalendars.onlyswinging.com CNAME .
@@ -19382,7 +19388,6 @@ intrigue.dating CNAME .
 introvert.dating CNAME .
 m.invite.dating CNAME .
 www.iou.dating CNAME .
-ru.its.dating CNAME .
 jigsaw.dating CNAME .
 cdn.jigsaw.dating CNAME .
 deeplinker.jigsaw.dating CNAME .
@@ -19828,7 +19833,6 @@ tinder.pc.dating CNAME .
 www.pc.dating CNAME .
 pegging.dating CNAME .
 www.pegging.dating CNAME .
-www.perfectmatch.dating CNAME .
 phi.dating CNAME .
 sitemaps.phi.dating CNAME .
 www.phi.dating CNAME .
@@ -21618,4 +21622,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: a60a153ae4626e06b5d76b2319e66000
+; md5: 4248287c1573c14763568de7e8471e78

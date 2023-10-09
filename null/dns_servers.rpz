@@ -1,9 +1,9 @@
-; Last modified: 2023-10-09T01:26:02+08:00
+; Last modified: 2023-10-10T01:26:03+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 ; Source #2: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310090126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310100126 86400 60 2592000 30
  IN NS localhost.
 
 ns.00dani.me A 0.0.0.0
@@ -901,84 +901,84 @@ cc2.v8er.net A 0.0.0.0
 pihole1.hoerli.net A 0.0.0.0
 ccadguard.ddns.net A 0.0.0.0
 pihole2.hoerli.net A 0.0.0.0
-c-c.eve.surf A 0.0.0.0
 pihole3.hoerli.net A 0.0.0.0
-pihole4.hoerli.net A 0.0.0.0
 ccyykk.top A 0.0.0.0
+pihole4.hoerli.net A 0.0.0.0
 keithchung.hopto.org A 0.0.0.0
 dns.hostux.net A 0.0.0.0
-dns.hotta.page A 0.0.0.0
 ch01adguardho.me A 0.0.0.0
+dns.hotta.page A 0.0.0.0
 doh.hottis.de A 0.0.0.0
-hshh.org A 0.0.0.0
 chanhome.xyz A 0.0.0.0
+hshh.org A 0.0.0.0
 doth.huque.com A 0.0.0.0
 opennic.i2pd.xyz A 0.0.0.0
-opennic2.i2pd.xyz A 0.0.0.0
 chertila.tk A 0.0.0.0
-dns.bw.i81.ru A 0.0.0.0
+opennic2.i2pd.xyz A 0.0.0.0
 chewbacca.meganerd.nl A 0.0.0.0
-dns-public.ibakerserver.pt A 0.0.0.0
+dns.bw.i81.ru A 0.0.0.0
 chlaebi.synology.me A 0.0.0.0
-mask.icloud.com A 0.0.0.0
+dns-public.ibakerserver.pt A 0.0.0.0
 chno.xyz A 0.0.0.0
+mask.icloud.com A 0.0.0.0
 mask-api.icloud.com A 0.0.0.0
-mask-h2.icloud.com A 0.0.0.0
 chromium.dns.nextdns.io A 0.0.0.0
+mask-h2.icloud.com A 0.0.0.0
 chungocoai.name.vn A 0.0.0.0
 ch-zur-w-1.nashkan.net A 0.0.0.0
-dns.ihaveacloud.com A 0.0.0.0
 cirruscloud.it A 0.0.0.0
-iij.jp A 0.0.0.0
+dns.ihaveacloud.com A 0.0.0.0
 cld.996969.xyz A 0.0.0.0
+iij.jp A 0.0.0.0
 public.dns.iij.jp A 0.0.0.0
-dns.ikataruto.com A 0.0.0.0
 cleandns.tk A 0.0.0.0
+dns.ikataruto.com A 0.0.0.0
 clearnet.zerologdns.com A 0.0.0.0
-dns.imaicool.com A 0.0.0.0
 clearweb.woodbridge.club A 0.0.0.0
-noads.imbuffering.com A 0.0.0.0
+dns.imaicool.com A 0.0.0.0
 clientdns3.softcom.net A 0.0.0.0
+noads.imbuffering.com A 0.0.0.0
 dns1.in-berlin.de A 0.0.0.0
-dns.indust.me A 0.0.0.0
 cloud8.yydsgod.eu.org A 0.0.0.0
+dns.indust.me A 0.0.0.0
 dns.infosec.xyz A 0.0.0.0
 qlf-doh.inria.fr A 0.0.0.0
 ipoac.nl A 0.0.0.0
-dns.ipv6dns.com A 0.0.0.0
 cloud.samutz.com A 0.0.0.0
-ns1-doh.iriseden.fr A 0.0.0.0
+dns.ipv6dns.com A 0.0.0.0
 cloudsrv.charitosnet.de A 0.0.0.0
-ns2-doh.iriseden.fr A 0.0.0.0
+ns1-doh.iriseden.fr A 0.0.0.0
 cloud.tezoi.com A 0.0.0.0
+ns2-doh.iriseden.fr A 0.0.0.0
 irre.li A 0.0.0.0
 dns1.irumatech.com A 0.0.0.0
-dns.islandnet.com A 0.0.0.0
 c.malicioustation.icu A 0.0.0.0
-dns.itdept.pro A 0.0.0.0
+dns.islandnet.com A 0.0.0.0
 cname-for-doh.go-behind.one A 0.0.0.0
-pdns.itxe.net A 0.0.0.0
+dns.itdept.pro A 0.0.0.0
 cn.turngreatwall.com A 0.0.0.0
+pdns.itxe.net A 0.0.0.0
 ivnkn.xyz A 0.0.0.0
 jabber-germany.de A 0.0.0.0
 www.jabber-germany.de A 0.0.0.0
-jackyes.ovh A 0.0.0.0
 connect.edmoon.co.uk A 0.0.0.0
-tj.jamesxue.xyz A 0.0.0.0
+jackyes.ovh A 0.0.0.0
 connectix.xyz A 0.0.0.0
-doh.jeroenhd.nl A 0.0.0.0
+tj.jamesxue.xyz A 0.0.0.0
 connect.moonficonnect.com A 0.0.0.0
+doh.jeroenhd.nl A 0.0.0.0
 contacts.dehb.ru A 0.0.0.0
-dns.jinwoo.dev A 0.0.0.0
 cpux.ru A 0.0.0.0
+dns.jinwoo.dev A 0.0.0.0
 craft.vps.pw A 0.0.0.0
-dns.joey01245.nl A 0.0.0.0
 crd.circl.lu A 0.0.0.0
-opencdn.jomodns.com A 0.0.0.0
+dns.joey01245.nl A 0.0.0.0
 cristianocosta.me A 0.0.0.0
-dns.jstockley.com A 0.0.0.0
+opencdn.jomodns.com A 0.0.0.0
 cserv4.schantl.io A 0.0.0.0
+dns.jstockley.com A 0.0.0.0
 dns.justinnetworkingsolutions.com A 0.0.0.0
+cube.neubsi.at A 0.0.0.0
 dns.k3nny.fr A 0.0.0.0
 cv-2173.dnsserver.eu A 0.0.0.0
 dns.kamilszczepanski.com A 0.0.0.0
@@ -1147,7 +1147,6 @@ dns.aa.net.uk A 0.0.0.0
 dns.193.gs A 0.0.0.0
 doh.infotek.net.id A 0.0.0.0
 dns1.a-desg.cc A 0.0.0.0
-cube.neubsi.at A 0.0.0.0
 dns1.biryuk.name A 0.0.0.0
 dns.neubsi.at A 0.0.0.0
 dns.1.bsh4.com A 0.0.0.0
@@ -2331,7 +2330,6 @@ new.nhunor.com A 0.0.0.0
 next.miao.ninja A 0.0.0.0
 nfti.duckdns.org A 0.0.0.0
 ng-lag-w-1.nashkan.net A 0.0.0.0
-nhatlong.work A 0.0.0.0
 nicktruehome.ddns.net A 0.0.0.0
 nilanjan.me A 0.0.0.0
 nilanjan.rocks A 0.0.0.0
@@ -2909,4 +2907,4 @@ zetland.rm-ni.uk A 0.0.0.0
 zh.sorannbb.buzz A 0.0.0.0
 zswb05wng16r892f.eastasia.cloudapp.azure.com A 0.0.0.0
 
-; md5: 774bae93d5b6ebb675bff5cb38e776e6
+; md5: 41c2cc5e4a73c7fd81f8a894138c6ee3

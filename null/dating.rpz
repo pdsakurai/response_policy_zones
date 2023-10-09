@@ -1,8 +1,8 @@
-; Last modified: 2023-10-09T01:26:02+08:00
+; Last modified: 2023-10-10T01:26:02+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310090126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310100126 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -3514,6 +3514,7 @@ travel.blossoms.com A 0.0.0.0
 upload.blossoms.com A 0.0.0.0
 uploadaws.blossoms.com A 0.0.0.0
 uploadsg.blossoms.com A 0.0.0.0
+web1.blossoms.com A 0.0.0.0
 web2.blossoms.com A 0.0.0.0
 web4.blossoms.com A 0.0.0.0
 web5.blossoms.com A 0.0.0.0
@@ -9155,6 +9156,7 @@ new.faceflow.com A 0.0.0.0
 signaling.faceflow.com A 0.0.0.0
 stun.faceflow.com A 0.0.0.0
 turn.faceflow.com A 0.0.0.0
+turn-chicago.faceflow.com A 0.0.0.0
 turn-frankfurt.faceflow.com A 0.0.0.0
 turn-india.faceflow.com A 0.0.0.0
 turn-sf.faceflow.com A 0.0.0.0
@@ -14145,6 +14147,10 @@ verify.onlyfans.com A 0.0.0.0
 webhook.onlyfans.com A 0.0.0.0
 welcome.onlyfans.com A 0.0.0.0
 www.onlyfans.com A 0.0.0.0
+zendesk1.onlyfans.com A 0.0.0.0
+zendesk2.onlyfans.com A 0.0.0.0
+zendesk3.onlyfans.com A 0.0.0.0
+zendesk4.onlyfans.com A 0.0.0.0
 onlyswinging.com A 0.0.0.0
 beta.onlyswinging.com A 0.0.0.0
 cpcalendars.onlyswinging.com A 0.0.0.0
@@ -19382,7 +19388,6 @@ intrigue.dating A 0.0.0.0
 introvert.dating A 0.0.0.0
 m.invite.dating A 0.0.0.0
 www.iou.dating A 0.0.0.0
-ru.its.dating A 0.0.0.0
 jigsaw.dating A 0.0.0.0
 cdn.jigsaw.dating A 0.0.0.0
 deeplinker.jigsaw.dating A 0.0.0.0
@@ -19828,7 +19833,6 @@ tinder.pc.dating A 0.0.0.0
 www.pc.dating A 0.0.0.0
 pegging.dating A 0.0.0.0
 www.pegging.dating A 0.0.0.0
-www.perfectmatch.dating A 0.0.0.0
 phi.dating A 0.0.0.0
 sitemaps.phi.dating A 0.0.0.0
 www.phi.dating A 0.0.0.0
@@ -21618,4 +21622,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: a60a153ae4626e06b5d76b2319e66000
+; md5: 4248287c1573c14763568de7e8471e78
