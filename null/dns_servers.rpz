@@ -1,9 +1,9 @@
-; Last modified: 2023-10-10T01:26:03+08:00
+; Last modified: 2023-10-11T01:26:01+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 ; Source #2: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310100126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310110126 86400 60 2592000 30
  IN NS localhost.
 
 ns.00dani.me A 0.0.0.0
@@ -1834,7 +1834,6 @@ dns.wpice.ru A 0.0.0.0
 dns.wugui.zone A 0.0.0.0
 dns.xiayang.space A 0.0.0.0
 dns.xie.ke A 0.0.0.0
-dns.x.ovpn.bond A 0.0.0.0
 dns.ygonline.de A 0.0.0.0
 dns.yumenashyi.com A 0.0.0.0
 dns.yyaan.com A 0.0.0.0
@@ -2230,13 +2229,13 @@ link.altapo.ru A 0.0.0.0
 linodesg2sg2.hujiajun.com A 0.0.0.0
 lipunyushka.ru A 0.0.0.0
 live.jjlizz.com A 0.0.0.0
+l.l.ovpn.bond A 0.0.0.0
 lmz.meudns.minhacasainteligente.cf A 0.0.0.0
 locaweb.moleniuk.com A 0.0.0.0
 lon-dns.bitdefender.net A 0.0.0.0
 lorc17-dns.komeho.info A 0.0.0.0
 loudsheep.ddns.net A 0.0.0.0
 lova.long-nguyen.info A 0.0.0.0
-l.ovpn.bond A 0.0.0.0
 lqh280.iok.la A 0.0.0.0
 lt-vil-w-2.nashkan.net A 0.0.0.0
 lt-vil-w-3.nashkan.net A 0.0.0.0
@@ -2247,7 +2246,6 @@ lux.sn0w.nl A 0.0.0.0
 lv-rig-w-1.nashkan.net A 0.0.0.0
 lv-rig-w-2.nashkan.net A 0.0.0.0
 lwhjszcnzjhz.site A 0.0.0.0
-l.x.ovpn.bond A 0.0.0.0
 madrot.net A 0.0.0.0
 maikel.greppie.nl A 0.0.0.0
 mail.4-the.win A 0.0.0.0
@@ -2330,6 +2328,7 @@ new.nhunor.com A 0.0.0.0
 next.miao.ninja A 0.0.0.0
 nfti.duckdns.org A 0.0.0.0
 ng-lag-w-1.nashkan.net A 0.0.0.0
+nhatlong.work A 0.0.0.0
 nicktruehome.ddns.net A 0.0.0.0
 nilanjan.me A 0.0.0.0
 nilanjan.rocks A 0.0.0.0
@@ -2364,8 +2363,6 @@ ns.ciwer.cn A 0.0.0.0
 ns.hjk.kr A 0.0.0.0
 ns.hjk.me A 0.0.0.0
 ns.lov.host A 0.0.0.0
-ns.l.ovpn.bond A 0.0.0.0
-ns.l.x.ovpn.bond A 0.0.0.0
 ns.mtsoln.com A 0.0.0.0
 ns.osipenko.space A 0.0.0.0
 ns.palvikt.us A 0.0.0.0
@@ -2375,7 +2372,6 @@ ns.slynx.net A 0.0.0.0
 ns.solutics.ec A 0.0.0.0
 ns.tkdns.ru A 0.0.0.0
 ns.try-dns.online A 0.0.0.0
-ns.x.l.ovpn.bond A 0.0.0.0
 ntu.ssooss.win A 0.0.0.0
 nudnud.com A 0.0.0.0
 nukys.ca A 0.0.0.0
@@ -2907,4 +2903,4 @@ zetland.rm-ni.uk A 0.0.0.0
 zh.sorannbb.buzz A 0.0.0.0
 zswb05wng16r892f.eastasia.cloudapp.azure.com A 0.0.0.0
 
-; md5: 41c2cc5e4a73c7fd81f8a894138c6ee3
+; md5: 731c68cb48f3fd9692ee7d82fb8f908a

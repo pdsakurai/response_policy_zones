@@ -1,9 +1,9 @@
-; Last modified: 2023-10-10T01:25:42+08:00
+; Last modified: 2023-10-11T01:25:42+08:00
 ; Source #1: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 ; Source #2: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310100125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310110125 86400 60 2592000 30
  IN NS localhost.
 
 ns.00dani.me CNAME .
@@ -1834,7 +1834,6 @@ dns.wpice.ru CNAME .
 dns.wugui.zone CNAME .
 dns.xiayang.space CNAME .
 dns.xie.ke CNAME .
-dns.x.ovpn.bond CNAME .
 dns.ygonline.de CNAME .
 dns.yumenashyi.com CNAME .
 dns.yyaan.com CNAME .
@@ -2230,13 +2229,13 @@ link.altapo.ru CNAME .
 linodesg2sg2.hujiajun.com CNAME .
 lipunyushka.ru CNAME .
 live.jjlizz.com CNAME .
+l.l.ovpn.bond CNAME .
 lmz.meudns.minhacasainteligente.cf CNAME .
 locaweb.moleniuk.com CNAME .
 lon-dns.bitdefender.net CNAME .
 lorc17-dns.komeho.info CNAME .
 loudsheep.ddns.net CNAME .
 lova.long-nguyen.info CNAME .
-l.ovpn.bond CNAME .
 lqh280.iok.la CNAME .
 lt-vil-w-2.nashkan.net CNAME .
 lt-vil-w-3.nashkan.net CNAME .
@@ -2247,7 +2246,6 @@ lux.sn0w.nl CNAME .
 lv-rig-w-1.nashkan.net CNAME .
 lv-rig-w-2.nashkan.net CNAME .
 lwhjszcnzjhz.site CNAME .
-l.x.ovpn.bond CNAME .
 madrot.net CNAME .
 maikel.greppie.nl CNAME .
 mail.4-the.win CNAME .
@@ -2330,6 +2328,7 @@ new.nhunor.com CNAME .
 next.miao.ninja CNAME .
 nfti.duckdns.org CNAME .
 ng-lag-w-1.nashkan.net CNAME .
+nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
@@ -2364,8 +2363,6 @@ ns.ciwer.cn CNAME .
 ns.hjk.kr CNAME .
 ns.hjk.me CNAME .
 ns.lov.host CNAME .
-ns.l.ovpn.bond CNAME .
-ns.l.x.ovpn.bond CNAME .
 ns.mtsoln.com CNAME .
 ns.osipenko.space CNAME .
 ns.palvikt.us CNAME .
@@ -2375,7 +2372,6 @@ ns.slynx.net CNAME .
 ns.solutics.ec CNAME .
 ns.tkdns.ru CNAME .
 ns.try-dns.online CNAME .
-ns.x.l.ovpn.bond CNAME .
 ntu.ssooss.win CNAME .
 nudnud.com CNAME .
 nukys.ca CNAME .
@@ -2907,4 +2903,4 @@ zetland.rm-ni.uk CNAME .
 zh.sorannbb.buzz CNAME .
 zswb05wng16r892f.eastasia.cloudapp.azure.com CNAME .
 
-; md5: 41c2cc5e4a73c7fd81f8a894138c6ee3
+; md5: 731c68cb48f3fd9692ee7d82fb8f908a
