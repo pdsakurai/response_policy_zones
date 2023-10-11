@@ -1,8 +1,8 @@
-; Last modified: 2023-10-05T08:25:17+08:00
+; Last modified: 2023-10-12T01:26:01+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310050825 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310120126 86400 60 2592000 30
  IN NS localhost.
 
 qalerts.app A 0.0.0.0
@@ -358,6 +358,7 @@ tmp.americanthinker.com A 0.0.0.0
 www.americanthinker.com A 0.0.0.0
 amren.com A 0.0.0.0
 archive.amren.com A 0.0.0.0
+dev.amren.com A 0.0.0.0
 store.amren.com A 0.0.0.0
 www.store.amren.com A 0.0.0.0
 storedev.amren.com A 0.0.0.0
@@ -2127,4 +2128,4 @@ ww25.wearethene.ws A 0.0.0.0
 ww38.wearethene.ws A 0.0.0.0
 www.wearethene.ws A 0.0.0.0
 
-; md5: ac525baa3c563edb6ae2a4e1cdd5c104
+; md5: 8d8b07a0276248638eed8872bb77b20e
