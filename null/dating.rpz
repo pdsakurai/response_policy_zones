@@ -1,8 +1,8 @@
-; Last modified: 2023-10-10T01:26:02+08:00
+; Last modified: 2023-10-13T01:26:43+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310100126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310130126 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -19454,7 +19454,6 @@ www.kinky-lovers.dating A 0.0.0.0
 kinkysex.dating A 0.0.0.0
 kinkyworld.dating A 0.0.0.0
 www.kinkyworld.dating A 0.0.0.0
-www.kites.dating A 0.0.0.0
 www.kontakte.dating A 0.0.0.0
 latinamericancupid.dating A 0.0.0.0
 www.latinamericancupid.dating A 0.0.0.0
@@ -21622,4 +21621,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: 4248287c1573c14763568de7e8471e78
+; md5: d337a7e1f30be944751a5bfe52ac41cb
