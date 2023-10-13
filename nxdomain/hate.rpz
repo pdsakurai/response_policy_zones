@@ -1,8 +1,8 @@
-; Last modified: 2023-10-12T01:25:41+08:00
+; Last modified: 2023-10-14T01:25:51+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310120125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310140125 86400 60 2592000 30
  IN NS localhost.
 
 qalerts.app CNAME .
@@ -600,6 +600,7 @@ dermwipes.com.lindelltv.com CNAME .
 kaliwellnesswv.com.lindelltv.com CNAME .
 texas-domains.com.lindelltv.com CNAME .
 theultimatevaluepak.com.lindelltv.com CNAME .
+uniquewishes.com.lindelltv.com CNAME .
 bulletin.info.lindelltv.com CNAME .
 net.lindelltv.com CNAME .
 faqaboutgod.net.lindelltv.com CNAME .
@@ -2128,4 +2129,4 @@ ww25.wearethene.ws CNAME .
 ww38.wearethene.ws CNAME .
 www.wearethene.ws CNAME .
 
-; md5: 8d8b07a0276248638eed8872bb77b20e
+; md5: ba5bb33a36aa2486189537ac87ee4091
