@@ -1,8 +1,8 @@
-; Last modified: 2023-10-13T01:26:43+08:00
+; Last modified: 2023-10-15T01:25:48+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310130126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310150125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -1637,7 +1637,6 @@ www.antiland.com A 0.0.0.0
 apple-escort.com A 0.0.0.0
 ftp.apple-escort.com A 0.0.0.0
 mail.apple-escort.com A 0.0.0.0
-sitemaps.apple-escort.com A 0.0.0.0
 webmail.apple-escort.com A 0.0.0.0
 www.apple-escort.com A 0.0.0.0
 approndevo.com A 0.0.0.0
@@ -18796,7 +18795,6 @@ blindspot.dating A 0.0.0.0
 blockchain.dating A 0.0.0.0
 shop.blockchain.dating A 0.0.0.0
 test.blockchain.dating A 0.0.0.0
-boiler.dating A 0.0.0.0
 bokay.dating A 0.0.0.0
 www.bokay.dating A 0.0.0.0
 app.bold.dating A 0.0.0.0
@@ -21621,4 +21619,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: d337a7e1f30be944751a5bfe52ac41cb
+; md5: 31194dbd91887b22c94645f54476e4f5
