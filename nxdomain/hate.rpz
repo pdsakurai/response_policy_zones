@@ -1,8 +1,8 @@
-; Last modified: 2023-10-14T01:25:51+08:00
+; Last modified: 2023-10-16T01:25:36+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310140125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310160125 86400 60 2592000 30
  IN NS localhost.
 
 qalerts.app CNAME .
@@ -664,6 +664,7 @@ blueberrypowder.naturalnews.com CNAME .
 bluelightblockingamberglasses.naturalnews.com CNAME .
 bluelightblockingglasses.naturalnews.com CNAME .
 brighteonconversations.naturalnews.com CNAME .
+broccolisprout.naturalnews.com CNAME .
 bugdefender.naturalnews.com CNAME .
 bugsawayanddefender.naturalnews.com CNAME .
 bugsawayanddefendercombo.naturalnews.com CNAME .
@@ -701,6 +702,7 @@ coldbrewcoffee.naturalnews.com CNAME .
 collagenmct.naturalnews.com CNAME .
 collagenpeptides.naturalnews.com CNAME .
 collagenpeptidesandoptimsm.naturalnews.com CNAME .
+colloidalsilver.naturalnews.com CNAME .
 colloidalsilvercinnamonmouthwash.naturalnews.com CNAME .
 colloidalsilvercontactdefensespray.naturalnews.com CNAME .
 colloidalsilvermouthwash.naturalnews.com CNAME .
@@ -709,6 +711,7 @@ colloidalsilverskinsootherandimmunebooster.naturalnews.com CNAME .
 colloidalsilverskinsootherandpetbedding.naturalnews.com CNAME .
 colloidalsilverspray.naturalnews.com CNAME .
 concentratedmineraldrops.naturalnews.com CNAME .
+creamycoconutblueberrysmoothie.naturalnews.com CNAME .
 crystallizedginger.naturalnews.com CNAME .
 cubebpepperberries.naturalnews.com CNAME .
 cuppingtherapy.naturalnews.com CNAME .
@@ -735,6 +738,7 @@ fermentedsuper30.naturalnews.com CNAME .
 fermentedsuperfood.naturalnews.com CNAME .
 fivehtp.naturalnews.com CNAME .
 flaxseedcrackers.naturalnews.com CNAME .
+flourlessavocadobrownies.naturalnews.com CNAME .
 flourlesschocolatehazelnutstuffedpancakes.naturalnews.com CNAME .
 foodforensics.naturalnews.com CNAME .
 fourthofjulyevent.naturalnews.com CNAME .
@@ -778,6 +782,8 @@ jojobaandsandalwoodseedoil.naturalnews.com CNAME .
 jojobaoilpulling.naturalnews.com CNAME .
 juventmicroimpactplatform.naturalnews.com CNAME .
 kale.naturalnews.com CNAME .
+knife.naturalnews.com CNAME .
+kombucha.naturalnews.com CNAME .
 labordayevent.naturalnews.com CNAME .
 labs.naturalnews.com CNAME .
 laundrydetergentpowder.naturalnews.com CNAME .
@@ -914,6 +920,7 @@ organicseedsoflife.naturalnews.com CNAME .
 organicshampoo.naturalnews.com CNAME .
 organicskincare.naturalnews.com CNAME .
 organicsoap.naturalnews.com CNAME .
+organicsoapbar.naturalnews.com CNAME .
 organicsproutedradiance.naturalnews.com CNAME .
 organicstevia.naturalnews.com CNAME .
 organicsteviaextractpowder.naturalnews.com CNAME .
@@ -935,15 +942,20 @@ organicyellowpopcorn.naturalnews.com CNAME .
 ozoneinfusedoilpullingsolution.naturalnews.com CNAME .
 personalcareproducts.naturalnews.com CNAME .
 pinholeglasses.naturalnews.com CNAME .
+pinkhimalayansalt.naturalnews.com CNAME .
+portablecoldlaser.naturalnews.com CNAME .
 prevent-and-reverse-heart-disease.naturalnews.com CNAME .
+pricklypearsparklinglemonade.naturalnews.com CNAME .
 probiotics.naturalnews.com CNAME .
 protein.naturalnews.com CNAME .
 proteinpowder.naturalnews.com CNAME .
 pumpkinseedprotein.naturalnews.com CNAME .
+pumpkinspicelatte.naturalnews.com CNAME .
 quinoasalad.naturalnews.com CNAME .
 radio.naturalnews.com CNAME .
 rangerbucket.naturalnews.com CNAME .
 rangerorganicemergencyfood.naturalnews.com CNAME .
+raspberryvitamincgummies.naturalnews.com CNAME .
 rawcheesecake.naturalnews.com CNAME .
 realvideo.naturalnews.com CNAME .
 research.naturalnews.com CNAME .
@@ -1002,6 +1014,7 @@ vitaminc.naturalnews.com CNAME .
 vitamincandd.naturalnews.com CNAME .
 vitamind.naturalnews.com CNAME .
 vitamind3.naturalnews.com CNAME .
+vitamind3drinkmix.naturalnews.com CNAME .
 waterfilters.naturalnews.com CNAME .
 wheatberries.naturalnews.com CNAME .
 wheatgrass.naturalnews.com CNAME .
@@ -2129,4 +2142,4 @@ ww25.wearethene.ws CNAME .
 ww38.wearethene.ws CNAME .
 www.wearethene.ws CNAME .
 
-; md5: ba5bb33a36aa2486189537ac87ee4091
+; md5: 37eeede6b9398b28175d22425b6802a4

@@ -1,8 +1,8 @@
-; Last modified: 2023-10-14T01:26:11+08:00
+; Last modified: 2023-10-16T01:25:55+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310140126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310160125 86400 60 2592000 30
  IN NS localhost.
 
 qalerts.app A 0.0.0.0
@@ -664,6 +664,7 @@ blueberrypowder.naturalnews.com A 0.0.0.0
 bluelightblockingamberglasses.naturalnews.com A 0.0.0.0
 bluelightblockingglasses.naturalnews.com A 0.0.0.0
 brighteonconversations.naturalnews.com A 0.0.0.0
+broccolisprout.naturalnews.com A 0.0.0.0
 bugdefender.naturalnews.com A 0.0.0.0
 bugsawayanddefender.naturalnews.com A 0.0.0.0
 bugsawayanddefendercombo.naturalnews.com A 0.0.0.0
@@ -701,6 +702,7 @@ coldbrewcoffee.naturalnews.com A 0.0.0.0
 collagenmct.naturalnews.com A 0.0.0.0
 collagenpeptides.naturalnews.com A 0.0.0.0
 collagenpeptidesandoptimsm.naturalnews.com A 0.0.0.0
+colloidalsilver.naturalnews.com A 0.0.0.0
 colloidalsilvercinnamonmouthwash.naturalnews.com A 0.0.0.0
 colloidalsilvercontactdefensespray.naturalnews.com A 0.0.0.0
 colloidalsilvermouthwash.naturalnews.com A 0.0.0.0
@@ -709,6 +711,7 @@ colloidalsilverskinsootherandimmunebooster.naturalnews.com A 0.0.0.0
 colloidalsilverskinsootherandpetbedding.naturalnews.com A 0.0.0.0
 colloidalsilverspray.naturalnews.com A 0.0.0.0
 concentratedmineraldrops.naturalnews.com A 0.0.0.0
+creamycoconutblueberrysmoothie.naturalnews.com A 0.0.0.0
 crystallizedginger.naturalnews.com A 0.0.0.0
 cubebpepperberries.naturalnews.com A 0.0.0.0
 cuppingtherapy.naturalnews.com A 0.0.0.0
@@ -735,6 +738,7 @@ fermentedsuper30.naturalnews.com A 0.0.0.0
 fermentedsuperfood.naturalnews.com A 0.0.0.0
 fivehtp.naturalnews.com A 0.0.0.0
 flaxseedcrackers.naturalnews.com A 0.0.0.0
+flourlessavocadobrownies.naturalnews.com A 0.0.0.0
 flourlesschocolatehazelnutstuffedpancakes.naturalnews.com A 0.0.0.0
 foodforensics.naturalnews.com A 0.0.0.0
 fourthofjulyevent.naturalnews.com A 0.0.0.0
@@ -778,6 +782,8 @@ jojobaandsandalwoodseedoil.naturalnews.com A 0.0.0.0
 jojobaoilpulling.naturalnews.com A 0.0.0.0
 juventmicroimpactplatform.naturalnews.com A 0.0.0.0
 kale.naturalnews.com A 0.0.0.0
+knife.naturalnews.com A 0.0.0.0
+kombucha.naturalnews.com A 0.0.0.0
 labordayevent.naturalnews.com A 0.0.0.0
 labs.naturalnews.com A 0.0.0.0
 laundrydetergentpowder.naturalnews.com A 0.0.0.0
@@ -914,6 +920,7 @@ organicseedsoflife.naturalnews.com A 0.0.0.0
 organicshampoo.naturalnews.com A 0.0.0.0
 organicskincare.naturalnews.com A 0.0.0.0
 organicsoap.naturalnews.com A 0.0.0.0
+organicsoapbar.naturalnews.com A 0.0.0.0
 organicsproutedradiance.naturalnews.com A 0.0.0.0
 organicstevia.naturalnews.com A 0.0.0.0
 organicsteviaextractpowder.naturalnews.com A 0.0.0.0
@@ -935,15 +942,20 @@ organicyellowpopcorn.naturalnews.com A 0.0.0.0
 ozoneinfusedoilpullingsolution.naturalnews.com A 0.0.0.0
 personalcareproducts.naturalnews.com A 0.0.0.0
 pinholeglasses.naturalnews.com A 0.0.0.0
+pinkhimalayansalt.naturalnews.com A 0.0.0.0
+portablecoldlaser.naturalnews.com A 0.0.0.0
 prevent-and-reverse-heart-disease.naturalnews.com A 0.0.0.0
+pricklypearsparklinglemonade.naturalnews.com A 0.0.0.0
 probiotics.naturalnews.com A 0.0.0.0
 protein.naturalnews.com A 0.0.0.0
 proteinpowder.naturalnews.com A 0.0.0.0
 pumpkinseedprotein.naturalnews.com A 0.0.0.0
+pumpkinspicelatte.naturalnews.com A 0.0.0.0
 quinoasalad.naturalnews.com A 0.0.0.0
 radio.naturalnews.com A 0.0.0.0
 rangerbucket.naturalnews.com A 0.0.0.0
 rangerorganicemergencyfood.naturalnews.com A 0.0.0.0
+raspberryvitamincgummies.naturalnews.com A 0.0.0.0
 rawcheesecake.naturalnews.com A 0.0.0.0
 realvideo.naturalnews.com A 0.0.0.0
 research.naturalnews.com A 0.0.0.0
@@ -1002,6 +1014,7 @@ vitaminc.naturalnews.com A 0.0.0.0
 vitamincandd.naturalnews.com A 0.0.0.0
 vitamind.naturalnews.com A 0.0.0.0
 vitamind3.naturalnews.com A 0.0.0.0
+vitamind3drinkmix.naturalnews.com A 0.0.0.0
 waterfilters.naturalnews.com A 0.0.0.0
 wheatberries.naturalnews.com A 0.0.0.0
 wheatgrass.naturalnews.com A 0.0.0.0
@@ -2129,4 +2142,4 @@ ww25.wearethene.ws A 0.0.0.0
 ww38.wearethene.ws A 0.0.0.0
 www.wearethene.ws A 0.0.0.0
 
-; md5: ba5bb33a36aa2486189537ac87ee4091
+; md5: 37eeede6b9398b28175d22425b6802a4

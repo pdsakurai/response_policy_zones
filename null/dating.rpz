@@ -1,8 +1,8 @@
-; Last modified: 2023-10-15T01:25:48+08:00
+; Last modified: 2023-10-16T01:25:55+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310150125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310160125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -19100,7 +19100,6 @@ ekko.dating A 0.0.0.0
 www.ekko.dating A 0.0.0.0
 elo.dating A 0.0.0.0
 www.elo.dating A 0.0.0.0
-autodiscover.email.dating A 0.0.0.0
 dev.equestrians.dating A 0.0.0.0
 faf.equestrians.dating A 0.0.0.0
 fam.equestrians.dating A 0.0.0.0
@@ -21619,4 +21618,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: 31194dbd91887b22c94645f54476e4f5
+; md5: e8afe164ca586691f6d8f365dfa19446
