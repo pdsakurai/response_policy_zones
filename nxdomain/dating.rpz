@@ -1,8 +1,8 @@
-; Last modified: 2023-10-16T01:25:37+08:00
+; Last modified: 2023-10-17T01:25:42+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310160125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310170125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -18934,6 +18934,7 @@ runtime.logging.cloud.cys.dating CNAME .
 test123.cloud.cys.dating CNAME .
 6raum.at.dev.cys.dating CNAME .
 rest.6raum.at.dev.cys.dating CNAME .
+flirtfair.at.dev.cys.dating CNAME .
 dates2flirt.com.dev.cys.dating CNAME .
 rest.dates2flirt.com.dev.cys.dating CNAME .
 lustparkplatz.com.dev.cys.dating CNAME .
@@ -20259,7 +20260,6 @@ gestion.webcam.dating CNAME .
 hk.webcam.dating CNAME .
 hotel.webcam.dating CNAME .
 www.webcam.dating CNAME .
-webmaster.dating CNAME .
 weshouldbe.dating CNAME .
 www.weshouldbe.dating CNAME .
 what.dating CNAME .
@@ -21618,4 +21618,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: e8afe164ca586691f6d8f365dfa19446
+; md5: 2b9fb1ce787c7c63180b4bac67af1183
