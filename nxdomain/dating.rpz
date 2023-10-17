@@ -1,8 +1,8 @@
-; Last modified: 2023-10-17T01:25:42+08:00
+; Last modified: 2023-10-18T01:25:44+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310170125 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310180125 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app CNAME .
@@ -3151,6 +3151,7 @@ york.bedpage.com CNAME .
 yukon.bedpage.com CNAME .
 yuma.bedpage.com CNAME .
 bein--match.com CNAME .
+4k.bein--match.com CNAME .
 goal.bein--match.com CNAME .
 koora.bein--match.com CNAME .
 kora.bein--match.com CNAME .
@@ -6933,6 +6934,7 @@ apanel.doublelist.com CNAME .
 apanel-stg.doublelist.com CNAME .
 dev.doublelist.com CNAME .
 email.doublelist.com CNAME .
+email-6f7dd99f6c.doublelist.com CNAME .
 help.doublelist.com CNAME .
 help-stg.doublelist.com CNAME .
 mail.doublelist.com CNAME .
@@ -13581,6 +13583,7 @@ xchat103.myfreecams.com CNAME .
 xchat42.myfreecams.com CNAME .
 ysw68.myfreecams.com CNAME .
 myhotdatings.com CNAME .
+alb.myhotdatings.com CNAME .
 mylol.com CNAME .
 app.mylol.com CNAME .
 banners.mylol.com CNAME .
@@ -15245,6 +15248,7 @@ www.shop.scruff.com CNAME .
 staging.scruff.com CNAME .
 status.scruff.com CNAME .
 support.scruff.com CNAME .
+beta.support.scruff.com CNAME .
 www.scruff.com CNAME .
 sdc.com CNAME .
 api.sdc.com CNAME .
@@ -17716,7 +17720,6 @@ netherlands.topescortbabes.com CNAME .
 new-zealand.topescortbabes.com CNAME .
 nigeria.topescortbabes.com CNAME .
 niue.topescortbabes.com CNAME .
-nodejs.topescortbabes.com CNAME .
 norway.topescortbabes.com CNAME .
 oman.topescortbabes.com CNAME .
 panama.topescortbabes.com CNAME .
@@ -18468,6 +18471,7 @@ links.zoosk.com CNAME .
 lis.zoosk.com CNAME .
 login.zoosk.com CNAME .
 lov.zoosk.com CNAME .
+love.zoosk.com CNAME .
 m.zoosk.com CNAME .
 mail.zoosk.com CNAME .
 media7.zoosk.com CNAME .
@@ -18579,6 +18583,8 @@ acting.dating CNAME .
 store.acting.dating CNAME .
 www.acting.dating CNAME .
 active.dating CNAME .
+nong20100322.active.dating CNAME .
+www.active.dating CNAME .
 activeadultcommunity.dating CNAME .
 adminportal.dating CNAME .
 ads.dating CNAME .
@@ -18712,7 +18718,11 @@ web.attraction.dating CNAME .
 autos.dating CNAME .
 www.autos.dating CNAME .
 ava.dating CNAME .
+www.api.ava.dating CNAME .
 beta.ava.dating CNAME .
+sitemap.ava.dating CNAME .
+sitemaps.ava.dating CNAME .
+www.uploads.ava.dating CNAME .
 www.ava.dating CNAME .
 available.dating CNAME .
 babe.dating CNAME .
@@ -18746,6 +18756,7 @@ bewitchy.dating CNAME .
 www.bewitchy.dating CNAME .
 bharat.dating CNAME .
 bi-girl.dating CNAME .
+www.bi-girl.dating CNAME .
 bidu.dating CNAME .
 dev.bidu.dating CNAME .
 www.bidu.dating CNAME .
@@ -18910,6 +18921,7 @@ macknowsbest.covid.dating CNAME .
 creepy.dating CNAME .
 dev.crossdressers.dating CNAME .
 staging.crossdressers.dating CNAME .
+crush.dating CNAME .
 dev.cuckoldhotwife.dating CNAME .
 female.cuckoldhotwife.dating CNAME .
 local.cuckoldhotwife.dating CNAME .
@@ -18981,6 +18993,7 @@ date.dating CNAME .
 dateasia.dating CNAME .
 datehookup.dating CNAME .
 www.datehookup.dating CNAME .
+dateme.dating CNAME .
 fast.datingadvice.dating CNAME .
 first.datingadvice.dating CNAME .
 beta.first.datingadvice.dating CNAME .
@@ -19037,6 +19050,8 @@ support.disco.dating CNAME .
 dev.discover.dating CNAME .
 meeting.discover.dating CNAME .
 stage.discover.dating CNAME .
+discreet.dating CNAME .
+www.discreet.dating CNAME .
 admin.divorced.dating CNAME .
 backend.divorced.dating CNAME .
 demo.divorced.dating CNAME .
@@ -19120,6 +19135,7 @@ auth.excite.dating CNAME .
 email.excite.dating CNAME .
 members.excite.dating CNAME .
 www.excite.dating CNAME .
+experte.dating CNAME .
 ezmatch.dating CNAME .
 fakku.dating CNAME .
 www.fakku.dating CNAME .
@@ -19162,6 +19178,8 @@ www.fireside.dating CNAME .
 fisting.dating CNAME .
 www.fisting.dating CNAME .
 fitness.dating CNAME .
+fitnesssingles.dating CNAME .
+www.fitnesssingles.dating CNAME .
 fkk.dating CNAME .
 apps.fkk.dating CNAME .
 beta.fkk.dating CNAME .
@@ -19179,6 +19197,8 @@ flip.dating CNAME .
 api2.flip.dating CNAME .
 media.flip.dating CNAME .
 www.flip.dating CNAME .
+flirt.dating CNAME .
+flirtgarten.dating CNAME .
 flirtymania.dating CNAME .
 flirtzone.dating CNAME .
 www.flirtzone.dating CNAME .
@@ -19503,6 +19523,7 @@ res.lovey.dating CNAME .
 res-fq.lovey.dating CNAME .
 tidebug.lovey.dating CNAME .
 loving.dating CNAME .
+sitemap.loving.dating CNAME .
 sitemaps.loving.dating CNAME .
 www.loving.dating CNAME .
 lovn.dating CNAME .
@@ -19523,6 +19544,9 @@ access.jupiter.maid.dating CNAME .
 jackett.access.jupiter.maid.dating CNAME .
 public.access.jupiter.maid.dating CNAME .
 radarr.access.jupiter.maid.dating CNAME .
+mailorderbrides.dating CNAME .
+dc-f0433d4d16d6.mailorderbrides.dating CNAME .
+www.mailorderbrides.dating CNAME .
 map.dating CNAME .
 maple.dating CNAME .
 admin-app.maple.dating CNAME .
@@ -19632,6 +19656,7 @@ gay.nativeamerican.dating CNAME .
 local.nativeamerican.dating CNAME .
 staging.nativeamerican.dating CNAME .
 naughtysecret.dating CNAME .
+nbs.dating CNAME .
 neural.dating CNAME .
 check.neural.dating CNAME .
 link.check.neural.dating CNAME .
@@ -19734,6 +19759,7 @@ api.nuzzle.dating CNAME .
 bot.nuzzle.dating CNAME .
 telegram.nuzzle.dating CNAME .
 telegramapi.nuzzle.dating CNAME .
+tok.nuzzle.dating CNAME .
 nzl.dating CNAME .
 img.nzl.dating CNAME .
 odessa.dating CNAME .
@@ -19984,6 +20010,11 @@ ship.dating CNAME .
 www.ship.dating CNAME .
 shuffle.dating CNAME .
 app.shuffle.dating CNAME .
+dev.app.shuffle.dating CNAME .
+dash.shuffle.dating CNAME .
+dev.dash.shuffle.dating CNAME .
+rsvp.shuffle.dating CNAME .
+dev.rsvp.shuffle.dating CNAME .
 www.shuffle.dating CNAME .
 sigma.dating CNAME .
 www.sigma.dating CNAME .
@@ -20019,6 +20050,13 @@ ww1.smiley.dating CNAME .
 smitten.dating CNAME .
 snapsext.dating CNAME .
 admin.snapsext.dating CNAME .
+hostmaster.snapsext.dating CNAME .
+mail.snapsext.dating CNAME .
+moveit.snapsext.dating CNAME .
+www.moveit.snapsext.dating CNAME .
+ugwcscan94ef792d7ec00f2f8e5be0395211c533.snapsext.dating CNAME .
+ugwcscanabb493af06a29c57c4afcff2a66bbdbe.snapsext.dating CNAME .
+webmail.snapsext.dating CNAME .
 www.snapsext.dating CNAME .
 dev.sober.dating CNAME .
 local.sober.dating CNAME .
@@ -20065,8 +20103,13 @@ speeddate.dating CNAME .
 affiliates.speeddate.dating CNAME .
 blog.speeddate.dating CNAME .
 cdn.speeddate.dating CNAME .
+crm.speeddate.dating CNAME .
+lime.speeddate.dating CNAME .
 memberimage0.speeddate.dating CNAME .
 secure.speeddate.dating CNAME .
+sitemap.speeddate.dating CNAME .
+sitemaps.speeddate.dating CNAME .
+www.speeddate.dating CNAME .
 speedmeet.dating CNAME .
 www.speedmeet.dating CNAME .
 spex.dating CNAME .
@@ -20106,6 +20149,7 @@ sw.dating CNAME .
 sweet.dating CNAME .
 www.sweet.dating CNAME .
 swipewise.dating CNAME .
+www.swipewise.dating CNAME .
 tabooapp.dating CNAME .
 audio-02.tabooapp.dating CNAME .
 m.tabooapp.dating CNAME .
@@ -20143,7 +20187,6 @@ staging.tennislovers.dating CNAME .
 tesla.dating CNAME .
 www.tesla.dating CNAME .
 www.text.dating CNAME .
-thaigirl.dating CNAME .
 the.dating CNAME .
 www.the.dating CNAME .
 thecircle.dating CNAME .
@@ -20297,6 +20340,7 @@ xno.dating CNAME .
 www.xno.dating CNAME .
 xo.dating CNAME .
 www.xo.dating CNAME .
+xox.dating CNAME .
 xr.dating CNAME .
 www.xr.dating CNAME .
 xvideos.dating CNAME .
@@ -21618,4 +21662,4 @@ www.nudechat.xxx CNAME .
 crush.zone CNAME .
 www.crush.zone CNAME .
 
-; md5: 2b9fb1ce787c7c63180b4bac67af1183
+; md5: 489bfa5a5ffaf6e48ad30f2a7d985a46

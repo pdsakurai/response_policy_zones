@@ -1,8 +1,8 @@
-; Last modified: 2023-10-17T01:26:00+08:00
+; Last modified: 2023-10-18T01:26:02+08:00
 ; Source #1: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310170126 86400 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2310180126 86400 60 2592000 30
  IN NS localhost.
 
 chatdate.app A 0.0.0.0
@@ -3151,6 +3151,7 @@ york.bedpage.com A 0.0.0.0
 yukon.bedpage.com A 0.0.0.0
 yuma.bedpage.com A 0.0.0.0
 bein--match.com A 0.0.0.0
+4k.bein--match.com A 0.0.0.0
 goal.bein--match.com A 0.0.0.0
 koora.bein--match.com A 0.0.0.0
 kora.bein--match.com A 0.0.0.0
@@ -6933,6 +6934,7 @@ apanel.doublelist.com A 0.0.0.0
 apanel-stg.doublelist.com A 0.0.0.0
 dev.doublelist.com A 0.0.0.0
 email.doublelist.com A 0.0.0.0
+email-6f7dd99f6c.doublelist.com A 0.0.0.0
 help.doublelist.com A 0.0.0.0
 help-stg.doublelist.com A 0.0.0.0
 mail.doublelist.com A 0.0.0.0
@@ -13581,6 +13583,7 @@ xchat103.myfreecams.com A 0.0.0.0
 xchat42.myfreecams.com A 0.0.0.0
 ysw68.myfreecams.com A 0.0.0.0
 myhotdatings.com A 0.0.0.0
+alb.myhotdatings.com A 0.0.0.0
 mylol.com A 0.0.0.0
 app.mylol.com A 0.0.0.0
 banners.mylol.com A 0.0.0.0
@@ -15245,6 +15248,7 @@ www.shop.scruff.com A 0.0.0.0
 staging.scruff.com A 0.0.0.0
 status.scruff.com A 0.0.0.0
 support.scruff.com A 0.0.0.0
+beta.support.scruff.com A 0.0.0.0
 www.scruff.com A 0.0.0.0
 sdc.com A 0.0.0.0
 api.sdc.com A 0.0.0.0
@@ -17716,7 +17720,6 @@ netherlands.topescortbabes.com A 0.0.0.0
 new-zealand.topescortbabes.com A 0.0.0.0
 nigeria.topescortbabes.com A 0.0.0.0
 niue.topescortbabes.com A 0.0.0.0
-nodejs.topescortbabes.com A 0.0.0.0
 norway.topescortbabes.com A 0.0.0.0
 oman.topescortbabes.com A 0.0.0.0
 panama.topescortbabes.com A 0.0.0.0
@@ -18468,6 +18471,7 @@ links.zoosk.com A 0.0.0.0
 lis.zoosk.com A 0.0.0.0
 login.zoosk.com A 0.0.0.0
 lov.zoosk.com A 0.0.0.0
+love.zoosk.com A 0.0.0.0
 m.zoosk.com A 0.0.0.0
 mail.zoosk.com A 0.0.0.0
 media7.zoosk.com A 0.0.0.0
@@ -18579,6 +18583,8 @@ acting.dating A 0.0.0.0
 store.acting.dating A 0.0.0.0
 www.acting.dating A 0.0.0.0
 active.dating A 0.0.0.0
+nong20100322.active.dating A 0.0.0.0
+www.active.dating A 0.0.0.0
 activeadultcommunity.dating A 0.0.0.0
 adminportal.dating A 0.0.0.0
 ads.dating A 0.0.0.0
@@ -18712,7 +18718,11 @@ web.attraction.dating A 0.0.0.0
 autos.dating A 0.0.0.0
 www.autos.dating A 0.0.0.0
 ava.dating A 0.0.0.0
+www.api.ava.dating A 0.0.0.0
 beta.ava.dating A 0.0.0.0
+sitemap.ava.dating A 0.0.0.0
+sitemaps.ava.dating A 0.0.0.0
+www.uploads.ava.dating A 0.0.0.0
 www.ava.dating A 0.0.0.0
 available.dating A 0.0.0.0
 babe.dating A 0.0.0.0
@@ -18746,6 +18756,7 @@ bewitchy.dating A 0.0.0.0
 www.bewitchy.dating A 0.0.0.0
 bharat.dating A 0.0.0.0
 bi-girl.dating A 0.0.0.0
+www.bi-girl.dating A 0.0.0.0
 bidu.dating A 0.0.0.0
 dev.bidu.dating A 0.0.0.0
 www.bidu.dating A 0.0.0.0
@@ -18910,6 +18921,7 @@ macknowsbest.covid.dating A 0.0.0.0
 creepy.dating A 0.0.0.0
 dev.crossdressers.dating A 0.0.0.0
 staging.crossdressers.dating A 0.0.0.0
+crush.dating A 0.0.0.0
 dev.cuckoldhotwife.dating A 0.0.0.0
 female.cuckoldhotwife.dating A 0.0.0.0
 local.cuckoldhotwife.dating A 0.0.0.0
@@ -18981,6 +18993,7 @@ date.dating A 0.0.0.0
 dateasia.dating A 0.0.0.0
 datehookup.dating A 0.0.0.0
 www.datehookup.dating A 0.0.0.0
+dateme.dating A 0.0.0.0
 fast.datingadvice.dating A 0.0.0.0
 first.datingadvice.dating A 0.0.0.0
 beta.first.datingadvice.dating A 0.0.0.0
@@ -19037,6 +19050,8 @@ support.disco.dating A 0.0.0.0
 dev.discover.dating A 0.0.0.0
 meeting.discover.dating A 0.0.0.0
 stage.discover.dating A 0.0.0.0
+discreet.dating A 0.0.0.0
+www.discreet.dating A 0.0.0.0
 admin.divorced.dating A 0.0.0.0
 backend.divorced.dating A 0.0.0.0
 demo.divorced.dating A 0.0.0.0
@@ -19120,6 +19135,7 @@ auth.excite.dating A 0.0.0.0
 email.excite.dating A 0.0.0.0
 members.excite.dating A 0.0.0.0
 www.excite.dating A 0.0.0.0
+experte.dating A 0.0.0.0
 ezmatch.dating A 0.0.0.0
 fakku.dating A 0.0.0.0
 www.fakku.dating A 0.0.0.0
@@ -19162,6 +19178,8 @@ www.fireside.dating A 0.0.0.0
 fisting.dating A 0.0.0.0
 www.fisting.dating A 0.0.0.0
 fitness.dating A 0.0.0.0
+fitnesssingles.dating A 0.0.0.0
+www.fitnesssingles.dating A 0.0.0.0
 fkk.dating A 0.0.0.0
 apps.fkk.dating A 0.0.0.0
 beta.fkk.dating A 0.0.0.0
@@ -19179,6 +19197,8 @@ flip.dating A 0.0.0.0
 api2.flip.dating A 0.0.0.0
 media.flip.dating A 0.0.0.0
 www.flip.dating A 0.0.0.0
+flirt.dating A 0.0.0.0
+flirtgarten.dating A 0.0.0.0
 flirtymania.dating A 0.0.0.0
 flirtzone.dating A 0.0.0.0
 www.flirtzone.dating A 0.0.0.0
@@ -19503,6 +19523,7 @@ res.lovey.dating A 0.0.0.0
 res-fq.lovey.dating A 0.0.0.0
 tidebug.lovey.dating A 0.0.0.0
 loving.dating A 0.0.0.0
+sitemap.loving.dating A 0.0.0.0
 sitemaps.loving.dating A 0.0.0.0
 www.loving.dating A 0.0.0.0
 lovn.dating A 0.0.0.0
@@ -19523,6 +19544,9 @@ access.jupiter.maid.dating A 0.0.0.0
 jackett.access.jupiter.maid.dating A 0.0.0.0
 public.access.jupiter.maid.dating A 0.0.0.0
 radarr.access.jupiter.maid.dating A 0.0.0.0
+mailorderbrides.dating A 0.0.0.0
+dc-f0433d4d16d6.mailorderbrides.dating A 0.0.0.0
+www.mailorderbrides.dating A 0.0.0.0
 map.dating A 0.0.0.0
 maple.dating A 0.0.0.0
 admin-app.maple.dating A 0.0.0.0
@@ -19632,6 +19656,7 @@ gay.nativeamerican.dating A 0.0.0.0
 local.nativeamerican.dating A 0.0.0.0
 staging.nativeamerican.dating A 0.0.0.0
 naughtysecret.dating A 0.0.0.0
+nbs.dating A 0.0.0.0
 neural.dating A 0.0.0.0
 check.neural.dating A 0.0.0.0
 link.check.neural.dating A 0.0.0.0
@@ -19734,6 +19759,7 @@ api.nuzzle.dating A 0.0.0.0
 bot.nuzzle.dating A 0.0.0.0
 telegram.nuzzle.dating A 0.0.0.0
 telegramapi.nuzzle.dating A 0.0.0.0
+tok.nuzzle.dating A 0.0.0.0
 nzl.dating A 0.0.0.0
 img.nzl.dating A 0.0.0.0
 odessa.dating A 0.0.0.0
@@ -19984,6 +20010,11 @@ ship.dating A 0.0.0.0
 www.ship.dating A 0.0.0.0
 shuffle.dating A 0.0.0.0
 app.shuffle.dating A 0.0.0.0
+dev.app.shuffle.dating A 0.0.0.0
+dash.shuffle.dating A 0.0.0.0
+dev.dash.shuffle.dating A 0.0.0.0
+rsvp.shuffle.dating A 0.0.0.0
+dev.rsvp.shuffle.dating A 0.0.0.0
 www.shuffle.dating A 0.0.0.0
 sigma.dating A 0.0.0.0
 www.sigma.dating A 0.0.0.0
@@ -20019,6 +20050,13 @@ ww1.smiley.dating A 0.0.0.0
 smitten.dating A 0.0.0.0
 snapsext.dating A 0.0.0.0
 admin.snapsext.dating A 0.0.0.0
+hostmaster.snapsext.dating A 0.0.0.0
+mail.snapsext.dating A 0.0.0.0
+moveit.snapsext.dating A 0.0.0.0
+www.moveit.snapsext.dating A 0.0.0.0
+ugwcscan94ef792d7ec00f2f8e5be0395211c533.snapsext.dating A 0.0.0.0
+ugwcscanabb493af06a29c57c4afcff2a66bbdbe.snapsext.dating A 0.0.0.0
+webmail.snapsext.dating A 0.0.0.0
 www.snapsext.dating A 0.0.0.0
 dev.sober.dating A 0.0.0.0
 local.sober.dating A 0.0.0.0
@@ -20065,8 +20103,13 @@ speeddate.dating A 0.0.0.0
 affiliates.speeddate.dating A 0.0.0.0
 blog.speeddate.dating A 0.0.0.0
 cdn.speeddate.dating A 0.0.0.0
+crm.speeddate.dating A 0.0.0.0
+lime.speeddate.dating A 0.0.0.0
 memberimage0.speeddate.dating A 0.0.0.0
 secure.speeddate.dating A 0.0.0.0
+sitemap.speeddate.dating A 0.0.0.0
+sitemaps.speeddate.dating A 0.0.0.0
+www.speeddate.dating A 0.0.0.0
 speedmeet.dating A 0.0.0.0
 www.speedmeet.dating A 0.0.0.0
 spex.dating A 0.0.0.0
@@ -20106,6 +20149,7 @@ sw.dating A 0.0.0.0
 sweet.dating A 0.0.0.0
 www.sweet.dating A 0.0.0.0
 swipewise.dating A 0.0.0.0
+www.swipewise.dating A 0.0.0.0
 tabooapp.dating A 0.0.0.0
 audio-02.tabooapp.dating A 0.0.0.0
 m.tabooapp.dating A 0.0.0.0
@@ -20143,7 +20187,6 @@ staging.tennislovers.dating A 0.0.0.0
 tesla.dating A 0.0.0.0
 www.tesla.dating A 0.0.0.0
 www.text.dating A 0.0.0.0
-thaigirl.dating A 0.0.0.0
 the.dating A 0.0.0.0
 www.the.dating A 0.0.0.0
 thecircle.dating A 0.0.0.0
@@ -20297,6 +20340,7 @@ xno.dating A 0.0.0.0
 www.xno.dating A 0.0.0.0
 xo.dating A 0.0.0.0
 www.xo.dating A 0.0.0.0
+xox.dating A 0.0.0.0
 xr.dating A 0.0.0.0
 www.xr.dating A 0.0.0.0
 xvideos.dating A 0.0.0.0
@@ -21618,4 +21662,4 @@ www.nudechat.xxx A 0.0.0.0
 crush.zone A 0.0.0.0
 www.crush.zone A 0.0.0.0
 
-; md5: 2b9fb1ce787c7c63180b4bac67af1183
+; md5: 489bfa5a5ffaf6e48ad30f2a7d985a46
