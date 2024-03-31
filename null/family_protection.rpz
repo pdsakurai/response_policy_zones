@@ -1,10 +1,10 @@
-; Last modified: 2024-03-30T13:08:49+08:00
+; Last modified: 2024-03-31T16:46:17+08:00
 ; Source #1: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts
 ; Source #2: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 ; Source #3: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2403301308 82800 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2403311646 82800 60 2592000 30
  IN NS localhost.
 
 100percentfedup.com A 0.0.0.0
@@ -94114,4 +94114,4 @@ www2.giga-jp.com A 0.0.0.0
 yamidas.yamiboard.com A 0.0.0.0
 yamigama.com A 0.0.0.0
 
-; md5: 933cfc549442dd92d3f0d8bba8654147
+; md5sum: 933cfc549442dd92d3f0d8bba8654147
