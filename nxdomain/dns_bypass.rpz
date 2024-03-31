@@ -1,10 +1,10 @@
-; Last modified: 2024-03-31T16:46:19+08:00
+; Last modified: 2024-03-31T23:05:40+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2403311646 82800 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2403312305 82800 60 2592000 30
  IN NS localhost.
 
 ns.00dani.me CNAME .
