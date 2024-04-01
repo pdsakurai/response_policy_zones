@@ -1,10 +1,10 @@
-; Last modified: 2024-03-31T23:05:40+08:00
+; Last modified: 2024-04-02T01:25:37+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2403312305 82800 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2404020125 82800 60 2592000 30
  IN NS localhost.
 
 ns.00dani.me A 0.0.0.0
@@ -6124,11 +6124,9 @@ zscalertwo.net A 0.0.0.0
 zwyr157wwiu6eior.com A 0.0.0.0
 *.zwyr157wwiu6eior.com A 0.0.0.0
 001.smallnode.net A 0.0.0.0
-10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com A 0.0.0.0
 1.0rz.space A 0.0.0.0
 1.11i.eu A 0.0.0.0
 15101844.xyz A 0.0.0.0
-180.0rz.space A 0.0.0.0
 1b.ns.ozer.im A 0.0.0.0
 1dot1dot1dot1.cloudflaredns.com A 0.0.0.0
 1free.1capy.com A 0.0.0.0
@@ -6147,7 +6145,6 @@ zwyr157wwiu6eior.com A 0.0.0.0
 6e47fb7.online-server.cloud A 0.0.0.0
 77980.bodis.com A 0.0.0.0
 7agb96-dns.komeho.info A 0.0.0.0
-90c3f3bd03394bebaa20741314cef947.pacloudflare.com A 0.0.0.0
 959818.xyz A 0.0.0.0
 a5135324.csie.io A 0.0.0.0
 a-bld.sys-adm.in A 0.0.0.0
@@ -6457,7 +6454,6 @@ au-syd-w-3.nashkan.net A 0.0.0.0
 au-syd-w-p-1.nashkan.net A 0.0.0.0
 au-syd-w-p-2.nashkan.net A 0.0.0.0
 au.teradns.org A 0.0.0.0
-auto-cn-hk-8000.go-behind.one A 0.0.0.0
 aviemore.dns.walshnet.co.uk A 0.0.0.0
 a.vvvglass.com A 0.0.0.0
 aws.razor1911.xyz A 0.0.0.0
@@ -6540,7 +6536,6 @@ cdn.thetcs.eu.org A 0.0.0.0
 cdzopi.duckdns.org A 0.0.0.0
 ch01adguardho.me A 0.0.0.0
 changesmart2024.top A 0.0.0.0
-chanhome.xyz A 0.0.0.0
 chaos.altendorfme.com A 0.0.0.0
 chenrouter.chironys.com A 0.0.0.0
 chicago.gtxvpnpro.xyz A 0.0.0.0
@@ -6557,7 +6552,6 @@ cloud8.yydsgod.eu.org A 0.0.0.0
 cloudbasesolutions.online A 0.0.0.0
 cloud.graphicpoint.pl A 0.0.0.0
 cloudsrv.charitosnet.de A 0.0.0.0
-cname-for-doh.go-behind.one A 0.0.0.0
 cn.turngreatwall.com A 0.0.0.0
 connectix.xyz A 0.0.0.0
 console.carestyle.org A 0.0.0.0
@@ -6611,7 +6605,6 @@ derevnya.px.i81.ru A 0.0.0.0
 destakmateriais.com.br A 0.0.0.0
 dev.gonnadive.com A 0.0.0.0
 deweerd.loseyourip.com A 0.0.0.0
-dff029179c4246e385296ea8de0b8eb8.pacloudflare.com A 0.0.0.0
 d.gametechnet.com A 0.0.0.0
 d.hansj.cc A 0.0.0.0
 dhlifeus-micro1.dns.3456.kr A 0.0.0.0
@@ -7191,7 +7184,6 @@ dot.anir0y.in A 0.0.0.0
 dot.dnscron.com A 0.0.0.0
 dot.dns-ga.de A 0.0.0.0
 dot-dns.zmy.cloud A 0.0.0.0
-dotdown.netlify.app A 0.0.0.0
 dot.gordmo.com A 0.0.0.0
 dot.qooqle.date A 0.0.0.0
 dot.securedns.eu A 0.0.0.0
@@ -7286,6 +7278,8 @@ fullaccesstointernet.jp.eu.org A 0.0.0.0
 funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
+gandhico2.duckdns.org A 0.0.0.0
+gateway.baltes.info A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
 gb-cov-w-1.nashkan.net A 0.0.0.0
@@ -7317,7 +7311,6 @@ green4.jnraptor.net A 0.0.0.0
 greppie.nl A 0.0.0.0
 groupy.ga A 0.0.0.0
 grunwald-marc.de A 0.0.0.0
-gtm-sg-5r538sziu04.go-behind.one A 0.0.0.0
 guanmengkai.com A 0.0.0.0
 guard.19kom.de A 0.0.0.0
 guard.beliefanx.me A 0.0.0.0
@@ -7373,7 +7366,6 @@ home.qbak.net A 0.0.0.0
 home.r01.fr A 0.0.0.0
 home.realldz.id.vn A 0.0.0.0
 home-server.exonip.de A 0.0.0.0
-homeserverlocal.ddns.net A 0.0.0.0
 home.snow-sugar.net A 0.0.0.0
 home.tuankhaiit.com A 0.0.0.0
 hooliganska.duckdns.org A 0.0.0.0
@@ -7394,7 +7386,6 @@ id.sdn.airns.net A 0.0.0.0
 ie-dub-w-1.nashkan.net A 0.0.0.0
 iev01.dnscry.pt A 0.0.0.0
 igor.hr.i81.ru A 0.0.0.0
-ii.lov.host A 0.0.0.0
 ime-ingenierias.xyz A 0.0.0.0
 inf-wan.vip.meituan.com A 0.0.0.0
 ingenmannsland.online A 0.0.0.0
@@ -7418,7 +7409,6 @@ jabber-server.de A 0.0.0.0
 jalexx.freeboxos.fr A 0.0.0.0
 jcdns.fun A 0.0.0.0
 jefe.space A 0.0.0.0
-jianyi.studio A 0.0.0.0
 jkt01.dnscry.pt A 0.0.0.0
 jmarston.duckdns.org A 0.0.0.0
 jnprd.com A 0.0.0.0
@@ -7460,10 +7450,8 @@ kintoun.alves.cc A 0.0.0.0
 kirnet.ru A 0.0.0.0
 kirov.v6.rocks A 0.0.0.0
 kiwifunke.duckdns.org A 0.0.0.0
-kk.sshub.win A 0.0.0.0
 knight1.de A 0.0.0.0
 kolobok2.duckdns.org A 0.0.0.0
-kostek.dyndns.org A 0.0.0.0
 kotys.hr.i81.ru A 0.0.0.0
 kozak.ujwie.co A 0.0.0.0
 kracon.anycast.censurfridns.nu A 0.0.0.0
@@ -7471,7 +7459,6 @@ kracon.anycast.uncensoreddns.dk A 0.0.0.0
 kr.loukky.com A 0.0.0.0
 kronos.plan9dns.com A 0.0.0.0
 kr.pigs.eu.org A 0.0.0.0
-ks1.plop.cc A 0.0.0.0
 ksedns.ru A 0.0.0.0
 kstdownload.com A 0.0.0.0
 kswro.web.id A 0.0.0.0
@@ -7521,7 +7508,6 @@ lwhjszcnzjhz.site A 0.0.0.0
 ma1.guardmydns.com A 0.0.0.0
 macmini.qujing.eu.org A 0.0.0.0
 maikel.greppie.nl A 0.0.0.0
-mail.4-the.win A 0.0.0.0
 mail.andrewnw.xyz A 0.0.0.0
 mail.pragmasec.nl A 0.0.0.0
 mail.strassmair.org A 0.0.0.0
@@ -7621,6 +7607,7 @@ nitter.ujwie.co A 0.0.0.0
 nj.guardmydns.com A 0.0.0.0
 nl.adg.ghostzone.wtf A 0.0.0.0
 nl-ams-w-3.nashkan.net A 0.0.0.0
+nlb.gbrossi.com.br A 0.0.0.0
 nl-dro-w-f-1.nashkan.net A 0.0.0.0
 nl-dro-w-p-1.nashkan.net A 0.0.0.0
 nlname.freecdn.one A 0.0.0.0
@@ -7669,7 +7656,6 @@ ns.rabot.fi A 0.0.0.0
 ns.solutics.ec A 0.0.0.0
 ns.try-dns.online A 0.0.0.0
 ns.vik.ro A 0.0.0.0
-ntu.ssooss.win A 0.0.0.0
 nudnud.com A 0.0.0.0
 nue01.dnscry.pt A 0.0.0.0
 nukys.ca A 0.0.0.0
@@ -7684,12 +7670,15 @@ olga.hr.i81.ru A 0.0.0.0
 omr01.dnscry.pt A 0.0.0.0
 one.dotted.9l3.com A 0.0.0.0
 oneplus-10pro.aezadns.duckdns.org A 0.0.0.0
+onlyfriends.info A 0.0.0.0
 o--o.duckdns.org A 0.0.0.0
+o.o.ovpn.bond A 0.0.0.0
 oostelbos.dynu.com A 0.0.0.0
 open-resolver1.unima.ac.id A 0.0.0.0
 op.htyweb.top A 0.0.0.0
 ora1.nocnik.org A 0.0.0.0
 oracle001.330k.biz A 0.0.0.0
+oracle2.herry.dev A 0.0.0.0
 oradns.anbitech.com A 0.0.0.0
 origin.mikopono.nl A 0.0.0.0
 orjp4.lz0724.com A 0.0.0.0
@@ -7697,7 +7686,6 @@ ortudns.com A 0.0.0.0
 ott01.dnscry.pt A 0.0.0.0
 outie.8ws.net A 0.0.0.0
 outiejr.8ws.net A 0.0.0.0
-ovh.panszelescik.pl A 0.0.0.0
 owndns.dedyn.io A 0.0.0.0
 pad3w.pp.ua A 0.0.0.0
 padermail.net A 0.0.0.0
@@ -7721,7 +7709,6 @@ pi.daryllswer.net A 0.0.0.0
 pihole.gcp.pathofgrace.com A 0.0.0.0
 pioko.net A 0.0.0.0
 pitchforkwaydns.duckdns.org A 0.0.0.0
-pixie.porkbun.com A 0.0.0.0
 plex.skin57.de A 0.0.0.0
 plichaa12.ddns.net A 0.0.0.0
 pluton.plan9dns.com A 0.0.0.0
@@ -7740,7 +7727,6 @@ privatebard.com A 0.0.0.0
 privpn.me A 0.0.0.0
 proxjdf.jamesferrand.fr A 0.0.0.0
 proxy.ext.devkon.org A 0.0.0.0
-proxy.haoxuan.xyz A 0.0.0.0
 proxy.landerbrauver.ru A 0.0.0.0
 proxy.srs.su A 0.0.0.0
 prysiazhniuk.pp.ua A 0.0.0.0
@@ -7765,7 +7751,6 @@ rafi.dynns.com A 0.0.0.0
 ralfs-dns.dsh.lol A 0.0.0.0
 raspberrydoc.duckdns.org A 0.0.0.0
 rasp.matthias-iwer.de A 0.0.0.0
-rdjcloud.duckdns.org A 0.0.0.0
 rdjdns.ajraspi.xyz A 0.0.0.0
 redsea.meetz.pw A 0.0.0.0
 remote.sufly.top A 0.0.0.0
@@ -7902,14 +7887,12 @@ sradg2.eastus.cloudapp.azure.com A 0.0.0.0
 sradg.eastus.cloudapp.azure.com A 0.0.0.0
 srgaghome.freemyip.com A 0.0.0.0
 srv1.web-mx.eu A 0.0.0.0
-srv2.bartoszturek.online A 0.0.0.0
 srv5.jiripocta.cz A 0.0.0.0
 srv-revprox-01.atakorah.com A 0.0.0.0
 ss.0001.xyz A 0.0.0.0
 ssh-storage.ru A 0.0.0.0
 staging.dnsteam.globuscs.info A 0.0.0.0
 staniranon.duckdns.org A 0.0.0.0
-static.captnemo.in A 0.0.0.0
 statistics.larryvpn.com A 0.0.0.0
 strangeservercdn.site A 0.0.0.0
 streamsmoke.com A 0.0.0.0
@@ -7941,6 +7924,8 @@ test.adg.siudzinski.net A 0.0.0.0
 test.dnsteam.globuscs.info A 0.0.0.0
 testguard.meexx.de A 0.0.0.0
 tetra.aeins.at A 0.0.0.0
+tezoi.duckdns.org A 0.0.0.0
+tg2a7d4.glddns.com A 0.0.0.0
 thamrin.ddns.net A 0.0.0.0
 thanos.pleumkungz.com A 0.0.0.0
 thefamilypuls.com A 0.0.0.0
@@ -7959,7 +7944,6 @@ towman.ddns.net A 0.0.0.0
 tran.net.vn A 0.0.0.0
 travis90x.ddns.net A 0.0.0.0
 tr-ist-w-p-2.nashkan.net A 0.0.0.0
-triton.data.haus A 0.0.0.0
 trovs.ru A 0.0.0.0
 truta.org A 0.0.0.0
 trytackle.ddns.net A 0.0.0.0
@@ -7979,7 +7963,6 @@ unifi.carioka.com A 0.0.0.0
 unixfox.duckdns.org A 0.0.0.0
 uranus.plonknet.com A 0.0.0.0
 ur.hytec.org A 0.0.0.0
-us5.wan.hc7z.com A 0.0.0.0
 usa1.altcensored.com A 0.0.0.0
 us-ash-w-f-1.nashkan.net A 0.0.0.0
 us-atl-w-2.nashkan.net A 0.0.0.0
@@ -8008,7 +7991,6 @@ ususbuntu.rtrdgovt.com A 0.0.0.0
 usz.xydustc.me A 0.0.0.0
 ux.go20.cf A 0.0.0.0
 v1552270.hosted-by-vdsina.ru A 0.0.0.0
-v1.lifeym.xyz A 0.0.0.0
 v2-1.huwenqiang.xyz A 0.0.0.0
 v2.xm706v.com A 0.0.0.0
 v3.passby.eu.org A 0.0.0.0
@@ -8030,6 +8012,7 @@ vir.accesscam.org A 0.0.0.0
 virmamp33.sytes.net A 0.0.0.0
 vlad.dns.vladpro.ru A 0.0.0.0
 vladpro.ru A 0.0.0.0
+vm01.eban.eu.org A 0.0.0.0
 vm1.arashi.solutions A 0.0.0.0
 vm2.arashi.solutions A 0.0.0.0
 vm2.oowo.de A 0.0.0.0
@@ -8098,6 +8081,7 @@ vps309.brueggus.de A 0.0.0.0
 vps310.brueggus.de A 0.0.0.0
 vps311.brueggus.de A 0.0.0.0
 vps312.brueggus.de A 0.0.0.0
+vps313.brueggus.de A 0.0.0.0
 vps314.brueggus.de A 0.0.0.0
 vps317.brueggus.de A 0.0.0.0
 vps322.brueggus.de A 0.0.0.0
@@ -8251,4 +8235,4 @@ zuhause.webteufel.net A 0.0.0.0
 zulkas.top A 0.0.0.0
 z.vipit.one A 0.0.0.0
 
-; md5sum: c1c9764c74f7330a8911b97cae9bcb99
+; md5sum: 86944d6da4b4a4f5b8f0bd4c2c44d89a
