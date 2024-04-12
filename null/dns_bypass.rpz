@@ -1,10 +1,10 @@
-; Last modified: 2024-04-12T01:25:45+08:00
+; Last modified: 2024-04-13T01:25:41+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2404120125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2404130125 43200 60 2592000 30
  IN NS localhost.
 
 ns.00dani.me A 0.0.0.0
@@ -6130,6 +6130,7 @@ zwyr157wwiu6eior.com A 0.0.0.0
 1.0rz.space A 0.0.0.0
 1.11i.eu A 0.0.0.0
 15101844.xyz A 0.0.0.0
+180.0rz.space A 0.0.0.0
 1b.ns.ozer.im A 0.0.0.0
 1dot1dot1dot1.cloudflaredns.com A 0.0.0.0
 1.id.sdn.airns.net A 0.0.0.0
@@ -6141,6 +6142,7 @@ zwyr157wwiu6eior.com A 0.0.0.0
 2wired.hopto.org A 0.0.0.0
 3.11i.eu A 0.0.0.0
 317252.xyz A 0.0.0.0
+3dns.eu A 0.0.0.0
 45-76-84-146.colo.xandodigital.net A 0.0.0.0
 4yix.l.time4vps.cloud A 0.0.0.0
 52bhn.dynv6.net A 0.0.0.0
@@ -6537,6 +6539,7 @@ cattery2.eastasia.cloudapp.azure.com A 0.0.0.0
 cattery2.noddos.top A 0.0.0.0
 caycewebsolutions.com A 0.0.0.0
 cc210b36bb9e.sn.mynetname.net A 0.0.0.0
+cc210f4a872c.sn.mynetname.net A 0.0.0.0
 cc2.v8er.net A 0.0.0.0
 ccyykk.top A 0.0.0.0
 cdn.45lnd.ir A 0.0.0.0
@@ -6555,7 +6558,6 @@ cintra.ml A 0.0.0.0
 circumitor.de A 0.0.0.0
 cld.996969.xyz A 0.0.0.0
 clic.eu.org A 0.0.0.0
-cloud.198.games.cdn.dnsv1.com A 0.0.0.0
 cloudbasesolutions.online A 0.0.0.0
 cloud.graphicpoint.pl A 0.0.0.0
 cloudsrv.charitosnet.de A 0.0.0.0
@@ -6724,6 +6726,7 @@ dns.basestation.my.id A 0.0.0.0
 dns.bastnet.co A 0.0.0.0
 dns.biliun.me A 0.0.0.0
 dns.bitgeek.in A 0.0.0.0
+dns.bitservices.io A 0.0.0.0
 dns.bluemeda.cf A 0.0.0.0
 dns.bluestarnc.com A 0.0.0.0
 dnsbot.fiedin.com A 0.0.0.0
@@ -6844,6 +6847,7 @@ dns.hr.i81.ru A 0.0.0.0
 dns.huas.me A 0.0.0.0
 dns.huizegunsing.nl A 0.0.0.0
 dns.hva.li A 0.0.0.0
+dns.hypercute.eu A 0.0.0.0
 dns.iblockads.net A 0.0.0.0
 dns.ibreeze.xyz A 0.0.0.0
 dns.ictorn.dev A 0.0.0.0
@@ -6865,6 +6869,7 @@ dns.itnetpass.ru A 0.0.0.0
 dns.itsec.crolla.net A 0.0.0.0
 dns.itwht.com A 0.0.0.0
 dns.itya.xyz A 0.0.0.0
+dns.janl.eu A 0.0.0.0
 dns.jcdn.site A 0.0.0.0
 dns.jean.im A 0.0.0.0
 dns.jelebruh.xyz A 0.0.0.0
@@ -7056,6 +7061,7 @@ dns.struchkov.dev A 0.0.0.0
 dns.stud.cloud A 0.0.0.0
 dns.stvsk.ml A 0.0.0.0
 dns.supercluster.io A 0.0.0.0
+dns.svoi.dev A 0.0.0.0
 dns.syaifullah.id A 0.0.0.0
 dns.tapawan.ca A 0.0.0.0
 dns.tb4.me A 0.0.0.0
@@ -7257,6 +7263,7 @@ ev-goztepe.duckdns.org A 0.0.0.0
 eweyo.duckdns.org A 0.0.0.0
 exns1.exalto.nu A 0.0.0.0
 eyg01.dnscry.pt A 0.0.0.0
+f03a0e2fa9f5.sn.mynetname.net A 0.0.0.0
 f1.dns.s3cure.me A 0.0.0.0
 f2-dns.asuzac.com.vn A 0.0.0.0
 f97.xyz A 0.0.0.0
@@ -7305,7 +7312,6 @@ fullaccesstointernet.jp.eu.org A 0.0.0.0
 funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
-gateway.baltes.info A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
 gb-cov-w-1.nashkan.net A 0.0.0.0
@@ -7438,7 +7444,6 @@ jabber-server.de A 0.0.0.0
 jalexx.freeboxos.fr A 0.0.0.0
 jcdns.fun A 0.0.0.0
 jefe.space A 0.0.0.0
-jianyi.studio A 0.0.0.0
 jkt01.dnscry.pt A 0.0.0.0
 jmarston.duckdns.org A 0.0.0.0
 jnprd.com A 0.0.0.0
@@ -7587,7 +7592,6 @@ moto.adg.siudzinski.net A 0.0.0.0
 m-rm.circumitor.de A 0.0.0.0
 mr-romero.com A 0.0.0.0
 mru01.dnscry.pt A 0.0.0.0
-mtdkdhs0.slt.sched.tdnsv8.com A 0.0.0.0
 muc-ns01.ibytex.systems A 0.0.0.0
 muppy.pnamae.com A 0.0.0.0
 mx1.laoxiao789.com A 0.0.0.0
@@ -7708,6 +7712,7 @@ one.dotted.9l3.com A 0.0.0.0
 oneplus-10pro.aezadns.duckdns.org A 0.0.0.0
 onlyfriends.info A 0.0.0.0
 o--o.duckdns.org A 0.0.0.0
+o.o.ovpn.bond A 0.0.0.0
 oostelbos.dynu.com A 0.0.0.0
 open-resolver1.unima.ac.id A 0.0.0.0
 op.htyweb.top A 0.0.0.0
@@ -8124,6 +8129,7 @@ vps314.brueggus.de A 0.0.0.0
 vps317.brueggus.de A 0.0.0.0
 vps322.brueggus.de A 0.0.0.0
 vps325.brueggus.de A 0.0.0.0
+vps326.brueggus.de A 0.0.0.0
 vps327.brueggus.de A 0.0.0.0
 vps328.brueggus.de A 0.0.0.0
 vps329.brueggus.de A 0.0.0.0
@@ -8266,5 +8272,5 @@ zuhause.webteufel.net A 0.0.0.0
 zulkas.top A 0.0.0.0
 z.vipit.one A 0.0.0.0
 
-; RPZ entries (8,258) md5sum: 02512b2253dbe7804a0a6a3bb5a8a731
-; Processed in: 0:00:05.109252
+; RPZ entries (8,264) md5sum: b078372d76532b0219adb2a176b94632
+; Processed in: 0:00:04.802158

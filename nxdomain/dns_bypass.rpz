@@ -1,10 +1,10 @@
-; Last modified: 2024-04-12T01:25:45+08:00
+; Last modified: 2024-04-13T01:25:41+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2404120125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2404130125 43200 60 2592000 30
  IN NS localhost.
 
 ns.00dani.me CNAME .
@@ -6130,6 +6130,7 @@ zwyr157wwiu6eior.com CNAME .
 1.0rz.space CNAME .
 1.11i.eu CNAME .
 15101844.xyz CNAME .
+180.0rz.space CNAME .
 1b.ns.ozer.im CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
 1.id.sdn.airns.net CNAME .
@@ -6141,6 +6142,7 @@ zwyr157wwiu6eior.com CNAME .
 2wired.hopto.org CNAME .
 3.11i.eu CNAME .
 317252.xyz CNAME .
+3dns.eu CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
 52bhn.dynv6.net CNAME .
@@ -6537,6 +6539,7 @@ cattery2.eastasia.cloudapp.azure.com CNAME .
 cattery2.noddos.top CNAME .
 caycewebsolutions.com CNAME .
 cc210b36bb9e.sn.mynetname.net CNAME .
+cc210f4a872c.sn.mynetname.net CNAME .
 cc2.v8er.net CNAME .
 ccyykk.top CNAME .
 cdn.45lnd.ir CNAME .
@@ -6555,7 +6558,6 @@ cintra.ml CNAME .
 circumitor.de CNAME .
 cld.996969.xyz CNAME .
 clic.eu.org CNAME .
-cloud.198.games.cdn.dnsv1.com CNAME .
 cloudbasesolutions.online CNAME .
 cloud.graphicpoint.pl CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -6724,6 +6726,7 @@ dns.basestation.my.id CNAME .
 dns.bastnet.co CNAME .
 dns.biliun.me CNAME .
 dns.bitgeek.in CNAME .
+dns.bitservices.io CNAME .
 dns.bluemeda.cf CNAME .
 dns.bluestarnc.com CNAME .
 dnsbot.fiedin.com CNAME .
@@ -6844,6 +6847,7 @@ dns.hr.i81.ru CNAME .
 dns.huas.me CNAME .
 dns.huizegunsing.nl CNAME .
 dns.hva.li CNAME .
+dns.hypercute.eu CNAME .
 dns.iblockads.net CNAME .
 dns.ibreeze.xyz CNAME .
 dns.ictorn.dev CNAME .
@@ -6865,6 +6869,7 @@ dns.itnetpass.ru CNAME .
 dns.itsec.crolla.net CNAME .
 dns.itwht.com CNAME .
 dns.itya.xyz CNAME .
+dns.janl.eu CNAME .
 dns.jcdn.site CNAME .
 dns.jean.im CNAME .
 dns.jelebruh.xyz CNAME .
@@ -7056,6 +7061,7 @@ dns.struchkov.dev CNAME .
 dns.stud.cloud CNAME .
 dns.stvsk.ml CNAME .
 dns.supercluster.io CNAME .
+dns.svoi.dev CNAME .
 dns.syaifullah.id CNAME .
 dns.tapawan.ca CNAME .
 dns.tb4.me CNAME .
@@ -7257,6 +7263,7 @@ ev-goztepe.duckdns.org CNAME .
 eweyo.duckdns.org CNAME .
 exns1.exalto.nu CNAME .
 eyg01.dnscry.pt CNAME .
+f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 f97.xyz CNAME .
@@ -7305,7 +7312,6 @@ fullaccesstointernet.jp.eu.org CNAME .
 funti.cc CNAME .
 fvpn.jarvishome.ru CNAME .
 gaia.plonknet.com CNAME .
-gateway.baltes.info CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
 gb-cov-w-1.nashkan.net CNAME .
@@ -7438,7 +7444,6 @@ jabber-server.de CNAME .
 jalexx.freeboxos.fr CNAME .
 jcdns.fun CNAME .
 jefe.space CNAME .
-jianyi.studio CNAME .
 jkt01.dnscry.pt CNAME .
 jmarston.duckdns.org CNAME .
 jnprd.com CNAME .
@@ -7587,7 +7592,6 @@ moto.adg.siudzinski.net CNAME .
 m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
-mtdkdhs0.slt.sched.tdnsv8.com CNAME .
 muc-ns01.ibytex.systems CNAME .
 muppy.pnamae.com CNAME .
 mx1.laoxiao789.com CNAME .
@@ -7708,6 +7712,7 @@ one.dotted.9l3.com CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
+o.o.ovpn.bond CNAME .
 oostelbos.dynu.com CNAME .
 open-resolver1.unima.ac.id CNAME .
 op.htyweb.top CNAME .
@@ -8124,6 +8129,7 @@ vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
 vps325.brueggus.de CNAME .
+vps326.brueggus.de CNAME .
 vps327.brueggus.de CNAME .
 vps328.brueggus.de CNAME .
 vps329.brueggus.de CNAME .
@@ -8266,5 +8272,5 @@ zuhause.webteufel.net CNAME .
 zulkas.top CNAME .
 z.vipit.one CNAME .
 
-; RPZ entries (8,258) md5sum: 02512b2253dbe7804a0a6a3bb5a8a731
-; Processed in: 0:00:05.081410
+; RPZ entries (8,264) md5sum: b078372d76532b0219adb2a176b94632
+; Processed in: 0:00:04.771638
