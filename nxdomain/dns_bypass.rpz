@@ -1,14 +1,12 @@
-; Last modified: 2024-04-22T01:25:56+08:00
+; Last modified: 2024-04-23T01:25:40+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2404220125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2404230125 43200 60 2592000 30
  IN NS localhost.
 
-dns.pumpkinvrar.com CNAME .
-*.dns.pumpkinvrar.com CNAME .
 pukanuragan.ru CNAME .
 *.pukanuragan.ru CNAME .
 publicdnsserver.com CNAME .
@@ -1587,14 +1585,14 @@ cranking90s.fortnitebuilder.pro CNAME .
 *.cranking90s.fortnitebuilder.pro CNAME .
 fortiwebcloud.net CNAME .
 *.fortiwebcloud.net CNAME .
-fortinet.net CNAME .
-*.fortinet.net CNAME .
 opennic.tenta.io CNAME .
 *.opennic.tenta.io CNAME .
-fortinet.com CNAME .
-*.fortinet.com CNAME .
+fortinet.net CNAME .
+*.fortinet.net CNAME .
 iana.tenta.io CNAME .
 *.iana.tenta.io CNAME .
+fortinet.com CNAME .
+*.fortinet.com CNAME .
 for-privacy.net CNAME .
 *.for-privacy.net CNAME .
 flyvpn.com CNAME .
@@ -1771,10 +1769,12 @@ droidvpn.com CNAME .
 *.droidvpn.com CNAME .
 dreamvpn.us CNAME .
 *.dreamvpn.us CNAME .
-doyouremember.love CNAME .
-*.doyouremember.love CNAME .
 dns.pragmasec.nl CNAME .
 *.dns.pragmasec.nl CNAME .
+doyouremember.love CNAME .
+*.doyouremember.love CNAME .
+zxcvb.pp.ua CNAME .
+*.zxcvb.pp.ua CNAME .
 downloadvpnfree.com CNAME .
 *.downloadvpnfree.com CNAME .
 virga.pp.ua CNAME .
@@ -6369,6 +6369,16 @@ puredns.org CNAME .
 *.puredns.org CNAME .
 pupilproxy.com CNAME .
 *.pupilproxy.com CNAME .
+dns.pumpkinvrar.com CNAME .
+*.dns.pumpkinvrar.com CNAME .
+snafflefang.obn.cloud CNAME .
+snd.jaxif.com CNAME .
+socolov.home.ro CNAME .
+solution.w10.life CNAME .
+sp1wpdybsw1twq1d.myfritz.net CNAME .
+spb1.naum.fun CNAME .
+spyrodragon76.fleuryk.ovh CNAME .
+sq.trin.icu CNAME .
 sradg2.eastus.cloudapp.azure.com CNAME .
 sradg.eastus.cloudapp.azure.com CNAME .
 srgaghome.freemyip.com CNAME .
@@ -6413,6 +6423,7 @@ test.adg.siudzinski.net CNAME .
 test.dnsteam.globuscs.info CNAME .
 tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
+tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
@@ -6600,6 +6611,7 @@ vps355.brueggus.de CNAME .
 vps356.brueggus.de CNAME .
 vps357.brueggus.de CNAME .
 vps359.brueggus.de CNAME .
+vps362.brueggus.de CNAME .
 vps66.brueggus.de CNAME .
 vps.abgnetwork.es CNAME .
 vps.ak42.io CNAME .
@@ -6718,7 +6730,6 @@ ztv.su CNAME .
 zuhause.webteufel.net CNAME .
 zulkas.top CNAME .
 z.vipit.one CNAME .
-zxcvb.pp.ua CNAME .
 001.smallnode.net CNAME .
 10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com CNAME .
 1.0rz.space CNAME .
@@ -6872,6 +6883,7 @@ adguard.green1052.com CNAME .
 adguard.h4nt3r.com CNAME .
 adguard.helpdesk38.ru CNAME .
 adguardh.ga CNAME .
+adguard.hofi.li CNAME .
 adguardhome.fr.couli.fr CNAME .
 adguard-home.myddns.me CNAME .
 adguard-home.server-on.net CNAME .
@@ -6891,6 +6903,7 @@ adguard.korks.tk CNAME .
 adguard.koshonsa.fr CNAME .
 adguard.laurenlaufman.com CNAME .
 adguard.lspcr.space CNAME .
+adguard.macrosolutionsltd.co.uk CNAME .
 adguard.madeconengenharia.com.br CNAME .
 adguard.mapor.co CNAME .
 adguard.minetown.eu.org CNAME .
@@ -7105,6 +7118,7 @@ bg-sof-w-3.nashkan.net CNAME .
 bh.wael.name CNAME .
 bigart.su CNAME .
 bigora2.vuhai.de CNAME .
+b-ii.com CNAME .
 bilidon.dnsuser.info CNAME .
 bilidon.info CNAME .
 bing.000036.xyz CNAME .
@@ -7115,6 +7129,7 @@ blackhole.aflr.io CNAME .
 blackhole.gugainfo.com.br CNAME .
 blade.lixd.club CNAME .
 bld.sys-adm.in CNAME .
+bl.eq.md CNAME .
 block.coconut.id CNAME .
 blokuj.ujwie.co CNAME .
 bluedns.xyz CNAME .
@@ -7224,6 +7239,7 @@ destakmateriais.com.br CNAME .
 dev.gonnadive.com CNAME .
 deweerd.loseyourip.com CNAME .
 dff029179c4246e385296ea8de0b8eb8.pacloudflare.com CNAME .
+dfw02.dnscry.pt CNAME .
 d.gametechnet.com CNAME .
 dgca.myds.me CNAME .
 d.hansj.cc CNAME .
@@ -7411,6 +7427,7 @@ dns.enderblocks.net CNAME .
 dns.energized.pro CNAME .
 dns.engineer-lib.ru CNAME .
 dns-enzel.de CNAME .
+dns.enzonix.com CNAME .
 dns.esegece.com CNAME .
 dns.eu-frankfurt-1.oci.oraclecloud.com CNAME .
 dns.eu-frankfurt-1.oci.oraclecloud.net CNAME .
@@ -7423,6 +7440,7 @@ dns.fahr.in CNAME .
 dns.familiamichels.com.br CNAME .
 dnsfamily.adguard.com CNAME .
 dns-family.esegece.com CNAME .
+dns.family.fraiss.at CNAME .
 dns.farakaft.ir CNAME .
 dns.faze.dev CNAME .
 dns.fb.i81.ru CNAME .
@@ -7865,6 +7883,7 @@ elisabeth.klarsgarden.com CNAME .
 elsa.airns.net CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
+epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 essentiallyjay.com CNAME .
@@ -7876,6 +7895,7 @@ ev-goztepe.duckdns.org CNAME .
 eweyo.duckdns.org CNAME .
 exns1.exalto.nu CNAME .
 eyg01.dnscry.pt CNAME .
+f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 f97.xyz CNAME .
@@ -8218,7 +8238,6 @@ m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
 mtdkdhs0.slt.sched.tdnsv8.com CNAME .
-mtdz.duckdns.org CNAME .
 muc-ns01.ibytex.systems CNAME .
 muppy.pnamae.com CNAME .
 mx1.laoxiao789.com CNAME .
@@ -8533,6 +8552,7 @@ sg.telex.app CNAME .
 sg-w-1.nashkan.net CNAME .
 sg-w-5.nashkan.net CNAME .
 sg-w-f-1.nashkan.net CNAME .
+sg-w-f-2.nashkan.net CNAME .
 sg-w-p-1.nashkan.net CNAME .
 shadowart.online CNAME .
 shalenkov.cc CNAME .
@@ -8557,14 +8577,6 @@ sm5q237c0.g666gle.me CNAME .
 smartphone-niels.pcbrdh8v6m.digitallink.be CNAME .
 smartphone-saskia.pcbrdh8v6m.digitallink.be CNAME .
 smtp.greppie.nl CNAME .
-snafflefang.obn.cloud CNAME .
-snd.jaxif.com CNAME .
-socolov.home.ro CNAME .
-solution.w10.life CNAME .
-sp1wpdybsw1twq1d.myfritz.net CNAME .
-spb1.naum.fun CNAME .
-spyrodragon76.fleuryk.ovh CNAME .
-sq.trin.icu CNAME .
 
-; RPZ entries (8,558) md5sum: 73b61d7d1d19680291abf7a754a86c20
-; Processed in: 0:00:04.381541
+; RPZ entries (8,570) md5sum: f87fa2c0a49e267118ed7227f445b1b7
+; Processed in: 0:00:05.149017
