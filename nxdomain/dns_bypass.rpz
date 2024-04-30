@@ -1,10 +1,10 @@
-; Last modified: 2024-04-30T01:25:54+08:00
+; Last modified: 2024-05-01T01:27:13+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2404300125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405010127 43200 60 2592000 30
  IN NS localhost.
 
 proxysite.top CNAME .
@@ -373,8 +373,6 @@ portmap.host CNAME .
 *.portmap.host CNAME .
 dns.porteii.com CNAME .
 *.dns.porteii.com CNAME .
-doh.port53.dk CNAME .
-*.doh.port53.dk CNAME .
 polaris.cx CNAME .
 *.polaris.cx CNAME .
 polargrizzly.com CNAME .
@@ -1499,14 +1497,14 @@ freehollandproxy.nl CNAME .
 *.freehollandproxy.nl CNAME .
 freehiddenvpn.gq CNAME .
 *.freehiddenvpn.gq CNAME .
-opennic.tenta.io CNAME .
-*.opennic.tenta.io CNAME .
 freeeuroproxy.com CNAME .
 *.freeeuroproxy.com CNAME .
-iana.tenta.io CNAME .
-*.iana.tenta.io CNAME .
+opennic.tenta.io CNAME .
+*.opennic.tenta.io CNAME .
 freedomproxy.com CNAME .
 *.freedomproxy.com CNAME .
+iana.tenta.io CNAME .
+*.iana.tenta.io CNAME .
 freedome-vpn.net CNAME .
 *.freedome-vpn.net CNAME .
 freedevpn.com CNAME .
@@ -1719,6 +1717,8 @@ dutchproxy.nl CNAME .
 *.dutchproxy.nl CNAME .
 vpschito.duckdns.org CNAME .
 *.vpschito.duckdns.org CNAME .
+doh.port53.dk CNAME .
+*.doh.port53.dk CNAME .
 privacy.plumedns.com CNAME .
 *.privacy.plumedns.com CNAME .
 secure-dns.pleumkungz.com CNAME .
@@ -6335,8 +6335,6 @@ pukanuragan.ru CNAME .
 *.pukanuragan.ru CNAME .
 publicdnsserver.com CNAME .
 *.publicdnsserver.com CNAME .
-public-dns.info CNAME .
-*.public-dns.info CNAME .
 ptoserver.com CNAME .
 *.ptoserver.com CNAME .
 psiphon3.com CNAME .
@@ -6589,7 +6587,6 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
-vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
@@ -6777,7 +6774,6 @@ a5135324.csie.io CNAME .
 a-bld.sys-adm.in CNAME .
 ablock.fuckit.ovh CNAME .
 abluehope.com CNAME .
-abstergo.it CNAME .
 acomit.lk CNAME .
 ad1guard.duckdns.org CNAME .
 ad.257053.xyz CNAME .
@@ -7125,6 +7121,7 @@ beacon.dog CNAME .
 beacon.fengli.love CNAME .
 beautifullife.eu.org CNAME .
 beautifulthings.eu.org CNAME .
+bemag.app CNAME .
 berd.moe CNAME .
 bev.dns.walshnet.co.uk CNAME .
 b.family.ns.dnslify.com CNAME .
@@ -7464,7 +7461,6 @@ dns.fc.idv.tw CNAME .
 dns.fifux.be CNAME .
 dns.fills.cn CNAME .
 dnsfilter.domotik.us CNAME .
-dns.foximao.cn CNAME .
 dns-frankfurt.mii-xms.com CNAME .
 dns.freddys.my.id CNAME .
 dns.frguthrie.app CNAME .
@@ -8378,8 +8374,8 @@ one.dotted.9l3.com CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
-o.ooo.ovpn.bond CNAME .
-o.oo.ovpn.bond CNAME .
+ooo.ooo.ovpn.bond CNAME .
+oo.oo.ovpn.bond CNAME .
 o.o.ovpn.bond CNAME .
 oostelbos.dynu.com CNAME .
 open-resolver1.unima.ac.id CNAME .
@@ -8398,7 +8394,6 @@ ovh.panszelescik.pl CNAME .
 owndns.dedyn.io CNAME .
 pad3w.pp.ua CNAME .
 padermail.net CNAME .
-paimon.sev.monster CNAME .
 par01.dnscry.pt CNAME .
 pcbrdh8v6m.digitallink.be CNAME .
 pccoach.ddns.net CNAME .
@@ -8447,9 +8442,10 @@ prysiazhniuk.pp.ua CNAME .
 psociety.de CNAME .
 ps-tel-w-2.nashkan.net CNAME .
 pt-lis-w-1.nashkan.net CNAME .
-pub-dns-sec-srv-relay.oooo.ovpn.bond CNAME .
+pub-dns-sec-relay.oooo.ovpn.bond CNAME .
 pub.hsuan.ink CNAME .
 pub.hsuan.ink.eo.dnse0.com CNAME .
+public-dns.info CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -8578,5 +8574,5 @@ sg-w-p-1.nashkan.net CNAME .
 shadowart.online CNAME .
 shalenkov.cc CNAME .
 
-; RPZ entries (8,570) md5sum: b623811d181c6c85b35c59479d4e8c8a
-; Processed in: 0:00:04.923667
+; RPZ entries (8,566) md5sum: d0c722d14b5f926d483ded1e9daf07e5
+; Processed in: 0:00:06.340873

@@ -1,10 +1,10 @@
-; Last modified: 2024-04-30T01:25:54+08:00
+; Last modified: 2024-05-01T01:27:13+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2404300125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405010127 43200 60 2592000 30
  IN NS localhost.
 
 proxysite.top A 0.0.0.0
@@ -373,8 +373,6 @@ portmap.host A 0.0.0.0
 *.portmap.host A 0.0.0.0
 dns.porteii.com A 0.0.0.0
 *.dns.porteii.com A 0.0.0.0
-doh.port53.dk A 0.0.0.0
-*.doh.port53.dk A 0.0.0.0
 polaris.cx A 0.0.0.0
 *.polaris.cx A 0.0.0.0
 polargrizzly.com A 0.0.0.0
@@ -1499,14 +1497,14 @@ freehollandproxy.nl A 0.0.0.0
 *.freehollandproxy.nl A 0.0.0.0
 freehiddenvpn.gq A 0.0.0.0
 *.freehiddenvpn.gq A 0.0.0.0
-opennic.tenta.io A 0.0.0.0
-*.opennic.tenta.io A 0.0.0.0
 freeeuroproxy.com A 0.0.0.0
 *.freeeuroproxy.com A 0.0.0.0
-iana.tenta.io A 0.0.0.0
-*.iana.tenta.io A 0.0.0.0
+opennic.tenta.io A 0.0.0.0
+*.opennic.tenta.io A 0.0.0.0
 freedomproxy.com A 0.0.0.0
 *.freedomproxy.com A 0.0.0.0
+iana.tenta.io A 0.0.0.0
+*.iana.tenta.io A 0.0.0.0
 freedome-vpn.net A 0.0.0.0
 *.freedome-vpn.net A 0.0.0.0
 freedevpn.com A 0.0.0.0
@@ -1719,6 +1717,8 @@ dutchproxy.nl A 0.0.0.0
 *.dutchproxy.nl A 0.0.0.0
 vpschito.duckdns.org A 0.0.0.0
 *.vpschito.duckdns.org A 0.0.0.0
+doh.port53.dk A 0.0.0.0
+*.doh.port53.dk A 0.0.0.0
 privacy.plumedns.com A 0.0.0.0
 *.privacy.plumedns.com A 0.0.0.0
 secure-dns.pleumkungz.com A 0.0.0.0
@@ -6335,8 +6335,6 @@ pukanuragan.ru A 0.0.0.0
 *.pukanuragan.ru A 0.0.0.0
 publicdnsserver.com A 0.0.0.0
 *.publicdnsserver.com A 0.0.0.0
-public-dns.info A 0.0.0.0
-*.public-dns.info A 0.0.0.0
 ptoserver.com A 0.0.0.0
 *.ptoserver.com A 0.0.0.0
 psiphon3.com A 0.0.0.0
@@ -6589,7 +6587,6 @@ vps309.brueggus.de A 0.0.0.0
 vps310.brueggus.de A 0.0.0.0
 vps311.brueggus.de A 0.0.0.0
 vps312.brueggus.de A 0.0.0.0
-vps313.brueggus.de A 0.0.0.0
 vps314.brueggus.de A 0.0.0.0
 vps317.brueggus.de A 0.0.0.0
 vps322.brueggus.de A 0.0.0.0
@@ -6777,7 +6774,6 @@ a5135324.csie.io A 0.0.0.0
 a-bld.sys-adm.in A 0.0.0.0
 ablock.fuckit.ovh A 0.0.0.0
 abluehope.com A 0.0.0.0
-abstergo.it A 0.0.0.0
 acomit.lk A 0.0.0.0
 ad1guard.duckdns.org A 0.0.0.0
 ad.257053.xyz A 0.0.0.0
@@ -7125,6 +7121,7 @@ beacon.dog A 0.0.0.0
 beacon.fengli.love A 0.0.0.0
 beautifullife.eu.org A 0.0.0.0
 beautifulthings.eu.org A 0.0.0.0
+bemag.app A 0.0.0.0
 berd.moe A 0.0.0.0
 bev.dns.walshnet.co.uk A 0.0.0.0
 b.family.ns.dnslify.com A 0.0.0.0
@@ -7464,7 +7461,6 @@ dns.fc.idv.tw A 0.0.0.0
 dns.fifux.be A 0.0.0.0
 dns.fills.cn A 0.0.0.0
 dnsfilter.domotik.us A 0.0.0.0
-dns.foximao.cn A 0.0.0.0
 dns-frankfurt.mii-xms.com A 0.0.0.0
 dns.freddys.my.id A 0.0.0.0
 dns.frguthrie.app A 0.0.0.0
@@ -8378,8 +8374,8 @@ one.dotted.9l3.com A 0.0.0.0
 oneplus-10pro.aezadns.duckdns.org A 0.0.0.0
 onlyfriends.info A 0.0.0.0
 o--o.duckdns.org A 0.0.0.0
-o.ooo.ovpn.bond A 0.0.0.0
-o.oo.ovpn.bond A 0.0.0.0
+ooo.ooo.ovpn.bond A 0.0.0.0
+oo.oo.ovpn.bond A 0.0.0.0
 o.o.ovpn.bond A 0.0.0.0
 oostelbos.dynu.com A 0.0.0.0
 open-resolver1.unima.ac.id A 0.0.0.0
@@ -8398,7 +8394,6 @@ ovh.panszelescik.pl A 0.0.0.0
 owndns.dedyn.io A 0.0.0.0
 pad3w.pp.ua A 0.0.0.0
 padermail.net A 0.0.0.0
-paimon.sev.monster A 0.0.0.0
 par01.dnscry.pt A 0.0.0.0
 pcbrdh8v6m.digitallink.be A 0.0.0.0
 pccoach.ddns.net A 0.0.0.0
@@ -8447,9 +8442,10 @@ prysiazhniuk.pp.ua A 0.0.0.0
 psociety.de A 0.0.0.0
 ps-tel-w-2.nashkan.net A 0.0.0.0
 pt-lis-w-1.nashkan.net A 0.0.0.0
-pub-dns-sec-srv-relay.oooo.ovpn.bond A 0.0.0.0
+pub-dns-sec-relay.oooo.ovpn.bond A 0.0.0.0
 pub.hsuan.ink A 0.0.0.0
 pub.hsuan.ink.eo.dnse0.com A 0.0.0.0
+public-dns.info A 0.0.0.0
 q3i6k7j3.stackpathcdn.com A 0.0.0.0
 qaz.tw A 0.0.0.0
 qbak.no-ip.eu A 0.0.0.0
@@ -8578,5 +8574,5 @@ sg-w-p-1.nashkan.net A 0.0.0.0
 shadowart.online A 0.0.0.0
 shalenkov.cc A 0.0.0.0
 
-; RPZ entries (8,570) md5sum: b623811d181c6c85b35c59479d4e8c8a
-; Processed in: 0:00:04.946265
+; RPZ entries (8,566) md5sum: d0c722d14b5f926d483ded1e9daf07e5
+; Processed in: 0:00:06.425281
