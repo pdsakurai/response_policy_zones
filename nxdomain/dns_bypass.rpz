@@ -1,10 +1,10 @@
-; Last modified: 2024-05-01T01:27:13+08:00
+; Last modified: 2024-05-02T01:25:52+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405010127 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405020125 43200 60 2592000 30
  IN NS localhost.
 
 proxysite.top CNAME .
@@ -6367,10 +6367,6 @@ proxysneak.com CNAME .
 *.proxysneak.com CNAME .
 proxysite.us CNAME .
 *.proxysite.us CNAME .
-shieldsup.spearing.net CNAME .
-shijiu.asia CNAME .
-sh.telex.app CNAME .
-siddeus.synology.me CNAME .
 s.idsam.com CNAME .
 sin02.dnscry.pt CNAME .
 sin.core.access.zznet.fun CNAME .
@@ -6587,6 +6583,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
@@ -6774,6 +6771,7 @@ a5135324.csie.io CNAME .
 a-bld.sys-adm.in CNAME .
 ablock.fuckit.ovh CNAME .
 abluehope.com CNAME .
+abstergo.it CNAME .
 acomit.lk CNAME .
 ad1guard.duckdns.org CNAME .
 ad.257053.xyz CNAME .
@@ -7633,7 +7631,6 @@ dns.pine-home.de CNAME .
 dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
 dnspod.clzapp.com CNAME .
-dnspod-vip2.beian.mydnspod.net CNAME .
 dns.pointless.chat CNAME .
 dns.presencebuggy.my.id CNAME .
 dns-preview-alb-541438575.us-east-1.elb.amazonaws.com CNAME .
@@ -7891,7 +7888,6 @@ elisabeth.klarsgarden.com CNAME .
 elsa.airns.net CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
-epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 essentiallyjay.com CNAME .
@@ -8150,7 +8146,6 @@ kracon.anycast.uncensoreddns.dk CNAME .
 kr.loukky.com CNAME .
 kronos.plan9dns.com CNAME .
 kr.pigs.eu.org CNAME .
-ks1.plop.cc CNAME .
 ksedns.ru CNAME .
 kstdownload.com CNAME .
 kswro.web.id CNAME .
@@ -8214,7 +8209,6 @@ mask-api.fe2.apple-dns.net CNAME .
 mask-api.fe.apple-dns.net CNAME .
 mask.apple-dns.net CNAME .
 m-asm.circumitor.de CNAME .
-master.dns.xieke.org CNAME .
 mastergad.me CNAME .
 math.netlab.my.id CNAME .
 matthias-prost.com CNAME .
@@ -8374,14 +8368,12 @@ one.dotted.9l3.com CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
-ooo.ooo.ovpn.bond CNAME .
-oo.oo.ovpn.bond CNAME .
-o.o.ovpn.bond CNAME .
 oostelbos.dynu.com CNAME .
 open-resolver1.unima.ac.id CNAME .
 op.htyweb.top CNAME .
 ora1.nocnik.org CNAME .
 oracle001.330k.biz CNAME .
+oracle2.herry.dev CNAME .
 oradns.anbitech.com CNAME .
 orasrv.kellys.pw CNAME .
 origin.mikopono.nl CNAME .
@@ -8394,6 +8386,7 @@ ovh.panszelescik.pl CNAME .
 owndns.dedyn.io CNAME .
 pad3w.pp.ua CNAME .
 padermail.net CNAME .
+paimon.sev.monster CNAME .
 par01.dnscry.pt CNAME .
 pcbrdh8v6m.digitallink.be CNAME .
 pccoach.ddns.net CNAME .
@@ -8442,10 +8435,9 @@ prysiazhniuk.pp.ua CNAME .
 psociety.de CNAME .
 ps-tel-w-2.nashkan.net CNAME .
 pt-lis-w-1.nashkan.net CNAME .
-pub-dns-sec-relay.oooo.ovpn.bond CNAME .
+pub-dns-sec-relay.o.ovpn.bond CNAME .
 pub.hsuan.ink CNAME .
 pub.hsuan.ink.eo.dnse0.com CNAME .
-public-dns.info CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -8573,6 +8565,10 @@ sg-w-f-2.nashkan.net CNAME .
 sg-w-p-1.nashkan.net CNAME .
 shadowart.online CNAME .
 shalenkov.cc CNAME .
+shieldsup.spearing.net CNAME .
+shijiu.asia CNAME .
+sh.telex.app CNAME .
+siddeus.synology.me CNAME .
 
-; RPZ entries (8,566) md5sum: d0c722d14b5f926d483ded1e9daf07e5
-; Processed in: 0:00:06.340873
+; RPZ entries (8,562) md5sum: c2b79a654c65b9b64a7766b7b419c9b7
+; Processed in: 0:00:05.902628

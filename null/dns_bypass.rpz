@@ -1,10 +1,10 @@
-; Last modified: 2024-05-01T01:27:13+08:00
+; Last modified: 2024-05-02T01:25:52+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405010127 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405020125 43200 60 2592000 30
  IN NS localhost.
 
 proxysite.top A 0.0.0.0
@@ -6367,10 +6367,6 @@ proxysneak.com A 0.0.0.0
 *.proxysneak.com A 0.0.0.0
 proxysite.us A 0.0.0.0
 *.proxysite.us A 0.0.0.0
-shieldsup.spearing.net A 0.0.0.0
-shijiu.asia A 0.0.0.0
-sh.telex.app A 0.0.0.0
-siddeus.synology.me A 0.0.0.0
 s.idsam.com A 0.0.0.0
 sin02.dnscry.pt A 0.0.0.0
 sin.core.access.zznet.fun A 0.0.0.0
@@ -6587,6 +6583,7 @@ vps309.brueggus.de A 0.0.0.0
 vps310.brueggus.de A 0.0.0.0
 vps311.brueggus.de A 0.0.0.0
 vps312.brueggus.de A 0.0.0.0
+vps313.brueggus.de A 0.0.0.0
 vps314.brueggus.de A 0.0.0.0
 vps317.brueggus.de A 0.0.0.0
 vps322.brueggus.de A 0.0.0.0
@@ -6774,6 +6771,7 @@ a5135324.csie.io A 0.0.0.0
 a-bld.sys-adm.in A 0.0.0.0
 ablock.fuckit.ovh A 0.0.0.0
 abluehope.com A 0.0.0.0
+abstergo.it A 0.0.0.0
 acomit.lk A 0.0.0.0
 ad1guard.duckdns.org A 0.0.0.0
 ad.257053.xyz A 0.0.0.0
@@ -7633,7 +7631,6 @@ dns.pine-home.de A 0.0.0.0
 dns.ple91.uk A 0.0.0.0
 dns.pmxu.link A 0.0.0.0
 dnspod.clzapp.com A 0.0.0.0
-dnspod-vip2.beian.mydnspod.net A 0.0.0.0
 dns.pointless.chat A 0.0.0.0
 dns.presencebuggy.my.id A 0.0.0.0
 dns-preview-alb-541438575.us-east-1.elb.amazonaws.com A 0.0.0.0
@@ -7891,7 +7888,6 @@ elisabeth.klarsgarden.com A 0.0.0.0
 elsa.airns.net A 0.0.0.0
 emmmmm.me A 0.0.0.0
 eoin.dns.walshnet.co.uk A 0.0.0.0
-epyc.digineo.de A 0.0.0.0
 eropa.dnscepat.id A 0.0.0.0
 erroring.ignorelist.com A 0.0.0.0
 essentiallyjay.com A 0.0.0.0
@@ -8150,7 +8146,6 @@ kracon.anycast.uncensoreddns.dk A 0.0.0.0
 kr.loukky.com A 0.0.0.0
 kronos.plan9dns.com A 0.0.0.0
 kr.pigs.eu.org A 0.0.0.0
-ks1.plop.cc A 0.0.0.0
 ksedns.ru A 0.0.0.0
 kstdownload.com A 0.0.0.0
 kswro.web.id A 0.0.0.0
@@ -8214,7 +8209,6 @@ mask-api.fe2.apple-dns.net A 0.0.0.0
 mask-api.fe.apple-dns.net A 0.0.0.0
 mask.apple-dns.net A 0.0.0.0
 m-asm.circumitor.de A 0.0.0.0
-master.dns.xieke.org A 0.0.0.0
 mastergad.me A 0.0.0.0
 math.netlab.my.id A 0.0.0.0
 matthias-prost.com A 0.0.0.0
@@ -8374,14 +8368,12 @@ one.dotted.9l3.com A 0.0.0.0
 oneplus-10pro.aezadns.duckdns.org A 0.0.0.0
 onlyfriends.info A 0.0.0.0
 o--o.duckdns.org A 0.0.0.0
-ooo.ooo.ovpn.bond A 0.0.0.0
-oo.oo.ovpn.bond A 0.0.0.0
-o.o.ovpn.bond A 0.0.0.0
 oostelbos.dynu.com A 0.0.0.0
 open-resolver1.unima.ac.id A 0.0.0.0
 op.htyweb.top A 0.0.0.0
 ora1.nocnik.org A 0.0.0.0
 oracle001.330k.biz A 0.0.0.0
+oracle2.herry.dev A 0.0.0.0
 oradns.anbitech.com A 0.0.0.0
 orasrv.kellys.pw A 0.0.0.0
 origin.mikopono.nl A 0.0.0.0
@@ -8394,6 +8386,7 @@ ovh.panszelescik.pl A 0.0.0.0
 owndns.dedyn.io A 0.0.0.0
 pad3w.pp.ua A 0.0.0.0
 padermail.net A 0.0.0.0
+paimon.sev.monster A 0.0.0.0
 par01.dnscry.pt A 0.0.0.0
 pcbrdh8v6m.digitallink.be A 0.0.0.0
 pccoach.ddns.net A 0.0.0.0
@@ -8442,10 +8435,9 @@ prysiazhniuk.pp.ua A 0.0.0.0
 psociety.de A 0.0.0.0
 ps-tel-w-2.nashkan.net A 0.0.0.0
 pt-lis-w-1.nashkan.net A 0.0.0.0
-pub-dns-sec-relay.oooo.ovpn.bond A 0.0.0.0
+pub-dns-sec-relay.o.ovpn.bond A 0.0.0.0
 pub.hsuan.ink A 0.0.0.0
 pub.hsuan.ink.eo.dnse0.com A 0.0.0.0
-public-dns.info A 0.0.0.0
 q3i6k7j3.stackpathcdn.com A 0.0.0.0
 qaz.tw A 0.0.0.0
 qbak.no-ip.eu A 0.0.0.0
@@ -8573,6 +8565,10 @@ sg-w-f-2.nashkan.net A 0.0.0.0
 sg-w-p-1.nashkan.net A 0.0.0.0
 shadowart.online A 0.0.0.0
 shalenkov.cc A 0.0.0.0
+shieldsup.spearing.net A 0.0.0.0
+shijiu.asia A 0.0.0.0
+sh.telex.app A 0.0.0.0
+siddeus.synology.me A 0.0.0.0
 
-; RPZ entries (8,566) md5sum: d0c722d14b5f926d483ded1e9daf07e5
-; Processed in: 0:00:06.425281
+; RPZ entries (8,562) md5sum: c2b79a654c65b9b64a7766b7b419c9b7
+; Processed in: 0:00:05.928700
