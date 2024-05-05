@@ -1,12 +1,14 @@
-; Last modified: 2024-05-05T01:25:52+08:00
+; Last modified: 2024-05-06T01:25:49+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405050125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405060125 43200 60 2592000 30
  IN NS localhost.
 
+proxysneak.com A 0.0.0.0
+*.proxysneak.com A 0.0.0.0
 proxysite.us A 0.0.0.0
 *.proxysite.us A 0.0.0.0
 proxysite.top A 0.0.0.0
@@ -339,8 +341,6 @@ bru-be.prcdn.net A 0.0.0.0
 *.bru-be.prcdn.net A 0.0.0.0
 a1free-optimal.prcdn.net A 0.0.0.0
 *.a1free-optimal.prcdn.net A 0.0.0.0
-dns.pragmasec.nl A 0.0.0.0
-*.dns.pragmasec.nl A 0.0.0.0
 pr0xy.com A 0.0.0.0
 *.pr0xy.com A 0.0.0.0
 pq7hdf.com A 0.0.0.0
@@ -479,8 +479,6 @@ s.j0.icom.org.np A 0.0.0.0
 *.s.j0.icom.org.np A 0.0.0.0
 r.j0.icom.org.np A 0.0.0.0
 *.r.j0.icom.org.np A 0.0.0.0
-b.j0.icom.org.np A 0.0.0.0
-*.b.j0.icom.org.np A 0.0.0.0
 proxy.ordentlichbreit.de A 0.0.0.0
 *.proxy.ordentlichbreit.de A 0.0.0.0
 orangeproxy.net A 0.0.0.0
@@ -565,8 +563,6 @@ gravity.omniscien.cl A 0.0.0.0
 *.gravity.omniscien.cl A 0.0.0.0
 olympicproxy.net A 0.0.0.0
 *.olympicproxy.net A 0.0.0.0
-okofreevpn.com A 0.0.0.0
-*.okofreevpn.com A 0.0.0.0
 okayfreedom.com A 0.0.0.0
 *.okayfreedom.com A 0.0.0.0
 octovpn.net A 0.0.0.0
@@ -823,8 +819,6 @@ mallocapp.com A 0.0.0.0
 *.mallocapp.com A 0.0.0.0
 mainssh.com A 0.0.0.0
 *.mainssh.com A 0.0.0.0
-mainprox.com A 0.0.0.0
-*.mainprox.com A 0.0.0.0
 luminatinet.com A 0.0.0.0
 *.luminatinet.com A 0.0.0.0
 luminati.io A 0.0.0.0
@@ -951,8 +945,6 @@ jailbreaked.net A 0.0.0.0
 *.jailbreaked.net A 0.0.0.0
 jagoanssh.com A 0.0.0.0
 *.jagoanssh.com A 0.0.0.0
-ixl.plus A 0.0.0.0
-*.ixl.plus A 0.0.0.0
 iweb365.net A 0.0.0.0
 *.iweb365.net A 0.0.0.0
 iwantproxy.com A 0.0.0.0
@@ -963,8 +955,6 @@ ivacy.com A 0.0.0.0
 *.ivacy.com A 0.0.0.0
 itopvpn.com A 0.0.0.0
 *.itopvpn.com A 0.0.0.0
-stuffyschicken.isreallycool.lol A 0.0.0.0
-*.stuffyschicken.isreallycool.lol A 0.0.0.0
 smellypay.isreally.pro A 0.0.0.0
 *.smellypay.isreally.pro A 0.0.0.0
 smellyal.isreally.pro A 0.0.0.0
@@ -1459,14 +1449,14 @@ freemicvpn.com A 0.0.0.0
 *.freemicvpn.com A 0.0.0.0
 freehollandproxy.nl A 0.0.0.0
 *.freehollandproxy.nl A 0.0.0.0
-opennic.tenta.io A 0.0.0.0
-*.opennic.tenta.io A 0.0.0.0
 freehiddenvpn.gq A 0.0.0.0
 *.freehiddenvpn.gq A 0.0.0.0
-iana.tenta.io A 0.0.0.0
-*.iana.tenta.io A 0.0.0.0
+opennic.tenta.io A 0.0.0.0
+*.opennic.tenta.io A 0.0.0.0
 freeeuroproxy.com A 0.0.0.0
 *.freeeuroproxy.com A 0.0.0.0
+iana.tenta.io A 0.0.0.0
+*.iana.tenta.io A 0.0.0.0
 freedomproxy.com A 0.0.0.0
 *.freedomproxy.com A 0.0.0.0
 freedome-vpn.net A 0.0.0.0
@@ -1673,22 +1663,24 @@ dzhot.us A 0.0.0.0
 *.dzhot.us A 0.0.0.0
 vpn.dzarlax.dev A 0.0.0.0
 *.vpn.dzarlax.dev A 0.0.0.0
-zxcvb.pp.ua A 0.0.0.0
-*.zxcvb.pp.ua A 0.0.0.0
+dns.pragmasec.nl A 0.0.0.0
+*.dns.pragmasec.nl A 0.0.0.0
 dynanyx.com A 0.0.0.0
 *.dynanyx.com A 0.0.0.0
+zxcvb.pp.ua A 0.0.0.0
+*.zxcvb.pp.ua A 0.0.0.0
 virga.pp.ua A 0.0.0.0
 *.virga.pp.ua A 0.0.0.0
-sundalandia.pp.ua A 0.0.0.0
-*.sundalandia.pp.ua A 0.0.0.0
 dutchproxy.nl A 0.0.0.0
 *.dutchproxy.nl A 0.0.0.0
+sundalandia.pp.ua A 0.0.0.0
+*.sundalandia.pp.ua A 0.0.0.0
 lindung.pp.ua A 0.0.0.0
 *.lindung.pp.ua A 0.0.0.0
-dns.korzhyk.pp.ua A 0.0.0.0
-*.dns.korzhyk.pp.ua A 0.0.0.0
 vpschito.duckdns.org A 0.0.0.0
 *.vpschito.duckdns.org A 0.0.0.0
+dns.korzhyk.pp.ua A 0.0.0.0
+*.dns.korzhyk.pp.ua A 0.0.0.0
 dns.ha-dvin.pp.ua A 0.0.0.0
 *.dns.ha-dvin.pp.ua A 0.0.0.0
 doh.powerdns.org A 0.0.0.0
@@ -1705,66 +1697,66 @@ pluton.plan9-dns.com A 0.0.0.0
 *.pluton.plan9-dns.com A 0.0.0.0
 kronos.plan9-dns.com A 0.0.0.0
 *.kronos.plan9-dns.com A 0.0.0.0
-helios.plan9-dns.com A 0.0.0.0
-*.helios.plan9-dns.com A 0.0.0.0
 duba.net A 0.0.0.0
 *.duba.net A 0.0.0.0
-dns1.pietjacobs.be A 0.0.0.0
-*.dns1.pietjacobs.be A 0.0.0.0
+helios.plan9-dns.com A 0.0.0.0
+*.helios.plan9-dns.com A 0.0.0.0
 duapps.com A 0.0.0.0
 *.duapps.com A 0.0.0.0
+dns1.pietjacobs.be A 0.0.0.0
+*.dns1.pietjacobs.be A 0.0.0.0
 adguard.piekacz.pl A 0.0.0.0
 *.adguard.piekacz.pl A 0.0.0.0
-dot.westus.pi-dns.com A 0.0.0.0
-*.dot.westus.pi-dns.com A 0.0.0.0
 droidvpn.com A 0.0.0.0
 *.droidvpn.com A 0.0.0.0
-doh.westus.pi-dns.com A 0.0.0.0
-*.doh.westus.pi-dns.com A 0.0.0.0
+dot.westus.pi-dns.com A 0.0.0.0
+*.dot.westus.pi-dns.com A 0.0.0.0
 dreamvpn.us A 0.0.0.0
 *.dreamvpn.us A 0.0.0.0
-doh.westeu.pi-dns.com A 0.0.0.0
-*.doh.westeu.pi-dns.com A 0.0.0.0
+doh.westus.pi-dns.com A 0.0.0.0
+*.doh.westus.pi-dns.com A 0.0.0.0
 doyouremember.love A 0.0.0.0
 *.doyouremember.love A 0.0.0.0
-dot.northeu.pi-dns.com A 0.0.0.0
-*.dot.northeu.pi-dns.com A 0.0.0.0
+doh.westeu.pi-dns.com A 0.0.0.0
+*.doh.westeu.pi-dns.com A 0.0.0.0
 downloadvpnfree.com A 0.0.0.0
 *.downloadvpnfree.com A 0.0.0.0
-doh.northeu.pi-dns.com A 0.0.0.0
-*.doh.northeu.pi-dns.com A 0.0.0.0
+dot.northeu.pi-dns.com A 0.0.0.0
+*.dot.northeu.pi-dns.com A 0.0.0.0
 doublehop.me A 0.0.0.0
 *.doublehop.me A 0.0.0.0
+doh.northeu.pi-dns.com A 0.0.0.0
+*.doh.northeu.pi-dns.com A 0.0.0.0
 dot.eastus.pi-dns.com A 0.0.0.0
 *.dot.eastus.pi-dns.com A 0.0.0.0
-doh.eastus.pi-dns.com A 0.0.0.0
-*.doh.eastus.pi-dns.com A 0.0.0.0
 dotvpn.com A 0.0.0.0
 *.dotvpn.com A 0.0.0.0
+doh.eastus.pi-dns.com A 0.0.0.0
+*.doh.eastus.pi-dns.com A 0.0.0.0
 dot.eastau.pi-dns.com A 0.0.0.0
 *.dot.eastau.pi-dns.com A 0.0.0.0
 doh.eastau.pi-dns.com A 0.0.0.0
 *.doh.eastau.pi-dns.com A 0.0.0.0
 dot.eastas.pi-dns.com A 0.0.0.0
 *.dot.eastas.pi-dns.com A 0.0.0.0
-doh.eastas.pi-dns.com A 0.0.0.0
-*.doh.eastas.pi-dns.com A 0.0.0.0
 dontfilter.us A 0.0.0.0
 *.dontfilter.us A 0.0.0.0
-doh.pi-dns.com A 0.0.0.0
-*.doh.pi-dns.com A 0.0.0.0
+doh.eastas.pi-dns.com A 0.0.0.0
+*.doh.eastas.pi-dns.com A 0.0.0.0
 dontblockme.org A 0.0.0.0
 *.dontblockme.org A 0.0.0.0
+doh.pi-dns.com A 0.0.0.0
+*.doh.pi-dns.com A 0.0.0.0
 dot.centraleu.pi-dns.com A 0.0.0.0
 *.dot.centraleu.pi-dns.com A 0.0.0.0
-doh.centraleu.pi-dns.com A 0.0.0.0
-*.doh.centraleu.pi-dns.com A 0.0.0.0
 domainownership.us A 0.0.0.0
 *.domainownership.us A 0.0.0.0
-dns.phillipjberry.net A 0.0.0.0
-*.dns.phillipjberry.net A 0.0.0.0
+doh.centraleu.pi-dns.com A 0.0.0.0
+*.doh.centraleu.pi-dns.com A 0.0.0.0
 dolopo.net A 0.0.0.0
 *.dolopo.net A 0.0.0.0
+dns.phillipjberry.net A 0.0.0.0
+*.dns.phillipjberry.net A 0.0.0.0
 dns.pesaventofilippo.com A 0.0.0.0
 *.dns.pesaventofilippo.com A 0.0.0.0
 darya.persiannit.net A 0.0.0.0
@@ -1809,10 +1801,10 @@ ns4.opennameserver.org A 0.0.0.0
 *.ns4.opennameserver.org A 0.0.0.0
 ns3.opennameserver.org A 0.0.0.0
 *.ns3.opennameserver.org A 0.0.0.0
-ns2.opennameserver.org A 0.0.0.0
-*.ns2.opennameserver.org A 0.0.0.0
 n.dnsmirror.org A 0.0.0.0
 *.n.dnsmirror.org A 0.0.0.0
+ns2.opennameserver.org A 0.0.0.0
+*.ns2.opennameserver.org A 0.0.0.0
 ns1.opennameserver.org A 0.0.0.0
 *.ns1.opennameserver.org A 0.0.0.0
 resolver4.dns.openinternet.io A 0.0.0.0
@@ -1955,26 +1947,24 @@ dns1.sg.newpangea.de A 0.0.0.0
 *.dns1.sg.newpangea.de A 0.0.0.0
 dns1.in.newpangea.de A 0.0.0.0
 *.dns1.in.newpangea.de A 0.0.0.0
-dns1.cl.newpangea.de A 0.0.0.0
-*.dns1.cl.newpangea.de A 0.0.0.0
 divaloo.com A 0.0.0.0
 *.divaloo.com A 0.0.0.0
-dns1.au.newpangea.de A 0.0.0.0
-*.dns1.au.newpangea.de A 0.0.0.0
+dns1.cl.newpangea.de A 0.0.0.0
+*.dns1.cl.newpangea.de A 0.0.0.0
 divalane.com A 0.0.0.0
 *.divalane.com A 0.0.0.0
-dns.neutopia.org A 0.0.0.0
-*.dns.neutopia.org A 0.0.0.0
+dns1.au.newpangea.de A 0.0.0.0
+*.dns1.au.newpangea.de A 0.0.0.0
 districtnewyork.com A 0.0.0.0
 *.districtnewyork.com A 0.0.0.0
+dns.neutopia.org A 0.0.0.0
+*.dns.neutopia.org A 0.0.0.0
 dns.neubsi.at A 0.0.0.0
 *.dns.neubsi.at A 0.0.0.0
 cube.neubsi.at A 0.0.0.0
 *.cube.neubsi.at A 0.0.0.0
 doh.max.net.id A 0.0.0.0
 *.doh.max.net.id A 0.0.0.0
-doh.infotek.net.id A 0.0.0.0
-*.doh.infotek.net.id A 0.0.0.0
 disconnect.me A 0.0.0.0
 *.disconnect.me A 0.0.0.0
 dns.aa.net.uk A 0.0.0.0
@@ -6337,11 +6327,6 @@ proxythis.info A 0.0.0.0
 *.proxythis.info A 0.0.0.0
 proxysurfing.org A 0.0.0.0
 *.proxysurfing.org A 0.0.0.0
-proxysneak.com A 0.0.0.0
-*.proxysneak.com A 0.0.0.0
-sin02.dnscry.pt A 0.0.0.0
-sin.core.access.zznet.fun A 0.0.0.0
-singy.smartq.dev A 0.0.0.0
 site-1.duckdns.org A 0.0.0.0
 site-2.duckdns.org A 0.0.0.0
 site-3.duckdns.org A 0.0.0.0
@@ -7217,7 +7202,6 @@ destakmateriais.com.br A 0.0.0.0
 dev.gonnadive.com A 0.0.0.0
 deweerd.loseyourip.com A 0.0.0.0
 dff029179c4246e385296ea8de0b8eb8.pacloudflare.com A 0.0.0.0
-dfw01.dnscry.pt A 0.0.0.0
 dfw02.dnscry.pt A 0.0.0.0
 d.gametechnet.com A 0.0.0.0
 dgca.myds.me A 0.0.0.0
@@ -7602,7 +7586,6 @@ dns.pine-home.de A 0.0.0.0
 dns.ple91.uk A 0.0.0.0
 dns.pmxu.link A 0.0.0.0
 dnspod.clzapp.com A 0.0.0.0
-dnspod-vip2.beian.mydnspod.net A 0.0.0.0
 dns.pointless.chat A 0.0.0.0
 dns.presencebuggy.my.id A 0.0.0.0
 dns-preview-alb-541438575.us-east-1.elb.amazonaws.com A 0.0.0.0
@@ -7781,6 +7764,7 @@ doh.epaphrodit.us A 0.0.0.0
 doh.fatucloud.gosprout.org A 0.0.0.0
 doh.greenwood.eu.org A 0.0.0.0
 doh.gslb2.xfinity.com A 0.0.0.0
+doh.infotek.net.id A 0.0.0.0
 doh.insec.link A 0.0.0.0
 doh.iranet.cam A 0.0.0.0
 doh.jazz-gheychi.monster A 0.0.0.0
@@ -7860,7 +7844,6 @@ elisabeth.klarsgarden.com A 0.0.0.0
 elsa.airns.net A 0.0.0.0
 emmmmm.me A 0.0.0.0
 eoin.dns.walshnet.co.uk A 0.0.0.0
-epyc.digineo.de A 0.0.0.0
 eropa.dnscepat.id A 0.0.0.0
 erroring.ignorelist.com A 0.0.0.0
 essentiallyjay.com A 0.0.0.0
@@ -7920,7 +7903,6 @@ fullaccesstointernet.jp.eu.org A 0.0.0.0
 funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
-gandhico2.duckdns.org A 0.0.0.0
 gateway.baltes.info A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
@@ -8118,6 +8100,7 @@ kracon.anycast.uncensoreddns.dk A 0.0.0.0
 kr.loukky.com A 0.0.0.0
 kronos.plan9dns.com A 0.0.0.0
 kr.pigs.eu.org A 0.0.0.0
+ks1.plop.cc A 0.0.0.0
 ksedns.ru A 0.0.0.0
 kstdownload.com A 0.0.0.0
 kswro.web.id A 0.0.0.0
@@ -8206,14 +8189,12 @@ mkvvpssrv12.freemyip.com A 0.0.0.0
 m.myspace.sbs A 0.0.0.0
 mo0on15.com A 0.0.0.0
 moaz-adguard.duckdns.org A 0.0.0.0
-montmorot.duckdns.org A 0.0.0.0
 monty.best A 0.0.0.0
 moonbd.top A 0.0.0.0
 moto.adg.siudzinski.net A 0.0.0.0
 m-rm.circumitor.de A 0.0.0.0
 mr-romero.com A 0.0.0.0
 mru01.dnscry.pt A 0.0.0.0
-mtdz.duckdns.org A 0.0.0.0
 muc-ns01.ibytex.systems A 0.0.0.0
 muppy.pnamae.com A 0.0.0.0
 murzyn.top A 0.0.0.0
@@ -8540,6 +8521,9 @@ shijiu.asia A 0.0.0.0
 sh.telex.app A 0.0.0.0
 siddeus.synology.me A 0.0.0.0
 s.idsam.com A 0.0.0.0
+sin02.dnscry.pt A 0.0.0.0
+sin.core.access.zznet.fun A 0.0.0.0
+singy.smartq.dev A 0.0.0.0
 
-; RPZ entries (8,533) md5sum: 9649d4108eae5e8466519ea08f6171df
-; Processed in: 0:00:05.677459
+; RPZ entries (8,517) md5sum: 14b552b565345148fb66f4512587a403
+; Processed in: 0:00:04.914040

@@ -1,12 +1,14 @@
-; Last modified: 2024-05-05T01:25:52+08:00
+; Last modified: 2024-05-06T01:25:49+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405050125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405060125 43200 60 2592000 30
  IN NS localhost.
 
+proxysneak.com CNAME .
+*.proxysneak.com CNAME .
 proxysite.us CNAME .
 *.proxysite.us CNAME .
 proxysite.top CNAME .
@@ -339,8 +341,6 @@ bru-be.prcdn.net CNAME .
 *.bru-be.prcdn.net CNAME .
 a1free-optimal.prcdn.net CNAME .
 *.a1free-optimal.prcdn.net CNAME .
-dns.pragmasec.nl CNAME .
-*.dns.pragmasec.nl CNAME .
 pr0xy.com CNAME .
 *.pr0xy.com CNAME .
 pq7hdf.com CNAME .
@@ -479,8 +479,6 @@ s.j0.icom.org.np CNAME .
 *.s.j0.icom.org.np CNAME .
 r.j0.icom.org.np CNAME .
 *.r.j0.icom.org.np CNAME .
-b.j0.icom.org.np CNAME .
-*.b.j0.icom.org.np CNAME .
 proxy.ordentlichbreit.de CNAME .
 *.proxy.ordentlichbreit.de CNAME .
 orangeproxy.net CNAME .
@@ -565,8 +563,6 @@ gravity.omniscien.cl CNAME .
 *.gravity.omniscien.cl CNAME .
 olympicproxy.net CNAME .
 *.olympicproxy.net CNAME .
-okofreevpn.com CNAME .
-*.okofreevpn.com CNAME .
 okayfreedom.com CNAME .
 *.okayfreedom.com CNAME .
 octovpn.net CNAME .
@@ -823,8 +819,6 @@ mallocapp.com CNAME .
 *.mallocapp.com CNAME .
 mainssh.com CNAME .
 *.mainssh.com CNAME .
-mainprox.com CNAME .
-*.mainprox.com CNAME .
 luminatinet.com CNAME .
 *.luminatinet.com CNAME .
 luminati.io CNAME .
@@ -951,8 +945,6 @@ jailbreaked.net CNAME .
 *.jailbreaked.net CNAME .
 jagoanssh.com CNAME .
 *.jagoanssh.com CNAME .
-ixl.plus CNAME .
-*.ixl.plus CNAME .
 iweb365.net CNAME .
 *.iweb365.net CNAME .
 iwantproxy.com CNAME .
@@ -963,8 +955,6 @@ ivacy.com CNAME .
 *.ivacy.com CNAME .
 itopvpn.com CNAME .
 *.itopvpn.com CNAME .
-stuffyschicken.isreallycool.lol CNAME .
-*.stuffyschicken.isreallycool.lol CNAME .
 smellypay.isreally.pro CNAME .
 *.smellypay.isreally.pro CNAME .
 smellyal.isreally.pro CNAME .
@@ -1459,14 +1449,14 @@ freemicvpn.com CNAME .
 *.freemicvpn.com CNAME .
 freehollandproxy.nl CNAME .
 *.freehollandproxy.nl CNAME .
-opennic.tenta.io CNAME .
-*.opennic.tenta.io CNAME .
 freehiddenvpn.gq CNAME .
 *.freehiddenvpn.gq CNAME .
-iana.tenta.io CNAME .
-*.iana.tenta.io CNAME .
+opennic.tenta.io CNAME .
+*.opennic.tenta.io CNAME .
 freeeuroproxy.com CNAME .
 *.freeeuroproxy.com CNAME .
+iana.tenta.io CNAME .
+*.iana.tenta.io CNAME .
 freedomproxy.com CNAME .
 *.freedomproxy.com CNAME .
 freedome-vpn.net CNAME .
@@ -1673,22 +1663,24 @@ dzhot.us CNAME .
 *.dzhot.us CNAME .
 vpn.dzarlax.dev CNAME .
 *.vpn.dzarlax.dev CNAME .
-zxcvb.pp.ua CNAME .
-*.zxcvb.pp.ua CNAME .
+dns.pragmasec.nl CNAME .
+*.dns.pragmasec.nl CNAME .
 dynanyx.com CNAME .
 *.dynanyx.com CNAME .
+zxcvb.pp.ua CNAME .
+*.zxcvb.pp.ua CNAME .
 virga.pp.ua CNAME .
 *.virga.pp.ua CNAME .
-sundalandia.pp.ua CNAME .
-*.sundalandia.pp.ua CNAME .
 dutchproxy.nl CNAME .
 *.dutchproxy.nl CNAME .
+sundalandia.pp.ua CNAME .
+*.sundalandia.pp.ua CNAME .
 lindung.pp.ua CNAME .
 *.lindung.pp.ua CNAME .
-dns.korzhyk.pp.ua CNAME .
-*.dns.korzhyk.pp.ua CNAME .
 vpschito.duckdns.org CNAME .
 *.vpschito.duckdns.org CNAME .
+dns.korzhyk.pp.ua CNAME .
+*.dns.korzhyk.pp.ua CNAME .
 dns.ha-dvin.pp.ua CNAME .
 *.dns.ha-dvin.pp.ua CNAME .
 doh.powerdns.org CNAME .
@@ -1705,66 +1697,66 @@ pluton.plan9-dns.com CNAME .
 *.pluton.plan9-dns.com CNAME .
 kronos.plan9-dns.com CNAME .
 *.kronos.plan9-dns.com CNAME .
-helios.plan9-dns.com CNAME .
-*.helios.plan9-dns.com CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-dns1.pietjacobs.be CNAME .
-*.dns1.pietjacobs.be CNAME .
+helios.plan9-dns.com CNAME .
+*.helios.plan9-dns.com CNAME .
 duapps.com CNAME .
 *.duapps.com CNAME .
+dns1.pietjacobs.be CNAME .
+*.dns1.pietjacobs.be CNAME .
 adguard.piekacz.pl CNAME .
 *.adguard.piekacz.pl CNAME .
-dot.westus.pi-dns.com CNAME .
-*.dot.westus.pi-dns.com CNAME .
 droidvpn.com CNAME .
 *.droidvpn.com CNAME .
-doh.westus.pi-dns.com CNAME .
-*.doh.westus.pi-dns.com CNAME .
+dot.westus.pi-dns.com CNAME .
+*.dot.westus.pi-dns.com CNAME .
 dreamvpn.us CNAME .
 *.dreamvpn.us CNAME .
-doh.westeu.pi-dns.com CNAME .
-*.doh.westeu.pi-dns.com CNAME .
+doh.westus.pi-dns.com CNAME .
+*.doh.westus.pi-dns.com CNAME .
 doyouremember.love CNAME .
 *.doyouremember.love CNAME .
-dot.northeu.pi-dns.com CNAME .
-*.dot.northeu.pi-dns.com CNAME .
+doh.westeu.pi-dns.com CNAME .
+*.doh.westeu.pi-dns.com CNAME .
 downloadvpnfree.com CNAME .
 *.downloadvpnfree.com CNAME .
-doh.northeu.pi-dns.com CNAME .
-*.doh.northeu.pi-dns.com CNAME .
+dot.northeu.pi-dns.com CNAME .
+*.dot.northeu.pi-dns.com CNAME .
 doublehop.me CNAME .
 *.doublehop.me CNAME .
+doh.northeu.pi-dns.com CNAME .
+*.doh.northeu.pi-dns.com CNAME .
 dot.eastus.pi-dns.com CNAME .
 *.dot.eastus.pi-dns.com CNAME .
-doh.eastus.pi-dns.com CNAME .
-*.doh.eastus.pi-dns.com CNAME .
 dotvpn.com CNAME .
 *.dotvpn.com CNAME .
+doh.eastus.pi-dns.com CNAME .
+*.doh.eastus.pi-dns.com CNAME .
 dot.eastau.pi-dns.com CNAME .
 *.dot.eastau.pi-dns.com CNAME .
 doh.eastau.pi-dns.com CNAME .
 *.doh.eastau.pi-dns.com CNAME .
 dot.eastas.pi-dns.com CNAME .
 *.dot.eastas.pi-dns.com CNAME .
-doh.eastas.pi-dns.com CNAME .
-*.doh.eastas.pi-dns.com CNAME .
 dontfilter.us CNAME .
 *.dontfilter.us CNAME .
-doh.pi-dns.com CNAME .
-*.doh.pi-dns.com CNAME .
+doh.eastas.pi-dns.com CNAME .
+*.doh.eastas.pi-dns.com CNAME .
 dontblockme.org CNAME .
 *.dontblockme.org CNAME .
+doh.pi-dns.com CNAME .
+*.doh.pi-dns.com CNAME .
 dot.centraleu.pi-dns.com CNAME .
 *.dot.centraleu.pi-dns.com CNAME .
-doh.centraleu.pi-dns.com CNAME .
-*.doh.centraleu.pi-dns.com CNAME .
 domainownership.us CNAME .
 *.domainownership.us CNAME .
-dns.phillipjberry.net CNAME .
-*.dns.phillipjberry.net CNAME .
+doh.centraleu.pi-dns.com CNAME .
+*.doh.centraleu.pi-dns.com CNAME .
 dolopo.net CNAME .
 *.dolopo.net CNAME .
+dns.phillipjberry.net CNAME .
+*.dns.phillipjberry.net CNAME .
 dns.pesaventofilippo.com CNAME .
 *.dns.pesaventofilippo.com CNAME .
 darya.persiannit.net CNAME .
@@ -1809,10 +1801,10 @@ ns4.opennameserver.org CNAME .
 *.ns4.opennameserver.org CNAME .
 ns3.opennameserver.org CNAME .
 *.ns3.opennameserver.org CNAME .
-ns2.opennameserver.org CNAME .
-*.ns2.opennameserver.org CNAME .
 n.dnsmirror.org CNAME .
 *.n.dnsmirror.org CNAME .
+ns2.opennameserver.org CNAME .
+*.ns2.opennameserver.org CNAME .
 ns1.opennameserver.org CNAME .
 *.ns1.opennameserver.org CNAME .
 resolver4.dns.openinternet.io CNAME .
@@ -1955,26 +1947,24 @@ dns1.sg.newpangea.de CNAME .
 *.dns1.sg.newpangea.de CNAME .
 dns1.in.newpangea.de CNAME .
 *.dns1.in.newpangea.de CNAME .
-dns1.cl.newpangea.de CNAME .
-*.dns1.cl.newpangea.de CNAME .
 divaloo.com CNAME .
 *.divaloo.com CNAME .
-dns1.au.newpangea.de CNAME .
-*.dns1.au.newpangea.de CNAME .
+dns1.cl.newpangea.de CNAME .
+*.dns1.cl.newpangea.de CNAME .
 divalane.com CNAME .
 *.divalane.com CNAME .
-dns.neutopia.org CNAME .
-*.dns.neutopia.org CNAME .
+dns1.au.newpangea.de CNAME .
+*.dns1.au.newpangea.de CNAME .
 districtnewyork.com CNAME .
 *.districtnewyork.com CNAME .
+dns.neutopia.org CNAME .
+*.dns.neutopia.org CNAME .
 dns.neubsi.at CNAME .
 *.dns.neubsi.at CNAME .
 cube.neubsi.at CNAME .
 *.cube.neubsi.at CNAME .
 doh.max.net.id CNAME .
 *.doh.max.net.id CNAME .
-doh.infotek.net.id CNAME .
-*.doh.infotek.net.id CNAME .
 disconnect.me CNAME .
 *.disconnect.me CNAME .
 dns.aa.net.uk CNAME .
@@ -6337,11 +6327,6 @@ proxythis.info CNAME .
 *.proxythis.info CNAME .
 proxysurfing.org CNAME .
 *.proxysurfing.org CNAME .
-proxysneak.com CNAME .
-*.proxysneak.com CNAME .
-sin02.dnscry.pt CNAME .
-sin.core.access.zznet.fun CNAME .
-singy.smartq.dev CNAME .
 site-1.duckdns.org CNAME .
 site-2.duckdns.org CNAME .
 site-3.duckdns.org CNAME .
@@ -7217,7 +7202,6 @@ destakmateriais.com.br CNAME .
 dev.gonnadive.com CNAME .
 deweerd.loseyourip.com CNAME .
 dff029179c4246e385296ea8de0b8eb8.pacloudflare.com CNAME .
-dfw01.dnscry.pt CNAME .
 dfw02.dnscry.pt CNAME .
 d.gametechnet.com CNAME .
 dgca.myds.me CNAME .
@@ -7602,7 +7586,6 @@ dns.pine-home.de CNAME .
 dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
 dnspod.clzapp.com CNAME .
-dnspod-vip2.beian.mydnspod.net CNAME .
 dns.pointless.chat CNAME .
 dns.presencebuggy.my.id CNAME .
 dns-preview-alb-541438575.us-east-1.elb.amazonaws.com CNAME .
@@ -7781,6 +7764,7 @@ doh.epaphrodit.us CNAME .
 doh.fatucloud.gosprout.org CNAME .
 doh.greenwood.eu.org CNAME .
 doh.gslb2.xfinity.com CNAME .
+doh.infotek.net.id CNAME .
 doh.insec.link CNAME .
 doh.iranet.cam CNAME .
 doh.jazz-gheychi.monster CNAME .
@@ -7860,7 +7844,6 @@ elisabeth.klarsgarden.com CNAME .
 elsa.airns.net CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
-epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 essentiallyjay.com CNAME .
@@ -7920,7 +7903,6 @@ fullaccesstointernet.jp.eu.org CNAME .
 funti.cc CNAME .
 fvpn.jarvishome.ru CNAME .
 gaia.plonknet.com CNAME .
-gandhico2.duckdns.org CNAME .
 gateway.baltes.info CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -8118,6 +8100,7 @@ kracon.anycast.uncensoreddns.dk CNAME .
 kr.loukky.com CNAME .
 kronos.plan9dns.com CNAME .
 kr.pigs.eu.org CNAME .
+ks1.plop.cc CNAME .
 ksedns.ru CNAME .
 kstdownload.com CNAME .
 kswro.web.id CNAME .
@@ -8206,14 +8189,12 @@ mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
-montmorot.duckdns.org CNAME .
 monty.best CNAME .
 moonbd.top CNAME .
 moto.adg.siudzinski.net CNAME .
 m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
-mtdz.duckdns.org CNAME .
 muc-ns01.ibytex.systems CNAME .
 muppy.pnamae.com CNAME .
 murzyn.top CNAME .
@@ -8540,6 +8521,9 @@ shijiu.asia CNAME .
 sh.telex.app CNAME .
 siddeus.synology.me CNAME .
 s.idsam.com CNAME .
+sin02.dnscry.pt CNAME .
+sin.core.access.zznet.fun CNAME .
+singy.smartq.dev CNAME .
 
-; RPZ entries (8,533) md5sum: 9649d4108eae5e8466519ea08f6171df
-; Processed in: 0:00:05.655512
+; RPZ entries (8,517) md5sum: 14b552b565345148fb66f4512587a403
+; Processed in: 0:00:04.889138
