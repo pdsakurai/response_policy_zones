@@ -1,16 +1,12 @@
-; Last modified: 2024-05-06T01:25:49+08:00
+; Last modified: 2024-05-07T01:25:44+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405060125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405070125 43200 60 2592000 30
  IN NS localhost.
 
-proxysneak.com A 0.0.0.0
-*.proxysneak.com A 0.0.0.0
-proxysite.us A 0.0.0.0
-*.proxysite.us A 0.0.0.0
 proxysite.top A 0.0.0.0
 *.proxysite.top A 0.0.0.0
 proxysite.site A 0.0.0.0
@@ -119,12 +115,8 @@ proxycloud.net A 0.0.0.0
 *.proxycloud.net A 0.0.0.0
 proxybuss.com A 0.0.0.0
 *.proxybuss.com A 0.0.0.0
-proxybrowsing.com A 0.0.0.0
-*.proxybrowsing.com A 0.0.0.0
 proxybrowser.xyz A 0.0.0.0
 *.proxybrowser.xyz A 0.0.0.0
-proxybrowser.org A 0.0.0.0
-*.proxybrowser.org A 0.0.0.0
 proxybrowse.info A 0.0.0.0
 *.proxybrowse.info A 0.0.0.0
 proxybros.com A 0.0.0.0
@@ -133,8 +125,6 @@ proxybox.ru A 0.0.0.0
 *.proxybox.ru A 0.0.0.0
 proxyboost.net A 0.0.0.0
 *.proxyboost.net A 0.0.0.0
-proxyarab.com A 0.0.0.0
-*.proxyarab.com A 0.0.0.0
 proxyanonymizer.net A 0.0.0.0
 *.proxyanonymizer.net A 0.0.0.0
 proxy7.club A 0.0.0.0
@@ -4401,8 +4391,6 @@ wikimedia-dns.org A 0.0.0.0
 *.wikimedia-dns.org A 0.0.0.0
 widevpn.com A 0.0.0.0
 *.widevpn.com A 0.0.0.0
-dns.wibenson.cloud A 0.0.0.0
-*.dns.wibenson.cloud A 0.0.0.0
 whyproxy.com A 0.0.0.0
 *.whyproxy.com A 0.0.0.0
 whoisping.com A 0.0.0.0
@@ -4695,8 +4683,6 @@ vpn0109.voodonline.fr A 0.0.0.0
 *.vpn0109.voodonline.fr A 0.0.0.0
 vonvpn.com A 0.0.0.0
 *.vonvpn.com A 0.0.0.0
-stats.volkszaehler.org A 0.0.0.0
-*.stats.volkszaehler.org A 0.0.0.0
 vobas.com A 0.0.0.0
 *.vobas.com A 0.0.0.0
 vload.net A 0.0.0.0
@@ -5329,8 +5315,6 @@ timetohide.me A 0.0.0.0
 *.timetohide.me A 0.0.0.0
 tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
-tiiner.com A 0.0.0.0
-*.tiiner.com A 0.0.0.0
 tigrons.ru A 0.0.0.0
 *.tigrons.ru A 0.0.0.0
 tigervpn.com A 0.0.0.0
@@ -6327,6 +6311,16 @@ proxythis.info A 0.0.0.0
 *.proxythis.info A 0.0.0.0
 proxysurfing.org A 0.0.0.0
 *.proxysurfing.org A 0.0.0.0
+proxysneak.com A 0.0.0.0
+*.proxysneak.com A 0.0.0.0
+proxysite.us A 0.0.0.0
+*.proxysite.us A 0.0.0.0
+sh.telex.app A 0.0.0.0
+siddeus.synology.me A 0.0.0.0
+s.idsam.com A 0.0.0.0
+sin02.dnscry.pt A 0.0.0.0
+sin.core.access.zznet.fun A 0.0.0.0
+singy.smartq.dev A 0.0.0.0
 site-1.duckdns.org A 0.0.0.0
 site-2.duckdns.org A 0.0.0.0
 site-3.duckdns.org A 0.0.0.0
@@ -6428,6 +6422,7 @@ unifi.carioka.com A 0.0.0.0
 unixfox.duckdns.org A 0.0.0.0
 uranus.plonknet.com A 0.0.0.0
 ur.hytec.org A 0.0.0.0
+us1.easyflying.top A 0.0.0.0
 us5.wan.hc7z.com A 0.0.0.0
 usa1.altcensored.com A 0.0.0.0
 us-ash-w-f-1.nashkan.net A 0.0.0.0
@@ -6468,6 +6463,7 @@ vaasa.songnguyen.name.vn A 0.0.0.0
 vadim.online A 0.0.0.0
 vancrafter.click A 0.0.0.0
 vani.long-nguyen.info A 0.0.0.0
+vasiliysoldatkin.ru A 0.0.0.0
 vasya.hr.i81.ru A 0.0.0.0
 vdsn-nl-2.azatmutq.com A 0.0.0.0
 verynew.c698fc0a.cfd A 0.0.0.0
@@ -6650,8 +6646,8 @@ www.surfbelow.com A 0.0.0.0
 www.svg33.eu A 0.0.0.0
 www.szyrzyk.pl A 0.0.0.0
 www.taufner.net A 0.0.0.0
-www.tirapan.top A 0.0.0.0
 www.trovs.ru A 0.0.0.0
+www.vasiliysoldatkin.ru A 0.0.0.0
 www.vdsn-nl-2.azatmutq.com A 0.0.0.0
 www.vik.ro A 0.0.0.0
 www.vpn.stroialliance.com A 0.0.0.0
@@ -6701,6 +6697,7 @@ z.vipit.one A 0.0.0.0
 1.11i.eu A 0.0.0.0
 15101844.xyz A 0.0.0.0
 180.0rz.space A 0.0.0.0
+19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com A 0.0.0.0
 1b.ns.ozer.im A 0.0.0.0
 1dot1dot1dot1.cloudflaredns.com A 0.0.0.0
 1ee.top A 0.0.0.0
@@ -6902,6 +6899,7 @@ adguard.spaceindex.net A 0.0.0.0
 adguard.spyrisk.fr A 0.0.0.0
 adguard.stealbit.com A 0.0.0.0
 adguard.stevenfamy.me A 0.0.0.0
+adguard.stoian.top A 0.0.0.0
 adguard.streamlas.fr A 0.0.0.0
 adguard.superstefan.win A 0.0.0.0
 adguard.taufner.net A 0.0.0.0
@@ -7074,7 +7072,6 @@ beacon.dog A 0.0.0.0
 beacon.fengli.love A 0.0.0.0
 beautifullife.eu.org A 0.0.0.0
 beautifulthings.eu.org A 0.0.0.0
-bemag.app A 0.0.0.0
 berd.moe A 0.0.0.0
 bev.dns.walshnet.co.uk A 0.0.0.0
 b.family.ns.dnslify.com A 0.0.0.0
@@ -7190,6 +7187,7 @@ defsnldns01.sc-hosting.info A 0.0.0.0
 de-fsn-w-2.nashkan.net A 0.0.0.0
 de-fsn-w-f-1.nashkan.net A 0.0.0.0
 de-fsn-w-f-2.nashkan.net A 0.0.0.0
+de-fsn-w-f-3.nashkan.net A 0.0.0.0
 de-fsn-w-p-1.nashkan.net A 0.0.0.0
 deic-lgb.anycast.censurfridns.nu A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.dk A 0.0.0.0
@@ -7239,6 +7237,7 @@ dns1.jjsuscc.es A 0.0.0.0
 dns1.kostydenis.me A 0.0.0.0
 dns1.luan.contact A 0.0.0.0
 dns1.mattmanzi.com A 0.0.0.0
+dns1.nhgnet.de A 0.0.0.0
 dns1.oryxlabs.com A 0.0.0.0
 dns1.rhscz.eu A 0.0.0.0
 dns1.ryanpalmer.com A 0.0.0.0
@@ -7482,6 +7481,7 @@ dns.jupitrdns.com A 0.0.0.0
 dns.just-hosting.net A 0.0.0.0
 dns.kaandikec.com A 0.0.0.0
 dns.kc2wbx.com A 0.0.0.0
+dns.kcolspacrm.ir A 0.0.0.0
 dns.kejinno.com A 0.0.0.0
 dns.kellys.pw A 0.0.0.0
 dns.keskinnetwork.com A 0.0.0.0
@@ -7705,6 +7705,7 @@ dns.wdnts.ml A 0.0.0.0
 dns-weblock.wevpn.com A 0.0.0.0
 dns.wellstsai.com A 0.0.0.0
 dns.wevpn.com A 0.0.0.0
+dns.wibenson.cloud A 0.0.0.0
 dns.wincservices.com A 0.0.0.0
 dns.wns.watch A 0.0.0.0
 dns.woexp.ru A 0.0.0.0
@@ -7820,6 +7821,7 @@ douglaster.com A 0.0.0.0
 dpeddi.myddns.com A 0.0.0.0
 dr-adguard.de A 0.0.0.0
 drandrade21.freeddns.org A 0.0.0.0
+dr.jp.sslbb.win A 0.0.0.0
 drwg.org A 0.0.0.0
 ds3617xs.jojo1204.xyz A 0.0.0.0
 dugout.dns.walshnet.co.uk A 0.0.0.0
@@ -7903,7 +7905,7 @@ fullaccesstointernet.jp.eu.org A 0.0.0.0
 funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
-gateway.baltes.info A 0.0.0.0
+gandhico2.duckdns.org A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
 gb-cov-w-1.nashkan.net A 0.0.0.0
@@ -8092,7 +8094,6 @@ kk.sshub.win A 0.0.0.0
 knight1.de A 0.0.0.0
 knowvibe.tech A 0.0.0.0
 kolobok2.duckdns.org A 0.0.0.0
-kostek.dyndns.org A 0.0.0.0
 kotys.hr.i81.ru A 0.0.0.0
 kozak.ujwie.co A 0.0.0.0
 kracon.anycast.censurfridns.nu A 0.0.0.0
@@ -8175,6 +8176,7 @@ m-cm.circumitor.de A 0.0.0.0
 mcore.us.to A 0.0.0.0
 mcttechs.com A 0.0.0.0
 md5mtp4y.fbxos.fr A 0.0.0.0
+mdakaiedbd.ddns.net A 0.0.0.0
 mdxl.ru A 0.0.0.0
 meowless.club A 0.0.0.0
 metis.sheggi.ch A 0.0.0.0
@@ -8189,12 +8191,14 @@ mkvvpssrv12.freemyip.com A 0.0.0.0
 m.myspace.sbs A 0.0.0.0
 mo0on15.com A 0.0.0.0
 moaz-adguard.duckdns.org A 0.0.0.0
+montmorot.duckdns.org A 0.0.0.0
 monty.best A 0.0.0.0
 moonbd.top A 0.0.0.0
 moto.adg.siudzinski.net A 0.0.0.0
 m-rm.circumitor.de A 0.0.0.0
 mr-romero.com A 0.0.0.0
 mru01.dnscry.pt A 0.0.0.0
+mtdz.duckdns.org A 0.0.0.0
 muc-ns01.ibytex.systems A 0.0.0.0
 muppy.pnamae.com A 0.0.0.0
 murzyn.top A 0.0.0.0
@@ -8326,6 +8330,7 @@ open-resolver1.unima.ac.id A 0.0.0.0
 op.htyweb.top A 0.0.0.0
 ora1.nocnik.org A 0.0.0.0
 oracle001.330k.biz A 0.0.0.0
+oracle2.herry.dev A 0.0.0.0
 oradns.anbitech.com A 0.0.0.0
 orasrv.kellys.pw A 0.0.0.0
 origin.mikopono.nl A 0.0.0.0
@@ -8388,7 +8393,8 @@ ps-tel-w-2.nashkan.net A 0.0.0.0
 pt-lis-w-1.nashkan.net A 0.0.0.0
 pub.hsuan.ink A 0.0.0.0
 pub.hsuan.ink.eo.dnse0.com A 0.0.0.0
-pvt-dns-sec-rly.o.ovpn.bond A 0.0.0.0
+pvt-dns.ovpn.bond A 0.0.0.0
+pvt-dns-rly.o.ovpn.bond A 0.0.0.0
 q3i6k7j3.stackpathcdn.com A 0.0.0.0
 qaz.tw A 0.0.0.0
 qbak.no-ip.eu A 0.0.0.0
@@ -8518,12 +8524,6 @@ shadowart.online A 0.0.0.0
 shalenkov.cc A 0.0.0.0
 shieldsup.spearing.net A 0.0.0.0
 shijiu.asia A 0.0.0.0
-sh.telex.app A 0.0.0.0
-siddeus.synology.me A 0.0.0.0
-s.idsam.com A 0.0.0.0
-sin02.dnscry.pt A 0.0.0.0
-sin.core.access.zznet.fun A 0.0.0.0
-singy.smartq.dev A 0.0.0.0
 
-; RPZ entries (8,517) md5sum: 14b552b565345148fb66f4512587a403
-; Processed in: 0:00:04.914040
+; RPZ entries (8,517) md5sum: 496e0302436c0515f6dc21ac55ee733a
+; Processed in: 0:00:05.380450
