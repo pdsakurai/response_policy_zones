@@ -1,10 +1,10 @@
-; Last modified: 2024-05-09T01:25:53+08:00
+; Last modified: 2024-05-10T01:26:05+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405090125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405100126 43200 60 2592000 30
  IN NS localhost.
 
 proxysite.us A 0.0.0.0
@@ -6384,7 +6384,6 @@ test4.adg.siudzinski.net A 0.0.0.0
 test.adg.siudzinski.net A 0.0.0.0
 test.dnsteam.globuscs.info A 0.0.0.0
 tetra.aeins.at A 0.0.0.0
-tezoi.duckdns.org A 0.0.0.0
 tg2a7d4.glddns.com A 0.0.0.0
 thamrin.ddns.net A 0.0.0.0
 thanos.pleumkungz.com A 0.0.0.0
@@ -6535,6 +6534,7 @@ vps309.brueggus.de A 0.0.0.0
 vps310.brueggus.de A 0.0.0.0
 vps311.brueggus.de A 0.0.0.0
 vps312.brueggus.de A 0.0.0.0
+vps313.brueggus.de A 0.0.0.0
 vps314.brueggus.de A 0.0.0.0
 vps317.brueggus.de A 0.0.0.0
 vps322.brueggus.de A 0.0.0.0
@@ -7404,7 +7404,6 @@ dns.exitstat.us A 0.0.0.0
 dns.exonip.de A 0.0.0.0
 dns.fahr.in A 0.0.0.0
 dns.familiamichels.com.br A 0.0.0.0
-dnsfamily.adguard.com A 0.0.0.0
 dns-family.esegece.com A 0.0.0.0
 dns.family.fraiss.at A 0.0.0.0
 dns.farakaft.ir A 0.0.0.0
@@ -7676,7 +7675,6 @@ dns-uk2.su4ka.icu A 0.0.0.0
 dns.uk-london-1.oci.oraclecloud.com A 0.0.0.0
 dns.uk-london-1.oci.oraclecloud.net A 0.0.0.0
 dns-uk.su4ka.icu A 0.0.0.0
-dnsunfiltered.adguard.com A 0.0.0.0
 dns.unitech.company A 0.0.0.0
 dns.unvpn.ru A 0.0.0.0
 dnsupstream02.familieberfelo.nl A 0.0.0.0
@@ -8202,7 +8200,6 @@ moto.adg.siudzinski.net A 0.0.0.0
 m-rm.circumitor.de A 0.0.0.0
 mr-romero.com A 0.0.0.0
 mru01.dnscry.pt A 0.0.0.0
-mtdz.duckdns.org A 0.0.0.0
 muc-ns01.ibytex.systems A 0.0.0.0
 muppy.pnamae.com A 0.0.0.0
 murzyn.top A 0.0.0.0
@@ -8334,6 +8331,7 @@ open-resolver1.unima.ac.id A 0.0.0.0
 op.htyweb.top A 0.0.0.0
 ora1.nocnik.org A 0.0.0.0
 oracle001.330k.biz A 0.0.0.0
+oracle2.herry.dev A 0.0.0.0
 oradns.anbitech.com A 0.0.0.0
 orasrv.kellys.pw A 0.0.0.0
 origin.mikopono.nl A 0.0.0.0
@@ -8527,5 +8525,5 @@ sg-w-p-1.nashkan.net A 0.0.0.0
 shadowart.online A 0.0.0.0
 shalenkov.cc A 0.0.0.0
 
-; RPZ entries (8,519) md5sum: cae9722dfb7f118afe22d423db113505
-; Processed in: 0:00:04.779668
+; RPZ entries (8,517) md5sum: 4c2dcf16d09c8072c75246780eb50370
+; Processed in: 0:00:05.573138

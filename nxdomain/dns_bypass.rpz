@@ -1,10 +1,10 @@
-; Last modified: 2024-05-09T01:25:53+08:00
+; Last modified: 2024-05-10T01:26:05+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405090125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405100126 43200 60 2592000 30
  IN NS localhost.
 
 proxysite.us CNAME .
@@ -6384,7 +6384,6 @@ test4.adg.siudzinski.net CNAME .
 test.adg.siudzinski.net CNAME .
 test.dnsteam.globuscs.info CNAME .
 tetra.aeins.at CNAME .
-tezoi.duckdns.org CNAME .
 tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
@@ -6535,6 +6534,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
@@ -7404,7 +7404,6 @@ dns.exitstat.us CNAME .
 dns.exonip.de CNAME .
 dns.fahr.in CNAME .
 dns.familiamichels.com.br CNAME .
-dnsfamily.adguard.com CNAME .
 dns-family.esegece.com CNAME .
 dns.family.fraiss.at CNAME .
 dns.farakaft.ir CNAME .
@@ -7676,7 +7675,6 @@ dns-uk2.su4ka.icu CNAME .
 dns.uk-london-1.oci.oraclecloud.com CNAME .
 dns.uk-london-1.oci.oraclecloud.net CNAME .
 dns-uk.su4ka.icu CNAME .
-dnsunfiltered.adguard.com CNAME .
 dns.unitech.company CNAME .
 dns.unvpn.ru CNAME .
 dnsupstream02.familieberfelo.nl CNAME .
@@ -8202,7 +8200,6 @@ moto.adg.siudzinski.net CNAME .
 m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
-mtdz.duckdns.org CNAME .
 muc-ns01.ibytex.systems CNAME .
 muppy.pnamae.com CNAME .
 murzyn.top CNAME .
@@ -8334,6 +8331,7 @@ open-resolver1.unima.ac.id CNAME .
 op.htyweb.top CNAME .
 ora1.nocnik.org CNAME .
 oracle001.330k.biz CNAME .
+oracle2.herry.dev CNAME .
 oradns.anbitech.com CNAME .
 orasrv.kellys.pw CNAME .
 origin.mikopono.nl CNAME .
@@ -8527,5 +8525,5 @@ sg-w-p-1.nashkan.net CNAME .
 shadowart.online CNAME .
 shalenkov.cc CNAME .
 
-; RPZ entries (8,519) md5sum: cae9722dfb7f118afe22d423db113505
-; Processed in: 0:00:04.756653
+; RPZ entries (8,517) md5sum: 4c2dcf16d09c8072c75246780eb50370
+; Processed in: 0:00:05.544063
