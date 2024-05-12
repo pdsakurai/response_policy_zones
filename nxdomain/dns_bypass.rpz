@@ -1,10 +1,10 @@
-; Last modified: 2024-05-12T01:26:00+08:00
+; Last modified: 2024-05-13T01:25:40+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405120126 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405130125 43200 60 2592000 30
  IN NS localhost.
 
 proxysneak.com CNAME .
@@ -4207,8 +4207,6 @@ zoogvpn.com CNAME .
 *.zoogvpn.com CNAME .
 zonevpn.com CNAME .
 *.zonevpn.com CNAME .
-dns.zfsystem.tech CNAME .
-*.dns.zfsystem.tech CNAME .
 zerovpn-app.com CNAME .
 *.zerovpn-app.com CNAME .
 zerotunnel.com CNAME .
@@ -6313,6 +6311,7 @@ proxythis.info CNAME .
 *.proxythis.info CNAME .
 proxysurfing.org CNAME .
 *.proxysurfing.org CNAME .
+sin.core.access.zznet.fun CNAME .
 singy.smartq.dev CNAME .
 site-1.duckdns.org CNAME .
 site-2.duckdns.org CNAME .
@@ -6527,7 +6526,6 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
-vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
@@ -6663,6 +6661,7 @@ y3suyx0cg2lewi2dmn.advaitghaisas.in CNAME .
 yanggan.eu.org CNAME .
 ychen.ga CNAME .
 yeralin.net CNAME .
+yh.hk1.shuaib.icu CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 yory2cave.hopto.me CNAME .
@@ -7060,6 +7059,7 @@ beacon.dog CNAME .
 beacon.fengli.love CNAME .
 beautifullife.eu.org CNAME .
 beautifulthings.eu.org CNAME .
+bemag.app CNAME .
 berd.moe CNAME .
 bev.dns.walshnet.co.uk CNAME .
 b.family.ns.dnslify.com CNAME .
@@ -7712,6 +7712,7 @@ dns.yyjeqhc.cn CNAME .
 dns.zarchbox.fr CNAME .
 dns.zcscdn.cn CNAME .
 dns.zeinima.com CNAME .
+dns.zfsystem.tech CNAME .
 dns.zion.dev CNAME .
 dns.zkz.cloud CNAME .
 dns.zyzh20021020.cn CNAME .
@@ -7832,6 +7833,7 @@ elisabeth.klarsgarden.com CNAME .
 elsa.airns.net CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
+epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 essentiallyjay.com CNAME .
@@ -8244,6 +8246,7 @@ ninny.duckdns.org CNAME .
 nitter.ujwie.co CNAME .
 nl.adg.ghostzone.wtf CNAME .
 nl-ams-w-3.nashkan.net CNAME .
+nlb.gbrossi.com.br CNAME .
 nl-dro-w-f-1.nashkan.net CNAME .
 nl-dro-w-p-1.nashkan.net CNAME .
 nlname.freecdn.one CNAME .
@@ -8379,8 +8382,6 @@ ps-tel-w-2.nashkan.net CNAME .
 pt-lis-w-1.nashkan.net CNAME .
 pub.hsuan.ink CNAME .
 pub.hsuan.ink.eo.dnse0.com CNAME .
-pvt-dns-filter.ovpn.bond CNAME .
-pvt-dns-relay.o.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -8515,7 +8516,6 @@ sh.telex.app CNAME .
 siddeus.synology.me CNAME .
 s.idsam.com CNAME .
 sin02.dnscry.pt CNAME .
-sin.core.access.zznet.fun CNAME .
 
-; RPZ entries (8,509) md5sum: 23df80b7d64fd88a055e97ae1388f6a6
-; Processed in: 0:00:05.582254
+; RPZ entries (8,509) md5sum: 5c5c3f549325746c71bac1d34181c275
+; Processed in: 0:00:05.642536

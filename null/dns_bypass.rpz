@@ -1,10 +1,10 @@
-; Last modified: 2024-05-12T01:26:00+08:00
+; Last modified: 2024-05-13T01:25:40+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405120126 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405130125 43200 60 2592000 30
  IN NS localhost.
 
 proxysneak.com A 0.0.0.0
@@ -4207,8 +4207,6 @@ zoogvpn.com A 0.0.0.0
 *.zoogvpn.com A 0.0.0.0
 zonevpn.com A 0.0.0.0
 *.zonevpn.com A 0.0.0.0
-dns.zfsystem.tech A 0.0.0.0
-*.dns.zfsystem.tech A 0.0.0.0
 zerovpn-app.com A 0.0.0.0
 *.zerovpn-app.com A 0.0.0.0
 zerotunnel.com A 0.0.0.0
@@ -6313,6 +6311,7 @@ proxythis.info A 0.0.0.0
 *.proxythis.info A 0.0.0.0
 proxysurfing.org A 0.0.0.0
 *.proxysurfing.org A 0.0.0.0
+sin.core.access.zznet.fun A 0.0.0.0
 singy.smartq.dev A 0.0.0.0
 site-1.duckdns.org A 0.0.0.0
 site-2.duckdns.org A 0.0.0.0
@@ -6527,7 +6526,6 @@ vps309.brueggus.de A 0.0.0.0
 vps310.brueggus.de A 0.0.0.0
 vps311.brueggus.de A 0.0.0.0
 vps312.brueggus.de A 0.0.0.0
-vps313.brueggus.de A 0.0.0.0
 vps314.brueggus.de A 0.0.0.0
 vps317.brueggus.de A 0.0.0.0
 vps322.brueggus.de A 0.0.0.0
@@ -6663,6 +6661,7 @@ y3suyx0cg2lewi2dmn.advaitghaisas.in A 0.0.0.0
 yanggan.eu.org A 0.0.0.0
 ychen.ga A 0.0.0.0
 yeralin.net A 0.0.0.0
+yh.hk1.shuaib.icu A 0.0.0.0
 ymjx.shimmerl.top A 0.0.0.0
 ymq01.dnscry.pt A 0.0.0.0
 yory2cave.hopto.me A 0.0.0.0
@@ -7060,6 +7059,7 @@ beacon.dog A 0.0.0.0
 beacon.fengli.love A 0.0.0.0
 beautifullife.eu.org A 0.0.0.0
 beautifulthings.eu.org A 0.0.0.0
+bemag.app A 0.0.0.0
 berd.moe A 0.0.0.0
 bev.dns.walshnet.co.uk A 0.0.0.0
 b.family.ns.dnslify.com A 0.0.0.0
@@ -7712,6 +7712,7 @@ dns.yyjeqhc.cn A 0.0.0.0
 dns.zarchbox.fr A 0.0.0.0
 dns.zcscdn.cn A 0.0.0.0
 dns.zeinima.com A 0.0.0.0
+dns.zfsystem.tech A 0.0.0.0
 dns.zion.dev A 0.0.0.0
 dns.zkz.cloud A 0.0.0.0
 dns.zyzh20021020.cn A 0.0.0.0
@@ -7832,6 +7833,7 @@ elisabeth.klarsgarden.com A 0.0.0.0
 elsa.airns.net A 0.0.0.0
 emmmmm.me A 0.0.0.0
 eoin.dns.walshnet.co.uk A 0.0.0.0
+epyc.digineo.de A 0.0.0.0
 eropa.dnscepat.id A 0.0.0.0
 erroring.ignorelist.com A 0.0.0.0
 essentiallyjay.com A 0.0.0.0
@@ -8244,6 +8246,7 @@ ninny.duckdns.org A 0.0.0.0
 nitter.ujwie.co A 0.0.0.0
 nl.adg.ghostzone.wtf A 0.0.0.0
 nl-ams-w-3.nashkan.net A 0.0.0.0
+nlb.gbrossi.com.br A 0.0.0.0
 nl-dro-w-f-1.nashkan.net A 0.0.0.0
 nl-dro-w-p-1.nashkan.net A 0.0.0.0
 nlname.freecdn.one A 0.0.0.0
@@ -8379,8 +8382,6 @@ ps-tel-w-2.nashkan.net A 0.0.0.0
 pt-lis-w-1.nashkan.net A 0.0.0.0
 pub.hsuan.ink A 0.0.0.0
 pub.hsuan.ink.eo.dnse0.com A 0.0.0.0
-pvt-dns-filter.ovpn.bond A 0.0.0.0
-pvt-dns-relay.o.ovpn.bond A 0.0.0.0
 q3i6k7j3.stackpathcdn.com A 0.0.0.0
 qaz.tw A 0.0.0.0
 qbak.no-ip.eu A 0.0.0.0
@@ -8515,7 +8516,6 @@ sh.telex.app A 0.0.0.0
 siddeus.synology.me A 0.0.0.0
 s.idsam.com A 0.0.0.0
 sin02.dnscry.pt A 0.0.0.0
-sin.core.access.zznet.fun A 0.0.0.0
 
-; RPZ entries (8,509) md5sum: 23df80b7d64fd88a055e97ae1388f6a6
-; Processed in: 0:00:05.604831
+; RPZ entries (8,509) md5sum: 5c5c3f549325746c71bac1d34181c275
+; Processed in: 0:00:05.661678
