@@ -1,10 +1,10 @@
-; Last modified: 2024-05-15T01:25:51+08:00
+; Last modified: 2024-05-16T01:25:47+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405150125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405160125 43200 60 2592000 30
  IN NS localhost.
 
 proxysite.io A 0.0.0.0
@@ -6323,6 +6323,12 @@ proxysite.page A 0.0.0.0
 *.proxysite.page A 0.0.0.0
 proxysite.one A 0.0.0.0
 *.proxysite.one A 0.0.0.0
+sgpcloud.duckdns.org A 0.0.0.0
+sgs02.just-a-web.com A 0.0.0.0
+sgs03.just-a-web.com A 0.0.0.0
+sg.telex.app A 0.0.0.0
+sg-w-1.nashkan.net A 0.0.0.0
+sg-w-5.nashkan.net A 0.0.0.0
 sg-w-f-1.nashkan.net A 0.0.0.0
 sg-w-f-2.nashkan.net A 0.0.0.0
 sg-w-p-1.nashkan.net A 0.0.0.0
@@ -6398,8 +6404,6 @@ test4.adg.siudzinski.net A 0.0.0.0
 test.adg.siudzinski.net A 0.0.0.0
 test.dnsteam.globuscs.info A 0.0.0.0
 tetra.aeins.at A 0.0.0.0
-tezoi.duckdns.org A 0.0.0.0
-tg2a7d4.glddns.com A 0.0.0.0
 thamrin.ddns.net A 0.0.0.0
 thanos.pleumkungz.com A 0.0.0.0
 thefamilypuls.com A 0.0.0.0
@@ -6707,11 +6711,11 @@ zulkas.top A 0.0.0.0
 z.vipit.one A 0.0.0.0
 001.smallnode.net A 0.0.0.0
 0916.one A 0.0.0.0
+0ms.dev A 0.0.0.0
 10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com A 0.0.0.0
 1.0rz.space A 0.0.0.0
 1.11i.eu A 0.0.0.0
 15101844.xyz A 0.0.0.0
-180.0rz.space A 0.0.0.0
 19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com A 0.0.0.0
 1b.ns.ozer.im A 0.0.0.0
 1dot1dot1dot1.cloudflaredns.com A 0.0.0.0
@@ -6974,6 +6978,7 @@ ae-fuj-w-1.nashkan.net A 0.0.0.0
 ae-fuj-w-2.nashkan.net A 0.0.0.0
 ae-fuj-w-3.nashkan.net A 0.0.0.0
 ae-fuj-w-4.nashkan.net A 0.0.0.0
+ae-fuj-w-p-1.nashkan.net A 0.0.0.0
 ae-fuj-w-p-2.nashkan.net A 0.0.0.0
 ae-fuj-w-p-3.nashkan.net A 0.0.0.0
 aezadns.duckdns.org A 0.0.0.0
@@ -7314,6 +7319,7 @@ dnsaguard1.duckdns.org A 0.0.0.0
 dns.ahmgam.com A 0.0.0.0
 dns.ahyxluo.ltd A 0.0.0.0
 dns.ai6.ir A 0.0.0.0
+dns.ai-chatgpt.eu.org A 0.0.0.0
 dns.airmaxcloud.uk A 0.0.0.0
 dns.airns.net A 0.0.0.0
 dns.amigo-mgn.ru A 0.0.0.0
@@ -7397,6 +7403,7 @@ dns.dzkeji.xyz A 0.0.0.0
 dns-east.tylerwahl.com A 0.0.0.0
 dns.edc-pws.com A 0.0.0.0
 dns.edgeworkssystems.ca A 0.0.0.0
+dns.editechstudio.com A 0.0.0.0
 dnselbagre.telnet-isp.com A 0.0.0.0
 dns.electrotm.org A 0.0.0.0
 dns.elhabhab.com A 0.0.0.0
@@ -7527,6 +7534,7 @@ dns.malhuda.com A 0.0.0.0
 dns.malwarelul.download A 0.0.0.0
 dns.marcbond.uk A 0.0.0.0
 dns.mariasantana.com.br A 0.0.0.0
+dns.mateo.ovh A 0.0.0.0
 dns.me7878.com A 0.0.0.0
 dns.mega-marimo.net A 0.0.0.0
 dns.melashri.eu.org A 0.0.0.0
@@ -7594,7 +7602,6 @@ dns.pgnhatrang.com A 0.0.0.0
 dns.philqoo.com A 0.0.0.0
 dns.phucbui.top A 0.0.0.0
 dns.pieterdherde.com A 0.0.0.0
-dns.pietjacobs.be A 0.0.0.0
 dns.pine-home.de A 0.0.0.0
 dns.ple91.uk A 0.0.0.0
 dns.pmxu.link A 0.0.0.0
@@ -7609,12 +7616,14 @@ dns.psociety.de A 0.0.0.0
 dns.psyk.fr A 0.0.0.0
 dns.pumplex.com A 0.0.0.0
 dns.purah.link A 0.0.0.0
+dns.qdevs.tech A 0.0.0.0
 dns.qkc.fr A 0.0.0.0
 dns.quickline.ch A 0.0.0.0
 dns.qwqawa.asia A 0.0.0.0
 dns.r9x.cc A 0.0.0.0
 dns.radityaharya.com A 0.0.0.0
 dns.ramansarda.com A 0.0.0.0
+dns.ramsky.my.id A 0.0.0.0
 dns.rbs.my.id A 0.0.0.0
 dns.readlook.tk A 0.0.0.0
 dns.redroot.me A 0.0.0.0
@@ -7764,9 +7773,11 @@ doh.almir1904.eu A 0.0.0.0
 doh.apad.pro.cdn.cloudflare.net A 0.0.0.0
 doh.armadillodns.net A 0.0.0.0
 doh.artsvr.my.id A 0.0.0.0
+doh.b86.nl A 0.0.0.0
 doh.best A 0.0.0.0
 doh.bhadrikais.my.id A 0.0.0.0
 doh.bugdns.com A 0.0.0.0
+doh.cippapp.com A 0.0.0.0
 doh.cloud-sekeng.com A 0.0.0.0
 doh.cornes.me A 0.0.0.0
 doh.corpa.me A 0.0.0.0
@@ -7865,6 +7876,7 @@ elisabeth.klarsgarden.com A 0.0.0.0
 elsa.airns.net A 0.0.0.0
 emmmmm.me A 0.0.0.0
 eoin.dns.walshnet.co.uk A 0.0.0.0
+epyc.digineo.de A 0.0.0.0
 eropa.dnscepat.id A 0.0.0.0
 erroring.ignorelist.com A 0.0.0.0
 essentiallyjay.com A 0.0.0.0
@@ -8077,6 +8089,7 @@ jonesboyz.duckdns.org A 0.0.0.0
 josephfamily.org A 0.0.0.0
 jp01.just-a-web.com A 0.0.0.0
 jp2.101818.xyz A 0.0.0.0
+jp.559299366.xyz A 0.0.0.0
 jp.conana.info A 0.0.0.0
 jp.dns.bliod.eu.org A 0.0.0.0
 jpdns.hker.me A 0.0.0.0
@@ -8216,7 +8229,6 @@ moto.adg.siudzinski.net A 0.0.0.0
 m-rm.circumitor.de A 0.0.0.0
 mr-romero.com A 0.0.0.0
 mru01.dnscry.pt A 0.0.0.0
-mtdz.duckdns.org A 0.0.0.0
 muc-ns01.ibytex.systems A 0.0.0.0
 muppy.pnamae.com A 0.0.0.0
 mx1.laoxiao789.com A 0.0.0.0
@@ -8291,7 +8303,9 @@ notebait.ddnsfree.com A 0.0.0.0
 note.dehb.ru A 0.0.0.0
 nrt.core.access.zznet.fun A 0.0.0.0
 nrusimha.crabdance.com A 0.0.0.0
+ns01.nerdytechgeeks.co.za A 0.0.0.0
 ns02.nerdytechgeeks.co.za A 0.0.0.0
+ns03.nerdytechgeeks.co.za A 0.0.0.0
 ns1.1899.com.mx A 0.0.0.0
 ns1.bit-trails.nl A 0.0.0.0
 ns1.depotthai.army A 0.0.0.0
@@ -8347,7 +8361,6 @@ open-resolver1.unima.ac.id A 0.0.0.0
 op.htyweb.top A 0.0.0.0
 ora1.nocnik.org A 0.0.0.0
 oracle001.330k.biz A 0.0.0.0
-oracle2.herry.dev A 0.0.0.0
 oradns.anbitech.com A 0.0.0.0
 orasrv.kellys.pw A 0.0.0.0
 origin.mikopono.nl A 0.0.0.0
@@ -8532,12 +8545,6 @@ sg2.tt502.eu.org A 0.0.0.0
 sga21.es A 0.0.0.0
 sg-dns2.bancuh.com A 0.0.0.0
 sg.jnraptor.com A 0.0.0.0
-sgpcloud.duckdns.org A 0.0.0.0
-sgs02.just-a-web.com A 0.0.0.0
-sgs03.just-a-web.com A 0.0.0.0
-sg.telex.app A 0.0.0.0
-sg-w-1.nashkan.net A 0.0.0.0
-sg-w-5.nashkan.net A 0.0.0.0
 
-; RPZ entries (8,531) md5sum: b39b746272081a24a3dd06b828f4a1e5
-; Processed in: 0:00:06.137195
+; RPZ entries (8,538) md5sum: e0e4f12d12ca508e208d5af7307c505b
+; Processed in: 0:00:05.365699
