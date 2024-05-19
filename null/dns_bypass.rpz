@@ -1,16 +1,12 @@
-; Last modified: 2024-05-19T08:40:36+08:00
+; Last modified: 2024-05-20T01:25:57+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405190840 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405200125 43200 60 2592000 30
  IN NS localhost.
 
-edpuzzle.videospeed.cl A 0.0.0.0
-*.edpuzzle.videospeed.cl A 0.0.0.0
-videoproxy.site A 0.0.0.0
-*.videoproxy.site A 0.0.0.0
 videocollage.us A 0.0.0.0
 *.videocollage.us A 0.0.0.0
 viatun.com A 0.0.0.0
@@ -1561,6 +1557,10 @@ pktriot.net A 0.0.0.0
 *.pktriot.net A 0.0.0.0
 pkproxy.info A 0.0.0.0
 *.pkproxy.info A 0.0.0.0
+pixolium.com A 0.0.0.0
+*.pixolium.com A 0.0.0.0
+pixelprivacy.com A 0.0.0.0
+*.pixelprivacy.com A 0.0.0.0
 zwyr157wwiu6eior.com A 0.0.0.0
 *.zwyr157wwiu6eior.com A 0.0.0.0
 zscalertwo.net A 0.0.0.0
@@ -1997,10 +1997,10 @@ videounblocked.com A 0.0.0.0
 *.videounblocked.com A 0.0.0.0
 videounblock.com A 0.0.0.0
 *.videounblock.com A 0.0.0.0
-pixolium.com A 0.0.0.0
-*.pixolium.com A 0.0.0.0
-pixelprivacy.com A 0.0.0.0
-*.pixelprivacy.com A 0.0.0.0
+edpuzzle.videospeed.cl A 0.0.0.0
+*.edpuzzle.videospeed.cl A 0.0.0.0
+videoproxy.site A 0.0.0.0
+*.videoproxy.site A 0.0.0.0
 piratebayproxy.co A 0.0.0.0
 *.piratebayproxy.co A 0.0.0.0
 piraproxy.org A 0.0.0.0
@@ -2257,6 +2257,8 @@ ninjabrowse.com A 0.0.0.0
 *.ninjabrowse.com A 0.0.0.0
 nimbleway.com A 0.0.0.0
 *.nimbleway.com A 0.0.0.0
+nightowlvpn.com A 0.0.0.0
+*.nightowlvpn.com A 0.0.0.0
 nice-autosurf.com A 0.0.0.0
 *.nice-autosurf.com A 0.0.0.0
 ngrok-free.dev A 0.0.0.0
@@ -2449,6 +2451,8 @@ mallocapp.com A 0.0.0.0
 *.mallocapp.com A 0.0.0.0
 mainssh.com A 0.0.0.0
 *.mainssh.com A 0.0.0.0
+maddw.com A 0.0.0.0
+*.maddw.com A 0.0.0.0
 lurk.info A 0.0.0.0
 *.lurk.info A 0.0.0.0
 luminatinet.com A 0.0.0.0
@@ -4003,10 +4007,10 @@ ada.openbld.net A 0.0.0.0
 *.ada.openbld.net A 0.0.0.0
 tw2.ooroot.com A 0.0.0.0
 *.tw2.ooroot.com A 0.0.0.0
-sg2.ooroot.com A 0.0.0.0
-*.sg2.ooroot.com A 0.0.0.0
-kr2.ooroot.com A 0.0.0.0
-*.kr2.ooroot.com A 0.0.0.0
+actmobile.com A 0.0.0.0
+*.actmobile.com A 0.0.0.0
+nvi-dns.bitdefender.net A 0.0.0.0
+*.nvi-dns.bitdefender.net A 0.0.0.0
 activpn.com A 0.0.0.0
 *.activpn.com A 0.0.0.0
 lon-dns.bitdefender.net A 0.0.0.0
@@ -4393,6 +4397,10 @@ cdn.0ms.dev A 0.0.0.0
 *.cdn.0ms.dev A 0.0.0.0
 ns.00dani.me A 0.0.0.0
 *.ns.00dani.me A 0.0.0.0
+sg2.ooroot.com A 0.0.0.0
+*.sg2.ooroot.com A 0.0.0.0
+kr2.ooroot.com A 0.0.0.0
+*.kr2.ooroot.com A 0.0.0.0
 kr1.ooroot.com A 0.0.0.0
 *.kr1.ooroot.com A 0.0.0.0
 jp2.ooroot.com A 0.0.0.0
@@ -6389,10 +6397,6 @@ e.adamandandrea.org A 0.0.0.0
 *.e.adamandandrea.org A 0.0.0.0
 ore-dns.bitdefender.net A 0.0.0.0
 *.ore-dns.bitdefender.net A 0.0.0.0
-actmobile.com A 0.0.0.0
-*.actmobile.com A 0.0.0.0
-nvi-dns.bitdefender.net A 0.0.0.0
-*.nvi-dns.bitdefender.net A 0.0.0.0
 001.smallnode.net A 0.0.0.0
 045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud A 0.0.0.0
 0916.one A 0.0.0.0
@@ -7113,7 +7117,6 @@ dns.fc.idv.tw A 0.0.0.0
 dns.fifux.be A 0.0.0.0
 dns.fills.cn A 0.0.0.0
 dnsfilter.domotik.us A 0.0.0.0
-dns-filter.o.ovpn.bond A 0.0.0.0
 dns-frankfurt.mii-xms.com A 0.0.0.0
 dns.freddys.my.id A 0.0.0.0
 dns.frguthrie.app A 0.0.0.0
@@ -7123,7 +7126,6 @@ dns.fydne.dev A 0.0.0.0
 dns.geets.ru A 0.0.0.0
 dns.ghost.pm A 0.0.0.0
 dns.giorgiooppo.it A 0.0.0.0
-dns.glorydns.com A 0.0.0.0
 dns.gmserv.cc A 0.0.0.0
 dns.goshawk22.uk A 0.0.0.0
 dns.gt500.ru A 0.0.0.0
@@ -7555,6 +7557,8 @@ edelgard.duckdns.org A 0.0.0.0
 edgar.tobkar.net A 0.0.0.0
 egshe.myqnapcloud.com A 0.0.0.0
 eime.goip.de A 0.0.0.0
+eliatofani.ovh A 0.0.0.0
+elisabeth.klarsgarden.com A 0.0.0.0
 server.unp.im A 0.0.0.0
 serveur-yan.synology.me A 0.0.0.0
 service.c698fc0a.cfd A 0.0.0.0
@@ -7648,6 +7652,7 @@ test.adg.siudzinski.net A 0.0.0.0
 test.dnsteam.globuscs.info A 0.0.0.0
 tetra.aeins.at A 0.0.0.0
 tezoi.duckdns.org A 0.0.0.0
+tg2a7d4.glddns.com A 0.0.0.0
 thamrin.ddns.net A 0.0.0.0
 thanos.pleumkungz.com A 0.0.0.0
 thefamilypuls.com A 0.0.0.0
@@ -7955,8 +7960,6 @@ ztv.su A 0.0.0.0
 zuhause.webteufel.net A 0.0.0.0
 zulkas.top A 0.0.0.0
 z.vipit.one A 0.0.0.0
-eliatofani.ovh A 0.0.0.0
-elisabeth.klarsgarden.com A 0.0.0.0
 elsa.airns.net A 0.0.0.0
 emmmmm.me A 0.0.0.0
 eoin.dns.walshnet.co.uk A 0.0.0.0
@@ -8020,6 +8023,7 @@ funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
 gandhico2.duckdns.org A 0.0.0.0
+gateway.baltes.info A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
 gb-cov-w-1.nashkan.net A 0.0.0.0
@@ -8516,6 +8520,7 @@ ps-tel-w-2.nashkan.net A 0.0.0.0
 pt-lis-w-1.nashkan.net A 0.0.0.0
 pub.hsuan.ink A 0.0.0.0
 pub.hsuan.ink.eo.dnse0.com A 0.0.0.0
+p.v.t.d.n.s.ovpn.bond A 0.0.0.0
 q3i6k7j3.stackpathcdn.com A 0.0.0.0
 qaz.tw A 0.0.0.0
 qbak.no-ip.eu A 0.0.0.0
@@ -8627,5 +8632,5 @@ server.pragmasec.nl A 0.0.0.0
 serverrmha1.ddnsku.my.id A 0.0.0.0
 server.spirio.fr A 0.0.0.0
 
-; RPZ entries (5,426) md5sum: ed5dfb7882c936bcb5bca7f6b8b37a39
-; Processed in: 0:00:05.034641
+; RPZ entries (5,429) md5sum: 80666eef4dcdb6b313afaa01671e65a5
+; Processed in: 0:00:04.986724

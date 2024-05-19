@@ -1,16 +1,12 @@
-; Last modified: 2024-05-19T08:40:36+08:00
+; Last modified: 2024-05-20T01:25:57+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405190840 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405200125 43200 60 2592000 30
  IN NS localhost.
 
-edpuzzle.videospeed.cl CNAME .
-*.edpuzzle.videospeed.cl CNAME .
-videoproxy.site CNAME .
-*.videoproxy.site CNAME .
 videocollage.us CNAME .
 *.videocollage.us CNAME .
 viatun.com CNAME .
@@ -1561,6 +1557,10 @@ pktriot.net CNAME .
 *.pktriot.net CNAME .
 pkproxy.info CNAME .
 *.pkproxy.info CNAME .
+pixolium.com CNAME .
+*.pixolium.com CNAME .
+pixelprivacy.com CNAME .
+*.pixelprivacy.com CNAME .
 zwyr157wwiu6eior.com CNAME .
 *.zwyr157wwiu6eior.com CNAME .
 zscalertwo.net CNAME .
@@ -1997,10 +1997,10 @@ videounblocked.com CNAME .
 *.videounblocked.com CNAME .
 videounblock.com CNAME .
 *.videounblock.com CNAME .
-pixolium.com CNAME .
-*.pixolium.com CNAME .
-pixelprivacy.com CNAME .
-*.pixelprivacy.com CNAME .
+edpuzzle.videospeed.cl CNAME .
+*.edpuzzle.videospeed.cl CNAME .
+videoproxy.site CNAME .
+*.videoproxy.site CNAME .
 piratebayproxy.co CNAME .
 *.piratebayproxy.co CNAME .
 piraproxy.org CNAME .
@@ -2257,6 +2257,8 @@ ninjabrowse.com CNAME .
 *.ninjabrowse.com CNAME .
 nimbleway.com CNAME .
 *.nimbleway.com CNAME .
+nightowlvpn.com CNAME .
+*.nightowlvpn.com CNAME .
 nice-autosurf.com CNAME .
 *.nice-autosurf.com CNAME .
 ngrok-free.dev CNAME .
@@ -2449,6 +2451,8 @@ mallocapp.com CNAME .
 *.mallocapp.com CNAME .
 mainssh.com CNAME .
 *.mainssh.com CNAME .
+maddw.com CNAME .
+*.maddw.com CNAME .
 lurk.info CNAME .
 *.lurk.info CNAME .
 luminatinet.com CNAME .
@@ -4003,10 +4007,10 @@ ada.openbld.net CNAME .
 *.ada.openbld.net CNAME .
 tw2.ooroot.com CNAME .
 *.tw2.ooroot.com CNAME .
-sg2.ooroot.com CNAME .
-*.sg2.ooroot.com CNAME .
-kr2.ooroot.com CNAME .
-*.kr2.ooroot.com CNAME .
+actmobile.com CNAME .
+*.actmobile.com CNAME .
+nvi-dns.bitdefender.net CNAME .
+*.nvi-dns.bitdefender.net CNAME .
 activpn.com CNAME .
 *.activpn.com CNAME .
 lon-dns.bitdefender.net CNAME .
@@ -4393,6 +4397,10 @@ cdn.0ms.dev CNAME .
 *.cdn.0ms.dev CNAME .
 ns.00dani.me CNAME .
 *.ns.00dani.me CNAME .
+sg2.ooroot.com CNAME .
+*.sg2.ooroot.com CNAME .
+kr2.ooroot.com CNAME .
+*.kr2.ooroot.com CNAME .
 kr1.ooroot.com CNAME .
 *.kr1.ooroot.com CNAME .
 jp2.ooroot.com CNAME .
@@ -6389,10 +6397,6 @@ e.adamandandrea.org CNAME .
 *.e.adamandandrea.org CNAME .
 ore-dns.bitdefender.net CNAME .
 *.ore-dns.bitdefender.net CNAME .
-actmobile.com CNAME .
-*.actmobile.com CNAME .
-nvi-dns.bitdefender.net CNAME .
-*.nvi-dns.bitdefender.net CNAME .
 001.smallnode.net CNAME .
 045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud CNAME .
 0916.one CNAME .
@@ -7113,7 +7117,6 @@ dns.fc.idv.tw CNAME .
 dns.fifux.be CNAME .
 dns.fills.cn CNAME .
 dnsfilter.domotik.us CNAME .
-dns-filter.o.ovpn.bond CNAME .
 dns-frankfurt.mii-xms.com CNAME .
 dns.freddys.my.id CNAME .
 dns.frguthrie.app CNAME .
@@ -7123,7 +7126,6 @@ dns.fydne.dev CNAME .
 dns.geets.ru CNAME .
 dns.ghost.pm CNAME .
 dns.giorgiooppo.it CNAME .
-dns.glorydns.com CNAME .
 dns.gmserv.cc CNAME .
 dns.goshawk22.uk CNAME .
 dns.gt500.ru CNAME .
@@ -7555,6 +7557,8 @@ edelgard.duckdns.org CNAME .
 edgar.tobkar.net CNAME .
 egshe.myqnapcloud.com CNAME .
 eime.goip.de CNAME .
+eliatofani.ovh CNAME .
+elisabeth.klarsgarden.com CNAME .
 server.unp.im CNAME .
 serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
@@ -7648,6 +7652,7 @@ test.adg.siudzinski.net CNAME .
 test.dnsteam.globuscs.info CNAME .
 tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
+tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
@@ -7955,8 +7960,6 @@ ztv.su CNAME .
 zuhause.webteufel.net CNAME .
 zulkas.top CNAME .
 z.vipit.one CNAME .
-eliatofani.ovh CNAME .
-elisabeth.klarsgarden.com CNAME .
 elsa.airns.net CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
@@ -8020,6 +8023,7 @@ funti.cc CNAME .
 fvpn.jarvishome.ru CNAME .
 gaia.plonknet.com CNAME .
 gandhico2.duckdns.org CNAME .
+gateway.baltes.info CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
 gb-cov-w-1.nashkan.net CNAME .
@@ -8516,6 +8520,7 @@ ps-tel-w-2.nashkan.net CNAME .
 pt-lis-w-1.nashkan.net CNAME .
 pub.hsuan.ink CNAME .
 pub.hsuan.ink.eo.dnse0.com CNAME .
+p.v.t.d.n.s.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -8627,5 +8632,5 @@ server.pragmasec.nl CNAME .
 serverrmha1.ddnsku.my.id CNAME .
 server.spirio.fr CNAME .
 
-; RPZ entries (5,426) md5sum: ed5dfb7882c936bcb5bca7f6b8b37a39
-; Processed in: 0:00:05.012470
+; RPZ entries (5,429) md5sum: 80666eef4dcdb6b313afaa01671e65a5
+; Processed in: 0:00:04.960373
