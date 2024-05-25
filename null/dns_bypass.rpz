@@ -1,10 +1,10 @@
-; Last modified: 2024-05-25T01:25:57+08:00
+; Last modified: 2024-05-26T01:26:01+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405250125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405260126 43200 60 2592000 30
  IN NS localhost.
 
 edpuzzle.videospeed.cl A 0.0.0.0
@@ -7566,8 +7566,6 @@ egshe.myqnapcloud.com A 0.0.0.0
 eime.goip.de A 0.0.0.0
 eliatofani.ovh A 0.0.0.0
 elisabeth.klarsgarden.com A 0.0.0.0
-service.c698fc0a.cfd A 0.0.0.0
-servicesgov.dev A 0.0.0.0
 se-sto-w-2.nashkan.net A 0.0.0.0
 sg.101818.xyz A 0.0.0.0
 sg-119.cattery.work A 0.0.0.0
@@ -7657,7 +7655,6 @@ test.adg.siudzinski.net A 0.0.0.0
 test.dnsteam.globuscs.info A 0.0.0.0
 tetra.aeins.at A 0.0.0.0
 tezoi.duckdns.org A 0.0.0.0
-tg2a7d4.glddns.com A 0.0.0.0
 thamrin.ddns.net A 0.0.0.0
 thanos.pleumkungz.com A 0.0.0.0
 thefamilypuls.com A 0.0.0.0
@@ -7972,7 +7969,6 @@ z.vipit.one A 0.0.0.0
 elsa.airns.net A 0.0.0.0
 emmmmm.me A 0.0.0.0
 eoin.dns.walshnet.co.uk A 0.0.0.0
-epyc.digineo.de A 0.0.0.0
 eropa.dnscepat.id A 0.0.0.0
 erroring.ignorelist.com A 0.0.0.0
 essentiallyjay.com A 0.0.0.0
@@ -8457,6 +8453,7 @@ one.dotted.9l3.com A 0.0.0.0
 oneplus-10pro.aezadns.duckdns.org A 0.0.0.0
 onlyfriends.info A 0.0.0.0
 o--o.duckdns.org A 0.0.0.0
+o.o.ovpn.bond A 0.0.0.0
 oostelbos.dynu.com A 0.0.0.0
 open-resolver1.unima.ac.id A 0.0.0.0
 op.htyweb.top A 0.0.0.0
@@ -8527,7 +8524,6 @@ ps-tel-w-2.nashkan.net A 0.0.0.0
 pt-lis-w-1.nashkan.net A 0.0.0.0
 pub.hsuan.ink A 0.0.0.0
 pub.hsuan.ink.eo.dnse0.com A 0.0.0.0
-pvt-pub.cli.d.n.s.ovpn.bond A 0.0.0.0
 q3i6k7j3.stackpathcdn.com A 0.0.0.0
 qaz.tw A 0.0.0.0
 qbak.no-ip.eu A 0.0.0.0
@@ -8545,7 +8541,6 @@ rafi.dynns.com A 0.0.0.0
 ralfs-dns.dsh.lol A 0.0.0.0
 raspberrydoc.duckdns.org A 0.0.0.0
 rasp.matthias-iwer.de A 0.0.0.0
-rdjcloud.duckdns.org A 0.0.0.0
 rdjdns.ajraspi.xyz A 0.0.0.0
 redsea.meetz.pw A 0.0.0.0
 remote.sufly.top A 0.0.0.0
@@ -8640,6 +8635,8 @@ server.pragmasec.nl A 0.0.0.0
 serverrmha1.ddnsku.my.id A 0.0.0.0
 server.spirio.fr A 0.0.0.0
 serveur-yan.synology.me A 0.0.0.0
+service.c698fc0a.cfd A 0.0.0.0
+servicesgov.dev A 0.0.0.0
 
-; RPZ entries (5,436) md5sum: 26a2f31b46b4db7c257324828072304b
-; Processed in: 0:00:05.595425
+; RPZ entries (5,433) md5sum: eccf95506f5b210598cb44ad7545554c
+; Processed in: 0:00:06.249092

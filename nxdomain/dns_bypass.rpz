@@ -1,10 +1,10 @@
-; Last modified: 2024-05-25T01:25:57+08:00
+; Last modified: 2024-05-26T01:26:01+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405250125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405260126 43200 60 2592000 30
  IN NS localhost.
 
 edpuzzle.videospeed.cl CNAME .
@@ -7566,8 +7566,6 @@ egshe.myqnapcloud.com CNAME .
 eime.goip.de CNAME .
 eliatofani.ovh CNAME .
 elisabeth.klarsgarden.com CNAME .
-service.c698fc0a.cfd CNAME .
-servicesgov.dev CNAME .
 se-sto-w-2.nashkan.net CNAME .
 sg.101818.xyz CNAME .
 sg-119.cattery.work CNAME .
@@ -7657,7 +7655,6 @@ test.adg.siudzinski.net CNAME .
 test.dnsteam.globuscs.info CNAME .
 tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
-tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
@@ -7972,7 +7969,6 @@ z.vipit.one CNAME .
 elsa.airns.net CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
-epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 essentiallyjay.com CNAME .
@@ -8457,6 +8453,7 @@ one.dotted.9l3.com CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
+o.o.ovpn.bond CNAME .
 oostelbos.dynu.com CNAME .
 open-resolver1.unima.ac.id CNAME .
 op.htyweb.top CNAME .
@@ -8527,7 +8524,6 @@ ps-tel-w-2.nashkan.net CNAME .
 pt-lis-w-1.nashkan.net CNAME .
 pub.hsuan.ink CNAME .
 pub.hsuan.ink.eo.dnse0.com CNAME .
-pvt-pub.cli.d.n.s.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -8545,7 +8541,6 @@ rafi.dynns.com CNAME .
 ralfs-dns.dsh.lol CNAME .
 raspberrydoc.duckdns.org CNAME .
 rasp.matthias-iwer.de CNAME .
-rdjcloud.duckdns.org CNAME .
 rdjdns.ajraspi.xyz CNAME .
 redsea.meetz.pw CNAME .
 remote.sufly.top CNAME .
@@ -8640,6 +8635,8 @@ server.pragmasec.nl CNAME .
 serverrmha1.ddnsku.my.id CNAME .
 server.spirio.fr CNAME .
 serveur-yan.synology.me CNAME .
+service.c698fc0a.cfd CNAME .
+servicesgov.dev CNAME .
 
-; RPZ entries (5,436) md5sum: 26a2f31b46b4db7c257324828072304b
-; Processed in: 0:00:05.574157
+; RPZ entries (5,433) md5sum: eccf95506f5b210598cb44ad7545554c
+; Processed in: 0:00:06.227190
