@@ -1,10 +1,10 @@
-; Last modified: 2024-05-28T01:25:58+08:00
+; Last modified: 2024-05-29T01:25:52+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405280125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405290125 43200 60 2592000 30
  IN NS localhost.
 
 vpngame.com A 0.0.0.0
@@ -6317,7 +6317,6 @@ dns.artikel10.org A 0.0.0.0
 1.11i.eu A 0.0.0.0
 15101844.xyz A 0.0.0.0
 180.0rz.space A 0.0.0.0
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com A 0.0.0.0
 1b.ns.ozer.im A 0.0.0.0
 1dot1dot1dot1.cloudflaredns.com A 0.0.0.0
 1ee.top A 0.0.0.0
@@ -6764,6 +6763,7 @@ circumitor.de A 0.0.0.0
 cld.996969.xyz A 0.0.0.0
 clic.eu.org A 0.0.0.0
 cloudbasesolutions.online A 0.0.0.0
+cloud.dns.filter.ovpn.bond A 0.0.0.0
 cloud.graphicpoint.pl A 0.0.0.0
 cloud.securifi.com.my A 0.0.0.0
 cloudsrv.charitosnet.de A 0.0.0.0
@@ -7213,7 +7213,6 @@ dns.pgnhatrang.com A 0.0.0.0
 dns.philqoo.com A 0.0.0.0
 dns.phucbui.top A 0.0.0.0
 dns.pieterdherde.com A 0.0.0.0
-dns.pietjacobs.be A 0.0.0.0
 dns.pine-home.de A 0.0.0.0
 dns.ple91.uk A 0.0.0.0
 dns.pmxu.link A 0.0.0.0
@@ -7482,9 +7481,6 @@ eime.goip.de A 0.0.0.0
 eliatofani.ovh A 0.0.0.0
 elisabeth.klarsgarden.com A 0.0.0.0
 elsa.airns.net A 0.0.0.0
-se-sto-w-2.nashkan.net A 0.0.0.0
-sg.101818.xyz A 0.0.0.0
-sg-119.cattery.work A 0.0.0.0
 sg2.tt502.eu.org A 0.0.0.0
 sga21.es A 0.0.0.0
 sg-dns2.bancuh.com A 0.0.0.0
@@ -7727,7 +7723,6 @@ vps309.brueggus.de A 0.0.0.0
 vps310.brueggus.de A 0.0.0.0
 vps311.brueggus.de A 0.0.0.0
 vps312.brueggus.de A 0.0.0.0
-vps313.brueggus.de A 0.0.0.0
 vps314.brueggus.de A 0.0.0.0
 vps317.brueggus.de A 0.0.0.0
 vps322.brueggus.de A 0.0.0.0
@@ -7947,7 +7942,6 @@ funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
 gandhico2.duckdns.org A 0.0.0.0
-gateway.baltes.info A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
 gb-cov-w-1.nashkan.net A 0.0.0.0
@@ -8233,14 +8227,12 @@ mkvvpssrv12.freemyip.com A 0.0.0.0
 m.myspace.sbs A 0.0.0.0
 mo0on15.com A 0.0.0.0
 moaz-adguard.duckdns.org A 0.0.0.0
-montmorot.duckdns.org A 0.0.0.0
 monty.best A 0.0.0.0
 moonbd.top A 0.0.0.0
 moto.adg.siudzinski.net A 0.0.0.0
 m-rm.circumitor.de A 0.0.0.0
 mr-romero.com A 0.0.0.0
 mru01.dnscry.pt A 0.0.0.0
-mtdz.duckdns.org A 0.0.0.0
 muc-ns01.ibytex.systems A 0.0.0.0
 muppy.pnamae.com A 0.0.0.0
 mx1.laoxiao789.com A 0.0.0.0
@@ -8292,6 +8284,7 @@ nfti.duckdns.org A 0.0.0.0
 nickcan.xyz A 0.0.0.0
 nicknarayong.ddns.net A 0.0.0.0
 nicktruehome.ddns.net A 0.0.0.0
+nightlymoon.us.kg A 0.0.0.0
 nilanjan.me A 0.0.0.0
 nilanjan.rocks A 0.0.0.0
 ninhs-ai.synology.me A 0.0.0.0
@@ -8440,7 +8433,6 @@ ps-tel-w-2.nashkan.net A 0.0.0.0
 pt-lis-w-1.nashkan.net A 0.0.0.0
 pub.hsuan.ink A 0.0.0.0
 pub.hsuan.ink.eo.dnse0.com A 0.0.0.0
-pvt_dns.filter.ovpn.bond A 0.0.0.0
 q3i6k7j3.stackpathcdn.com A 0.0.0.0
 qaz.tw A 0.0.0.0
 qbak.no-ip.eu A 0.0.0.0
@@ -8555,6 +8547,9 @@ server.spirio.fr A 0.0.0.0
 serveur-yan.synology.me A 0.0.0.0
 service.c698fc0a.cfd A 0.0.0.0
 servicesgov.dev A 0.0.0.0
+se-sto-w-2.nashkan.net A 0.0.0.0
+sg.101818.xyz A 0.0.0.0
+sg-119.cattery.work A 0.0.0.0
 
-; RPZ entries (5,397) md5sum: f445b699fe9323880ee626b85801ab62
-; Processed in: 0:00:08.561842
+; RPZ entries (5,392) md5sum: 42963568a8b6d7da8b83df030a0d4d9e
+; Processed in: 0:00:06.306857
