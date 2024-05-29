@@ -1,10 +1,10 @@
-; Last modified: 2024-05-29T01:25:52+08:00
+; Last modified: 2024-05-30T01:26:00+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405290125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2405300126 43200 60 2592000 30
  IN NS localhost.
 
 vpngame.com A 0.0.0.0
@@ -6763,7 +6763,6 @@ circumitor.de A 0.0.0.0
 cld.996969.xyz A 0.0.0.0
 clic.eu.org A 0.0.0.0
 cloudbasesolutions.online A 0.0.0.0
-cloud.dns.filter.ovpn.bond A 0.0.0.0
 cloud.graphicpoint.pl A 0.0.0.0
 cloud.securifi.com.my A 0.0.0.0
 cloudsrv.charitosnet.de A 0.0.0.0
@@ -7213,6 +7212,7 @@ dns.pgnhatrang.com A 0.0.0.0
 dns.philqoo.com A 0.0.0.0
 dns.phucbui.top A 0.0.0.0
 dns.pieterdherde.com A 0.0.0.0
+dns.pietjacobs.be A 0.0.0.0
 dns.pine-home.de A 0.0.0.0
 dns.ple91.uk A 0.0.0.0
 dns.pmxu.link A 0.0.0.0
@@ -7481,6 +7481,8 @@ eime.goip.de A 0.0.0.0
 eliatofani.ovh A 0.0.0.0
 elisabeth.klarsgarden.com A 0.0.0.0
 elsa.airns.net A 0.0.0.0
+sg.101818.xyz A 0.0.0.0
+sg-119.cattery.work A 0.0.0.0
 sg2.tt502.eu.org A 0.0.0.0
 sga21.es A 0.0.0.0
 sg-dns2.bancuh.com A 0.0.0.0
@@ -7545,7 +7547,6 @@ surfbelow.com A 0.0.0.0
 surt.ml A 0.0.0.0
 surt.ovh A 0.0.0.0
 surve.dehb.ru A 0.0.0.0
-sv1.horus-team.com A 0.0.0.0
 sv3.minhduc.pw A 0.0.0.0
 svc2.diarbagus.id A 0.0.0.0
 svg33.eu A 0.0.0.0
@@ -7568,6 +7569,7 @@ test.adg.siudzinski.net A 0.0.0.0
 test.dnsteam.globuscs.info A 0.0.0.0
 tetra.aeins.at A 0.0.0.0
 tezoi.duckdns.org A 0.0.0.0
+tg2a7d4.glddns.com A 0.0.0.0
 thamrin.ddns.net A 0.0.0.0
 thanos.pleumkungz.com A 0.0.0.0
 thefamilypuls.com A 0.0.0.0
@@ -7723,6 +7725,7 @@ vps309.brueggus.de A 0.0.0.0
 vps310.brueggus.de A 0.0.0.0
 vps311.brueggus.de A 0.0.0.0
 vps312.brueggus.de A 0.0.0.0
+vps313.brueggus.de A 0.0.0.0
 vps314.brueggus.de A 0.0.0.0
 vps317.brueggus.de A 0.0.0.0
 vps322.brueggus.de A 0.0.0.0
@@ -7880,6 +7883,7 @@ zulkas.top A 0.0.0.0
 z.vipit.one A 0.0.0.0
 emmmmm.me A 0.0.0.0
 eoin.dns.walshnet.co.uk A 0.0.0.0
+epyc.digineo.de A 0.0.0.0
 eropa.dnscepat.id A 0.0.0.0
 erroring.ignorelist.com A 0.0.0.0
 essentiallyjay.com A 0.0.0.0
@@ -7890,7 +7894,6 @@ ev-goztepe.duckdns.org A 0.0.0.0
 eweyo.duckdns.org A 0.0.0.0
 exns1.exalto.nu A 0.0.0.0
 eyg01.dnscry.pt A 0.0.0.0
-f03a0e2fa9f5.sn.mynetname.net A 0.0.0.0
 f1.dns.s3cure.me A 0.0.0.0
 f2-dns.asuzac.com.vn A 0.0.0.0
 family.cloudflaredns.com A 0.0.0.0
@@ -7942,6 +7945,7 @@ funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
 gandhico2.duckdns.org A 0.0.0.0
+gateway.baltes.info A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
 gb-cov-w-1.nashkan.net A 0.0.0.0
@@ -8037,6 +8041,7 @@ home-server.exonip.de A 0.0.0.0
 home.snow-sugar.net A 0.0.0.0
 home.tuankhaiit.com A 0.0.0.0
 hooliganska.duckdns.org A 0.0.0.0
+horus-team.com A 0.0.0.0
 host94.rheingold.com.ua A 0.0.0.0
 hostedadguard.greatharts.com A 0.0.0.0
 h.ra3.in A 0.0.0.0
@@ -8227,12 +8232,14 @@ mkvvpssrv12.freemyip.com A 0.0.0.0
 m.myspace.sbs A 0.0.0.0
 mo0on15.com A 0.0.0.0
 moaz-adguard.duckdns.org A 0.0.0.0
+montmorot.duckdns.org A 0.0.0.0
 monty.best A 0.0.0.0
 moonbd.top A 0.0.0.0
 moto.adg.siudzinski.net A 0.0.0.0
 m-rm.circumitor.de A 0.0.0.0
 mr-romero.com A 0.0.0.0
 mru01.dnscry.pt A 0.0.0.0
+mtdz.duckdns.org A 0.0.0.0
 muc-ns01.ibytex.systems A 0.0.0.0
 muppy.pnamae.com A 0.0.0.0
 mx1.laoxiao789.com A 0.0.0.0
@@ -8400,7 +8407,6 @@ pi4.jnraptor.net A 0.0.0.0
 pi.adblocker.eu.org A 0.0.0.0
 pi.daryllswer.net A 0.0.0.0
 pi-dns.gordon81.com A 0.0.0.0
-piekacz.pl A 0.0.0.0
 pihole.gcp.pathofgrace.com A 0.0.0.0
 pi.homeanywhere.org A 0.0.0.0
 pioko.net A 0.0.0.0
@@ -8424,7 +8430,6 @@ privatebard.com A 0.0.0.0
 privpn.me A 0.0.0.0
 proxjdf.jamesferrand.fr A 0.0.0.0
 proxy.ext.devkon.org A 0.0.0.0
-proxy.haoxuan.xyz A 0.0.0.0
 proxy.landerbrauver.ru A 0.0.0.0
 proxy.srs.su A 0.0.0.0
 prysiazhniuk.pp.ua A 0.0.0.0
@@ -8548,8 +8553,6 @@ serveur-yan.synology.me A 0.0.0.0
 service.c698fc0a.cfd A 0.0.0.0
 servicesgov.dev A 0.0.0.0
 se-sto-w-2.nashkan.net A 0.0.0.0
-sg.101818.xyz A 0.0.0.0
-sg-119.cattery.work A 0.0.0.0
 
-; RPZ entries (5,392) md5sum: 42963568a8b6d7da8b83df030a0d4d9e
-; Processed in: 0:00:06.306857
+; RPZ entries (5,395) md5sum: d3385fea1ca6cea3ab80c8f7e173b929
+; Processed in: 0:00:05.261526
