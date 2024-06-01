@@ -1,10 +1,10 @@
-; Last modified: 2024-06-01T01:26:02+08:00
+; Last modified: 2024-06-02T01:25:50+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406010126 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406020125 43200 60 2592000 30
  IN NS localhost.
 
 vpngame.com CNAME .
@@ -6317,7 +6317,6 @@ dns.artikel10.org CNAME .
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1b.ns.ozer.im CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
 1ee.top CNAME .
@@ -6694,6 +6693,7 @@ beacon.dog CNAME .
 beacon.fengli.love CNAME .
 beautifullife.eu.org CNAME .
 beautifulthings.eu.org CNAME .
+bemag.app CNAME .
 berd.moe CNAME .
 bev.dns.walshnet.co.uk CNAME .
 b.family.ns.dnslify.com CNAME .
@@ -6752,6 +6752,7 @@ cdzopi.duckdns.org CNAME .
 centerserver.servebeer.com CNAME .
 ch01adguardho.me CNAME .
 changesmart2024.top CNAME .
+chanhome.xyz CNAME .
 chenrouter.chironys.com CNAME .
 chicago.gtxvpnpro.xyz CNAME .
 chlaebi.synology.me CNAME .
@@ -7479,7 +7480,9 @@ elisabeth.klarsgarden.com CNAME .
 elsa.airns.net CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
-epyc.digineo.de CNAME .
+se-sto-w-2.nashkan.net CNAME .
+sg.101818.xyz CNAME .
+sg-119.cattery.work CNAME .
 sg2.tt502.eu.org CNAME .
 sga21.es CNAME .
 sg-dns2.bancuh.com CNAME .
@@ -7526,6 +7529,7 @@ sradg2.eastus.cloudapp.azure.com CNAME .
 sradg.eastus.cloudapp.azure.com CNAME .
 srgaghome.freemyip.com CNAME .
 srv1.web-mx.eu CNAME .
+srv2.bartoszturek.online CNAME .
 srv5.jiripocta.cz CNAME .
 srv-revprox-01.atakorah.com CNAME .
 ss.0001.xyz CNAME .
@@ -7544,6 +7548,7 @@ surt.ml CNAME .
 surt.ovh CNAME .
 surve.dehb.ru CNAME .
 sv3.minhduc.pw CNAME .
+svc2.diarbagus.id CNAME .
 svg33.eu CNAME .
 swe3.svoim.online CNAME .
 sweden.1vpn.fun CNAME .
@@ -7635,6 +7640,7 @@ us-sea-w-6.nashkan.net CNAME .
 usz.xydustc.me CNAME .
 ux.go20.cf CNAME .
 v1552270.hosted-by-vdsina.ru CNAME .
+v1.lifeym.xyz CNAME .
 v2-1.huwenqiang.xyz CNAME .
 v2rich.eu.org CNAME .
 v3.passby.eu.org CNAME .
@@ -7851,7 +7857,6 @@ y3suyx0cg2lewi2dmn.advaitghaisas.in CNAME .
 yanggan.eu.org CNAME .
 ychen.ga CNAME .
 yeralin.net CNAME .
-yh.hk1.shuaib.icu CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 yory2cave.hopto.me CNAME .
@@ -7871,6 +7876,7 @@ ztv.su CNAME .
 zuhause.webteufel.net CNAME .
 zulkas.top CNAME .
 z.vipit.one CNAME .
+epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 essentiallyjay.com CNAME .
@@ -7882,7 +7888,6 @@ ev-goztepe.duckdns.org CNAME .
 eweyo.duckdns.org CNAME .
 exns1.exalto.nu CNAME .
 eyg01.dnscry.pt CNAME .
-f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 family.cloudflaredns.com CNAME .
@@ -8198,6 +8203,7 @@ mask-api.fe2.apple-dns.net CNAME .
 mask-api.fe.apple-dns.net CNAME .
 mask.apple-dns.net CNAME .
 m-asm.circumitor.de CNAME .
+master.dns.xieke.org CNAME .
 mastergad.me CNAME .
 math.netlab.my.id CNAME .
 matthias-prost.com CNAME .
@@ -8216,6 +8222,8 @@ mia.dns4sec.com CNAME .
 mikatos.de CNAME .
 mikewaddick.com CNAME .
 mil01.dnscry.pt CNAME .
+mimile.despagne.net CNAME .
+mimile.despagne.ovh CNAME .
 mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mo0on15.com CNAME .
@@ -8227,6 +8235,7 @@ moto.adg.siudzinski.net CNAME .
 m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
+mtdz.duckdns.org CNAME .
 muc-ns01.ibytex.systems CNAME .
 muppy.pnamae.com CNAME .
 mx1.laoxiao789.com CNAME .
@@ -8426,7 +8435,6 @@ ps-tel-w-2.nashkan.net CNAME .
 pt-lis-w-1.nashkan.net CNAME .
 pub.hsuan.ink CNAME .
 pub.hsuan.ink.eo.dnse0.com CNAME .
-pvt-dns-cloud.relay.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -8533,14 +8541,12 @@ server01.karl.one CNAME .
 server01.vboekel.nl CNAME .
 server03.dr-adguard.de CNAME .
 server.felixf.eu CNAME .
+servernation.xyz CNAME .
 server.pragmasec.nl CNAME .
 serverrmha1.ddnsku.my.id CNAME .
 server.spirio.fr CNAME .
 serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
-se-sto-w-2.nashkan.net CNAME .
-sg.101818.xyz CNAME .
-sg-119.cattery.work CNAME .
 
-; RPZ entries (5,383) md5sum: c8d79d42f481b78997cd8ce82b0cf7d9
-; Processed in: 0:00:05.497807
+; RPZ entries (5,389) md5sum: 47051c1dae325518fa4d1934e014c9ad
+; Processed in: 0:00:06.458678
