@@ -1,10 +1,10 @@
-; Last modified: 2024-06-02T01:25:50+08:00
+; Last modified: 2024-06-03T01:25:44+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406020125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406030125 43200 60 2592000 30
  IN NS localhost.
 
 vpngame.com A 0.0.0.0
@@ -6340,7 +6340,6 @@ a5135324.csie.io A 0.0.0.0
 a-bld.sys-adm.in A 0.0.0.0
 ablock.fuckit.ovh A 0.0.0.0
 abluehope.com A 0.0.0.0
-abstergo.it A 0.0.0.0
 acomit.lk A 0.0.0.0
 ad1guard.duckdns.org A 0.0.0.0
 ad.257053.xyz A 0.0.0.0
@@ -7156,7 +7155,6 @@ dns.mnet-online.de A 0.0.0.0
 dns.mnml.co.in A 0.0.0.0
 dns.mocn.top A 0.0.0.0
 dns.moonwx.net A 0.0.0.0
-dns.mos.kim A 0.0.0.0
 dns.motazhakim.com A 0.0.0.0
 dns.mrzbcli.ru A 0.0.0.0
 dns.mudryi.ovh A 0.0.0.0
@@ -7480,9 +7478,8 @@ elisabeth.klarsgarden.com A 0.0.0.0
 elsa.airns.net A 0.0.0.0
 emmmmm.me A 0.0.0.0
 eoin.dns.walshnet.co.uk A 0.0.0.0
-se-sto-w-2.nashkan.net A 0.0.0.0
-sg.101818.xyz A 0.0.0.0
-sg-119.cattery.work A 0.0.0.0
+epyc.digineo.de A 0.0.0.0
+eropa.dnscepat.id A 0.0.0.0
 sg2.tt502.eu.org A 0.0.0.0
 sga21.es A 0.0.0.0
 sg-dns2.bancuh.com A 0.0.0.0
@@ -7857,6 +7854,7 @@ y3suyx0cg2lewi2dmn.advaitghaisas.in A 0.0.0.0
 yanggan.eu.org A 0.0.0.0
 ychen.ga A 0.0.0.0
 yeralin.net A 0.0.0.0
+yh.hk1.shuaib.icu A 0.0.0.0
 ymjx.shimmerl.top A 0.0.0.0
 ymq01.dnscry.pt A 0.0.0.0
 yory2cave.hopto.me A 0.0.0.0
@@ -7876,8 +7874,6 @@ ztv.su A 0.0.0.0
 zuhause.webteufel.net A 0.0.0.0
 zulkas.top A 0.0.0.0
 z.vipit.one A 0.0.0.0
-epyc.digineo.de A 0.0.0.0
-eropa.dnscepat.id A 0.0.0.0
 erroring.ignorelist.com A 0.0.0.0
 essentiallyjay.com A 0.0.0.0
 eth.link A 0.0.0.0
@@ -7888,6 +7884,7 @@ ev-goztepe.duckdns.org A 0.0.0.0
 eweyo.duckdns.org A 0.0.0.0
 exns1.exalto.nu A 0.0.0.0
 eyg01.dnscry.pt A 0.0.0.0
+f03a0e2fa9f5.sn.mynetname.net A 0.0.0.0
 f1.dns.s3cure.me A 0.0.0.0
 f2-dns.asuzac.com.vn A 0.0.0.0
 family.cloudflaredns.com A 0.0.0.0
@@ -7939,7 +7936,6 @@ funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
 gandhico2.duckdns.org A 0.0.0.0
-gateway.baltes.info A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
 gb-cov-w-1.nashkan.net A 0.0.0.0
@@ -8203,7 +8199,6 @@ mask-api.fe2.apple-dns.net A 0.0.0.0
 mask-api.fe.apple-dns.net A 0.0.0.0
 mask.apple-dns.net A 0.0.0.0
 m-asm.circumitor.de A 0.0.0.0
-master.dns.xieke.org A 0.0.0.0
 mastergad.me A 0.0.0.0
 math.netlab.my.id A 0.0.0.0
 matthias-prost.com A 0.0.0.0
@@ -8222,8 +8217,6 @@ mia.dns4sec.com A 0.0.0.0
 mikatos.de A 0.0.0.0
 mikewaddick.com A 0.0.0.0
 mil01.dnscry.pt A 0.0.0.0
-mimile.despagne.net A 0.0.0.0
-mimile.despagne.ovh A 0.0.0.0
 mkvvpssrv12.freemyip.com A 0.0.0.0
 m.myspace.sbs A 0.0.0.0
 mo0on15.com A 0.0.0.0
@@ -8295,7 +8288,6 @@ ninny.duckdns.org A 0.0.0.0
 nitter.ujwie.co A 0.0.0.0
 nl.adg.ghostzone.wtf A 0.0.0.0
 nl-ams-w-3.nashkan.net A 0.0.0.0
-nlb.gbrossi.com.br A 0.0.0.0
 nl-dro-w-f-1.nashkan.net A 0.0.0.0
 nl-dro-w-p-1.nashkan.net A 0.0.0.0
 nlname.freecdn.one A 0.0.0.0
@@ -8435,6 +8427,7 @@ ps-tel-w-2.nashkan.net A 0.0.0.0
 pt-lis-w-1.nashkan.net A 0.0.0.0
 pub.hsuan.ink A 0.0.0.0
 pub.hsuan.ink.eo.dnse0.com A 0.0.0.0
+pvt-dns.relay.ovpn.bond A 0.0.0.0
 q3i6k7j3.stackpathcdn.com A 0.0.0.0
 qaz.tw A 0.0.0.0
 qbak.no-ip.eu A 0.0.0.0
@@ -8547,6 +8540,9 @@ serverrmha1.ddnsku.my.id A 0.0.0.0
 server.spirio.fr A 0.0.0.0
 serveur-yan.synology.me A 0.0.0.0
 service.c698fc0a.cfd A 0.0.0.0
+se-sto-w-2.nashkan.net A 0.0.0.0
+sg.101818.xyz A 0.0.0.0
+sg-119.cattery.work A 0.0.0.0
 
-; RPZ entries (5,389) md5sum: 47051c1dae325518fa4d1934e014c9ad
-; Processed in: 0:00:06.477764
+; RPZ entries (5,385) md5sum: cfbd022ecc137f2d29841400ff474cf8
+; Processed in: 0:00:05.826003

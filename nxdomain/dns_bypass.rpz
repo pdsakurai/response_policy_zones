@@ -1,10 +1,10 @@
-; Last modified: 2024-06-02T01:25:50+08:00
+; Last modified: 2024-06-03T01:25:44+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406020125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406030125 43200 60 2592000 30
  IN NS localhost.
 
 vpngame.com CNAME .
@@ -6340,7 +6340,6 @@ a5135324.csie.io CNAME .
 a-bld.sys-adm.in CNAME .
 ablock.fuckit.ovh CNAME .
 abluehope.com CNAME .
-abstergo.it CNAME .
 acomit.lk CNAME .
 ad1guard.duckdns.org CNAME .
 ad.257053.xyz CNAME .
@@ -7156,7 +7155,6 @@ dns.mnet-online.de CNAME .
 dns.mnml.co.in CNAME .
 dns.mocn.top CNAME .
 dns.moonwx.net CNAME .
-dns.mos.kim CNAME .
 dns.motazhakim.com CNAME .
 dns.mrzbcli.ru CNAME .
 dns.mudryi.ovh CNAME .
@@ -7480,9 +7478,8 @@ elisabeth.klarsgarden.com CNAME .
 elsa.airns.net CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
-se-sto-w-2.nashkan.net CNAME .
-sg.101818.xyz CNAME .
-sg-119.cattery.work CNAME .
+epyc.digineo.de CNAME .
+eropa.dnscepat.id CNAME .
 sg2.tt502.eu.org CNAME .
 sga21.es CNAME .
 sg-dns2.bancuh.com CNAME .
@@ -7857,6 +7854,7 @@ y3suyx0cg2lewi2dmn.advaitghaisas.in CNAME .
 yanggan.eu.org CNAME .
 ychen.ga CNAME .
 yeralin.net CNAME .
+yh.hk1.shuaib.icu CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 yory2cave.hopto.me CNAME .
@@ -7876,8 +7874,6 @@ ztv.su CNAME .
 zuhause.webteufel.net CNAME .
 zulkas.top CNAME .
 z.vipit.one CNAME .
-epyc.digineo.de CNAME .
-eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 essentiallyjay.com CNAME .
 eth.link CNAME .
@@ -7888,6 +7884,7 @@ ev-goztepe.duckdns.org CNAME .
 eweyo.duckdns.org CNAME .
 exns1.exalto.nu CNAME .
 eyg01.dnscry.pt CNAME .
+f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 family.cloudflaredns.com CNAME .
@@ -7939,7 +7936,6 @@ funti.cc CNAME .
 fvpn.jarvishome.ru CNAME .
 gaia.plonknet.com CNAME .
 gandhico2.duckdns.org CNAME .
-gateway.baltes.info CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
 gb-cov-w-1.nashkan.net CNAME .
@@ -8203,7 +8199,6 @@ mask-api.fe2.apple-dns.net CNAME .
 mask-api.fe.apple-dns.net CNAME .
 mask.apple-dns.net CNAME .
 m-asm.circumitor.de CNAME .
-master.dns.xieke.org CNAME .
 mastergad.me CNAME .
 math.netlab.my.id CNAME .
 matthias-prost.com CNAME .
@@ -8222,8 +8217,6 @@ mia.dns4sec.com CNAME .
 mikatos.de CNAME .
 mikewaddick.com CNAME .
 mil01.dnscry.pt CNAME .
-mimile.despagne.net CNAME .
-mimile.despagne.ovh CNAME .
 mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mo0on15.com CNAME .
@@ -8295,7 +8288,6 @@ ninny.duckdns.org CNAME .
 nitter.ujwie.co CNAME .
 nl.adg.ghostzone.wtf CNAME .
 nl-ams-w-3.nashkan.net CNAME .
-nlb.gbrossi.com.br CNAME .
 nl-dro-w-f-1.nashkan.net CNAME .
 nl-dro-w-p-1.nashkan.net CNAME .
 nlname.freecdn.one CNAME .
@@ -8435,6 +8427,7 @@ ps-tel-w-2.nashkan.net CNAME .
 pt-lis-w-1.nashkan.net CNAME .
 pub.hsuan.ink CNAME .
 pub.hsuan.ink.eo.dnse0.com CNAME .
+pvt-dns.relay.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -8547,6 +8540,9 @@ serverrmha1.ddnsku.my.id CNAME .
 server.spirio.fr CNAME .
 serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
+se-sto-w-2.nashkan.net CNAME .
+sg.101818.xyz CNAME .
+sg-119.cattery.work CNAME .
 
-; RPZ entries (5,389) md5sum: 47051c1dae325518fa4d1934e014c9ad
-; Processed in: 0:00:06.458678
+; RPZ entries (5,385) md5sum: cfbd022ecc137f2d29841400ff474cf8
+; Processed in: 0:00:05.804432
