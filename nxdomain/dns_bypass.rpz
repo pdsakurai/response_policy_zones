@@ -1,10 +1,10 @@
-; Last modified: 2024-06-10T01:25:50+08:00
+; Last modified: 2024-06-11T01:25:19+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406100125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406110125 43200 60 2592000 30
  IN NS localhost.
 
 vpndaily.com CNAME .
@@ -6652,7 +6652,6 @@ anixlab.com CNAME .
 an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 anycast.censurfridns.nu CNAME .
 anycast.ffmuc.net CNAME .
 anycast.uncensoreddns.dk CNAME .
@@ -7496,6 +7495,8 @@ elisabeth.klarsgarden.com CNAME .
 elsa.airns.net CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
+eropa.dnscepat.id CNAME .
+sg.101818.xyz CNAME .
 sg-119.cattery.work CNAME .
 sg2.tt502.eu.org CNAME .
 sga21.es CNAME .
@@ -7729,6 +7730,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
@@ -7891,7 +7893,6 @@ ztv.su CNAME .
 zuhause.webteufel.net CNAME .
 zulkas.top CNAME .
 z.vipit.one CNAME .
-eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 essentiallyjay.com CNAME .
 eth.link CNAME .
@@ -7902,6 +7903,7 @@ ev-goztepe.duckdns.org CNAME .
 eweyo.duckdns.org CNAME .
 exns1.exalto.nu CNAME .
 eyg01.dnscry.pt CNAME .
+f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 family.cloudflaredns.com CNAME .
@@ -7952,6 +7954,7 @@ funti.cc CNAME .
 fvpn.jarvishome.ru CNAME .
 gaia.plonknet.com CNAME .
 gandhico2.duckdns.org CNAME .
+gateway.baltes.info CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
 gb-cov-w-1.nashkan.net CNAME .
@@ -8268,6 +8271,7 @@ mzs1.ddns.net CNAME .
 n.3363.net CNAME .
 na.ash.adguard.01.joshseveros.network CNAME .
 naganohara-yoimiya.momokko.moe CNAME .
+nana-is.so-gorgeo.us.kg CNAME .
 na.phx.adguard.01.joshseveros.network CNAME .
 nas1403.duckdns.org CNAME .
 nasalife.top CNAME .
@@ -8362,7 +8366,7 @@ ns.vik.ro CNAME .
 ntu.ssooss.win CNAME .
 nudnud.com CNAME .
 nue01.dnscry.pt CNAME .
-nukys.ca CNAME .
+nukys.hopto.org CNAME .
 n-wan.dynv6.net CNAME .
 nydns.omada.cafe CNAME .
 nyx.webteufel-it.solutions CNAME .
@@ -8560,7 +8564,6 @@ server.spirio.fr CNAME .
 serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
 se-sto-w-2.nashkan.net CNAME .
-sg.101818.xyz CNAME .
 
-; RPZ entries (5,396) md5sum: ad11e90ec376a51ae217e5afe8f75da6
-; Processed in: 0:00:06.058771
+; RPZ entries (5,399) md5sum: 4ddb884af12103866ce5b40b97a2d706
+; Processed in: 0:00:05.594501

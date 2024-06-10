@@ -1,10 +1,10 @@
-; Last modified: 2024-06-10T01:25:50+08:00
+; Last modified: 2024-06-11T01:25:19+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406100125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406110125 43200 60 2592000 30
  IN NS localhost.
 
 vpndaily.com A 0.0.0.0
@@ -6652,7 +6652,6 @@ anixlab.com A 0.0.0.0
 an.loliconapp.top A 0.0.0.0
 a.ns.dnslify.com A 0.0.0.0
 antarlangit.my.id A 0.0.0.0
-antidns.s.tuna.tsinghua.edu.cn A 0.0.0.0
 anycast.censurfridns.nu A 0.0.0.0
 anycast.ffmuc.net A 0.0.0.0
 anycast.uncensoreddns.dk A 0.0.0.0
@@ -7496,6 +7495,8 @@ elisabeth.klarsgarden.com A 0.0.0.0
 elsa.airns.net A 0.0.0.0
 emmmmm.me A 0.0.0.0
 eoin.dns.walshnet.co.uk A 0.0.0.0
+eropa.dnscepat.id A 0.0.0.0
+sg.101818.xyz A 0.0.0.0
 sg-119.cattery.work A 0.0.0.0
 sg2.tt502.eu.org A 0.0.0.0
 sga21.es A 0.0.0.0
@@ -7729,6 +7730,7 @@ vps309.brueggus.de A 0.0.0.0
 vps310.brueggus.de A 0.0.0.0
 vps311.brueggus.de A 0.0.0.0
 vps312.brueggus.de A 0.0.0.0
+vps313.brueggus.de A 0.0.0.0
 vps314.brueggus.de A 0.0.0.0
 vps317.brueggus.de A 0.0.0.0
 vps322.brueggus.de A 0.0.0.0
@@ -7891,7 +7893,6 @@ ztv.su A 0.0.0.0
 zuhause.webteufel.net A 0.0.0.0
 zulkas.top A 0.0.0.0
 z.vipit.one A 0.0.0.0
-eropa.dnscepat.id A 0.0.0.0
 erroring.ignorelist.com A 0.0.0.0
 essentiallyjay.com A 0.0.0.0
 eth.link A 0.0.0.0
@@ -7902,6 +7903,7 @@ ev-goztepe.duckdns.org A 0.0.0.0
 eweyo.duckdns.org A 0.0.0.0
 exns1.exalto.nu A 0.0.0.0
 eyg01.dnscry.pt A 0.0.0.0
+f03a0e2fa9f5.sn.mynetname.net A 0.0.0.0
 f1.dns.s3cure.me A 0.0.0.0
 f2-dns.asuzac.com.vn A 0.0.0.0
 family.cloudflaredns.com A 0.0.0.0
@@ -7952,6 +7954,7 @@ funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
 gandhico2.duckdns.org A 0.0.0.0
+gateway.baltes.info A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
 gb-cov-w-1.nashkan.net A 0.0.0.0
@@ -8268,6 +8271,7 @@ mzs1.ddns.net A 0.0.0.0
 n.3363.net A 0.0.0.0
 na.ash.adguard.01.joshseveros.network A 0.0.0.0
 naganohara-yoimiya.momokko.moe A 0.0.0.0
+nana-is.so-gorgeo.us.kg A 0.0.0.0
 na.phx.adguard.01.joshseveros.network A 0.0.0.0
 nas1403.duckdns.org A 0.0.0.0
 nasalife.top A 0.0.0.0
@@ -8362,7 +8366,7 @@ ns.vik.ro A 0.0.0.0
 ntu.ssooss.win A 0.0.0.0
 nudnud.com A 0.0.0.0
 nue01.dnscry.pt A 0.0.0.0
-nukys.ca A 0.0.0.0
+nukys.hopto.org A 0.0.0.0
 n-wan.dynv6.net A 0.0.0.0
 nydns.omada.cafe A 0.0.0.0
 nyx.webteufel-it.solutions A 0.0.0.0
@@ -8560,7 +8564,6 @@ server.spirio.fr A 0.0.0.0
 serveur-yan.synology.me A 0.0.0.0
 service.c698fc0a.cfd A 0.0.0.0
 se-sto-w-2.nashkan.net A 0.0.0.0
-sg.101818.xyz A 0.0.0.0
 
-; RPZ entries (5,396) md5sum: ad11e90ec376a51ae217e5afe8f75da6
-; Processed in: 0:00:06.084714
+; RPZ entries (5,399) md5sum: 4ddb884af12103866ce5b40b97a2d706
+; Processed in: 0:00:05.623625
