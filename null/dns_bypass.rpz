@@ -1,10 +1,10 @@
-; Last modified: 2024-06-21T01:26:03+08:00
+; Last modified: 2024-06-22T01:25:55+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406210126 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406220125 43200 60 2592000 30
  IN NS localhost.
 
 vpngame.com A 0.0.0.0
@@ -71,8 +71,6 @@ vpn.net A 0.0.0.0
 *.vpn.net A 0.0.0.0
 vpn.lat A 0.0.0.0
 *.vpn.lat A 0.0.0.0
-vpn.ht A 0.0.0.0
-*.vpn.ht A 0.0.0.0
 vpn.express A 0.0.0.0
 *.vpn.express A 0.0.0.0
 vpn.asia A 0.0.0.0
@@ -145,6 +143,8 @@ utunnel.io A 0.0.0.0
 *.utunnel.io A 0.0.0.0
 utopianpal.com A 0.0.0.0
 *.utopianpal.com A 0.0.0.0
+uswebproxy.net A 0.0.0.0
+*.uswebproxy.net A 0.0.0.0
 uswebproxy.com A 0.0.0.0
 *.uswebproxy.com A 0.0.0.0
 usvpn.cf A 0.0.0.0
@@ -6326,6 +6326,7 @@ adguardhome.atakorah.com A 0.0.0.0
 1.11i.eu A 0.0.0.0
 15101844.xyz A 0.0.0.0
 180.0rz.space A 0.0.0.0
+19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com A 0.0.0.0
 1b.ns.ozer.im A 0.0.0.0
 1dot1dot1dot1.cloudflaredns.com A 0.0.0.0
 1ee.top A 0.0.0.0
@@ -6338,6 +6339,7 @@ adguardhome.atakorah.com A 0.0.0.0
 2wired.hopto.org A 0.0.0.0
 3.11i.eu A 0.0.0.0
 317252.xyz A 0.0.0.0
+3u6gx7qomyqyul1l.myfritz.net A 0.0.0.0
 45.32.17.58.vultrusercontent.com A 0.0.0.0
 45-76-84-146.colo.xandodigital.net A 0.0.0.0
 4yix.l.time4vps.cloud A 0.0.0.0
@@ -6656,6 +6658,7 @@ anixlab.com A 0.0.0.0
 an.loliconapp.top A 0.0.0.0
 a.ns.dnslify.com A 0.0.0.0
 antarlangit.my.id A 0.0.0.0
+antidns.s.tuna.tsinghua.edu.cn A 0.0.0.0
 anycast.censurfridns.nu A 0.0.0.0
 anycast.ffmuc.net A 0.0.0.0
 anycast.uncensoreddns.dk A 0.0.0.0
@@ -7269,6 +7272,7 @@ dns.rbs.my.id A 0.0.0.0
 dns.readlook.tk A 0.0.0.0
 dns.redroot.me A 0.0.0.0
 dns.renardyre.com A 0.0.0.0
+dns.repinger.com A 0.0.0.0
 dns.req1.fr A 0.0.0.0
 dns.resoft.org A 0.0.0.0
 dns.rhscz.eu A 0.0.0.0
@@ -7497,9 +7501,11 @@ dr.jp.sslbb.win A 0.0.0.0
 ds3617xs.jojo1204.xyz A 0.0.0.0
 dugout.dns.walshnet.co.uk A 0.0.0.0
 dupatruwi22.fun A 0.0.0.0
-dus.ysbs.uk A 0.0.0.0
-duyyen.tk A 0.0.0.0
-dyn-ip.borjalopez.eu A 0.0.0.0
+scottdylewski.com A 0.0.0.0
+sdfasluqoiwuezcvcv.tech A 0.0.0.0
+sdn.airns.net A 0.0.0.0
+sdns.pro A 0.0.0.0
+sdvizhkov.ru A 0.0.0.0
 sea01.dnscry.pt A 0.0.0.0
 seanyan.ddns.net A 0.0.0.0
 sea-ydmaz-docker.southeastasia.cloudapp.azure.com A 0.0.0.0
@@ -7761,6 +7767,7 @@ vps309.brueggus.de A 0.0.0.0
 vps310.brueggus.de A 0.0.0.0
 vps311.brueggus.de A 0.0.0.0
 vps312.brueggus.de A 0.0.0.0
+vps313.brueggus.de A 0.0.0.0
 vps314.brueggus.de A 0.0.0.0
 vps317.brueggus.de A 0.0.0.0
 vps322.brueggus.de A 0.0.0.0
@@ -7927,6 +7934,9 @@ ztv.su A 0.0.0.0
 zuhause.webteufel.net A 0.0.0.0
 zulkas.top A 0.0.0.0
 z.vipit.one A 0.0.0.0
+dus.ysbs.uk A 0.0.0.0
+duyyen.tk A 0.0.0.0
+dyn-ip.borjalopez.eu A 0.0.0.0
 eamonn.dns.walshnet.co.uk A 0.0.0.0
 ebpmc.diskstation.me A 0.0.0.0
 ebpmc.tplinkdns.com A 0.0.0.0
@@ -8008,6 +8018,7 @@ funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
 gandhico2.duckdns.org A 0.0.0.0
+gateway.baltes.info A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
 gb-cov-w-1.nashkan.net A 0.0.0.0
@@ -8438,6 +8449,7 @@ olga.hr.i81.ru A 0.0.0.0
 omr01.dnscry.pt A 0.0.0.0
 one.dotted.9l3.com A 0.0.0.0
 oneplus-10pro.aezadns.duckdns.org A 0.0.0.0
+onlyfriends.info A 0.0.0.0
 o--o.duckdns.org A 0.0.0.0
 oostelbos.dynu.com A 0.0.0.0
 open-resolver1.unima.ac.id A 0.0.0.0
@@ -8478,6 +8490,7 @@ pi4.jnraptor.net A 0.0.0.0
 pi.adblocker.eu.org A 0.0.0.0
 pi.daryllswer.net A 0.0.0.0
 pi-dns.gordon81.com A 0.0.0.0
+piekacz.pl A 0.0.0.0
 pihole.gcp.pathofgrace.com A 0.0.0.0
 pi.homeanywhere.org A 0.0.0.0
 pioko.net A 0.0.0.0
@@ -8596,11 +8609,6 @@ sascha-rabold.de A 0.0.0.0
 saya.rnrkurir.com A 0.0.0.0
 sbydoh.limotelu.org A 0.0.0.0
 schiopuoffice.duckdns.org A 0.0.0.0
-scottdylewski.com A 0.0.0.0
-sdfasluqoiwuezcvcv.tech A 0.0.0.0
-sdn.airns.net A 0.0.0.0
-sdns.pro A 0.0.0.0
-sdvizhkov.ru A 0.0.0.0
 
-; RPZ entries (5,439) md5sum: 6c8f0bcddac454bfd0f0d0936580916e
-; Processed in: 0:00:07.210574
+; RPZ entries (5,447) md5sum: 0bf1510adcd81fa3f2bacdca575ae340
+; Processed in: 0:00:07.661367

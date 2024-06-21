@@ -1,10 +1,10 @@
-; Last modified: 2024-06-21T01:26:03+08:00
+; Last modified: 2024-06-22T01:25:55+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406210126 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406220125 43200 60 2592000 30
  IN NS localhost.
 
 vpngame.com CNAME .
@@ -71,8 +71,6 @@ vpn.net CNAME .
 *.vpn.net CNAME .
 vpn.lat CNAME .
 *.vpn.lat CNAME .
-vpn.ht CNAME .
-*.vpn.ht CNAME .
 vpn.express CNAME .
 *.vpn.express CNAME .
 vpn.asia CNAME .
@@ -145,6 +143,8 @@ utunnel.io CNAME .
 *.utunnel.io CNAME .
 utopianpal.com CNAME .
 *.utopianpal.com CNAME .
+uswebproxy.net CNAME .
+*.uswebproxy.net CNAME .
 uswebproxy.com CNAME .
 *.uswebproxy.com CNAME .
 usvpn.cf CNAME .
@@ -6326,6 +6326,7 @@ adguardhome.atakorah.com CNAME .
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
+19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1b.ns.ozer.im CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
 1ee.top CNAME .
@@ -6338,6 +6339,7 @@ adguardhome.atakorah.com CNAME .
 2wired.hopto.org CNAME .
 3.11i.eu CNAME .
 317252.xyz CNAME .
+3u6gx7qomyqyul1l.myfritz.net CNAME .
 45.32.17.58.vultrusercontent.com CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
@@ -6656,6 +6658,7 @@ anixlab.com CNAME .
 an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
+antidns.s.tuna.tsinghua.edu.cn CNAME .
 anycast.censurfridns.nu CNAME .
 anycast.ffmuc.net CNAME .
 anycast.uncensoreddns.dk CNAME .
@@ -7269,6 +7272,7 @@ dns.rbs.my.id CNAME .
 dns.readlook.tk CNAME .
 dns.redroot.me CNAME .
 dns.renardyre.com CNAME .
+dns.repinger.com CNAME .
 dns.req1.fr CNAME .
 dns.resoft.org CNAME .
 dns.rhscz.eu CNAME .
@@ -7497,9 +7501,11 @@ dr.jp.sslbb.win CNAME .
 ds3617xs.jojo1204.xyz CNAME .
 dugout.dns.walshnet.co.uk CNAME .
 dupatruwi22.fun CNAME .
-dus.ysbs.uk CNAME .
-duyyen.tk CNAME .
-dyn-ip.borjalopez.eu CNAME .
+scottdylewski.com CNAME .
+sdfasluqoiwuezcvcv.tech CNAME .
+sdn.airns.net CNAME .
+sdns.pro CNAME .
+sdvizhkov.ru CNAME .
 sea01.dnscry.pt CNAME .
 seanyan.ddns.net CNAME .
 sea-ydmaz-docker.southeastasia.cloudapp.azure.com CNAME .
@@ -7761,6 +7767,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
@@ -7927,6 +7934,9 @@ ztv.su CNAME .
 zuhause.webteufel.net CNAME .
 zulkas.top CNAME .
 z.vipit.one CNAME .
+dus.ysbs.uk CNAME .
+duyyen.tk CNAME .
+dyn-ip.borjalopez.eu CNAME .
 eamonn.dns.walshnet.co.uk CNAME .
 ebpmc.diskstation.me CNAME .
 ebpmc.tplinkdns.com CNAME .
@@ -8008,6 +8018,7 @@ funti.cc CNAME .
 fvpn.jarvishome.ru CNAME .
 gaia.plonknet.com CNAME .
 gandhico2.duckdns.org CNAME .
+gateway.baltes.info CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
 gb-cov-w-1.nashkan.net CNAME .
@@ -8438,6 +8449,7 @@ olga.hr.i81.ru CNAME .
 omr01.dnscry.pt CNAME .
 one.dotted.9l3.com CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
+onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
 oostelbos.dynu.com CNAME .
 open-resolver1.unima.ac.id CNAME .
@@ -8478,6 +8490,7 @@ pi4.jnraptor.net CNAME .
 pi.adblocker.eu.org CNAME .
 pi.daryllswer.net CNAME .
 pi-dns.gordon81.com CNAME .
+piekacz.pl CNAME .
 pihole.gcp.pathofgrace.com CNAME .
 pi.homeanywhere.org CNAME .
 pioko.net CNAME .
@@ -8596,11 +8609,6 @@ sascha-rabold.de CNAME .
 saya.rnrkurir.com CNAME .
 sbydoh.limotelu.org CNAME .
 schiopuoffice.duckdns.org CNAME .
-scottdylewski.com CNAME .
-sdfasluqoiwuezcvcv.tech CNAME .
-sdn.airns.net CNAME .
-sdns.pro CNAME .
-sdvizhkov.ru CNAME .
 
-; RPZ entries (5,439) md5sum: 6c8f0bcddac454bfd0f0d0936580916e
-; Processed in: 0:00:07.185886
+; RPZ entries (5,447) md5sum: 0bf1510adcd81fa3f2bacdca575ae340
+; Processed in: 0:00:07.637584
