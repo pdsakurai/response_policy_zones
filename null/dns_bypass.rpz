@@ -1,10 +1,10 @@
-; Last modified: 2024-06-22T01:25:55+08:00
+; Last modified: 2024-06-23T01:26:04+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406220125 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406230126 43200 60 2592000 30
  IN NS localhost.
 
 vpngame.com A 0.0.0.0
@@ -6320,13 +6320,11 @@ adguardhome.atakorah.com A 0.0.0.0
 001.smallnode.net A 0.0.0.0
 045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud A 0.0.0.0
 0ms.dev A 0.0.0.0
-10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com A 0.0.0.0
 10.milkpie.one A 0.0.0.0
 1.0rz.space A 0.0.0.0
 1.11i.eu A 0.0.0.0
 15101844.xyz A 0.0.0.0
 180.0rz.space A 0.0.0.0
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com A 0.0.0.0
 1b.ns.ozer.im A 0.0.0.0
 1dot1dot1dot1.cloudflaredns.com A 0.0.0.0
 1ee.top A 0.0.0.0
@@ -6339,7 +6337,6 @@ adguardhome.atakorah.com A 0.0.0.0
 2wired.hopto.org A 0.0.0.0
 3.11i.eu A 0.0.0.0
 317252.xyz A 0.0.0.0
-3u6gx7qomyqyul1l.myfritz.net A 0.0.0.0
 45.32.17.58.vultrusercontent.com A 0.0.0.0
 45-76-84-146.colo.xandodigital.net A 0.0.0.0
 4yix.l.time4vps.cloud A 0.0.0.0
@@ -6658,7 +6655,6 @@ anixlab.com A 0.0.0.0
 an.loliconapp.top A 0.0.0.0
 a.ns.dnslify.com A 0.0.0.0
 antarlangit.my.id A 0.0.0.0
-antidns.s.tuna.tsinghua.edu.cn A 0.0.0.0
 anycast.censurfridns.nu A 0.0.0.0
 anycast.ffmuc.net A 0.0.0.0
 anycast.uncensoreddns.dk A 0.0.0.0
@@ -7297,6 +7293,7 @@ dnssenoads.alekberg.net A 0.0.0.0
 dns.servergs.net A 0.0.0.0
 dnsserver.mailchan.eu A 0.0.0.0
 dns.servizimv.it A 0.0.0.0
+dns.shaftinc.fr A 0.0.0.0
 dns.sheepdogs.faith A 0.0.0.0
 dnssilo.top A 0.0.0.0
 dns.simba.house A 0.0.0.0
@@ -7459,6 +7456,7 @@ doh.netweaver.uk A 0.0.0.0
 doh.nexen.cloud A 0.0.0.0
 doh.nukys.ca A 0.0.0.0
 doh.palapa.net.id A 0.0.0.0
+doh.pink A 0.0.0.0
 doh.plaawan.uk A 0.0.0.0
 doh.plop.cc A 0.0.0.0
 doh.post-factum.tk A 0.0.0.0
@@ -7501,9 +7499,7 @@ dr.jp.sslbb.win A 0.0.0.0
 ds3617xs.jojo1204.xyz A 0.0.0.0
 dugout.dns.walshnet.co.uk A 0.0.0.0
 dupatruwi22.fun A 0.0.0.0
-scottdylewski.com A 0.0.0.0
-sdfasluqoiwuezcvcv.tech A 0.0.0.0
-sdn.airns.net A 0.0.0.0
+dus.ysbs.uk A 0.0.0.0
 sdns.pro A 0.0.0.0
 sdvizhkov.ru A 0.0.0.0
 sea01.dnscry.pt A 0.0.0.0
@@ -7580,7 +7576,6 @@ sradg2.eastus.cloudapp.azure.com A 0.0.0.0
 sradg.eastus.cloudapp.azure.com A 0.0.0.0
 srgaghome.freemyip.com A 0.0.0.0
 srv1.web-mx.eu A 0.0.0.0
-srv2.bartoszturek.online A 0.0.0.0
 srv5.jiripocta.cz A 0.0.0.0
 srv-revprox-01.atakorah.com A 0.0.0.0
 ss.0001.xyz A 0.0.0.0
@@ -7618,7 +7613,6 @@ test.adg.siudzinski.net A 0.0.0.0
 test.dnsteam.globuscs.info A 0.0.0.0
 tetra.aeins.at A 0.0.0.0
 tetty-is.so-gorgeo.us.kg A 0.0.0.0
-tezoi.duckdns.org A 0.0.0.0
 thanos.pleumkungz.com A 0.0.0.0
 thefamilypuls.com A 0.0.0.0
 tiliandns.duckdns.org A 0.0.0.0
@@ -7934,9 +7928,9 @@ ztv.su A 0.0.0.0
 zuhause.webteufel.net A 0.0.0.0
 zulkas.top A 0.0.0.0
 z.vipit.one A 0.0.0.0
-dus.ysbs.uk A 0.0.0.0
 duyyen.tk A 0.0.0.0
 dyn-ip.borjalopez.eu A 0.0.0.0
+dyn.velyn.my.id A 0.0.0.0
 eamonn.dns.walshnet.co.uk A 0.0.0.0
 ebpmc.diskstation.me A 0.0.0.0
 ebpmc.tplinkdns.com A 0.0.0.0
@@ -8017,7 +8011,6 @@ fullaccesstointernet.jp.eu.org A 0.0.0.0
 funti.cc A 0.0.0.0
 fvpn.jarvishome.ru A 0.0.0.0
 gaia.plonknet.com A 0.0.0.0
-gandhico2.duckdns.org A 0.0.0.0
 gateway.baltes.info A 0.0.0.0
 gauss.pp.ua A 0.0.0.0
 gb-bir-w-1.nashkan.net A 0.0.0.0
@@ -8318,7 +8311,6 @@ moto.adg.siudzinski.net A 0.0.0.0
 m-rm.circumitor.de A 0.0.0.0
 mr-romero.com A 0.0.0.0
 mru01.dnscry.pt A 0.0.0.0
-mtdz.duckdns.org A 0.0.0.0
 muc-ns01.ibytex.systems A 0.0.0.0
 muppy.pnamae.com A 0.0.0.0
 mx1.laoxiao789.com A 0.0.0.0
@@ -8609,6 +8601,9 @@ sascha-rabold.de A 0.0.0.0
 saya.rnrkurir.com A 0.0.0.0
 sbydoh.limotelu.org A 0.0.0.0
 schiopuoffice.duckdns.org A 0.0.0.0
+scottdylewski.com A 0.0.0.0
+sdfasluqoiwuezcvcv.tech A 0.0.0.0
+sdn.airns.net A 0.0.0.0
 
-; RPZ entries (5,447) md5sum: 0bf1510adcd81fa3f2bacdca575ae340
-; Processed in: 0:00:07.661367
+; RPZ entries (5,442) md5sum: 1c3b1f94a8cc783b6ea32b8bb46835d1
+; Processed in: 0:00:05.706538
