@@ -1,10 +1,10 @@
-; Last modified: 2024-06-23T01:26:04+08:00
+; Last modified: 2024-06-24T01:25:47+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406230126 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406240125 43200 60 2592000 30
  IN NS localhost.
 
 vpngame.com A 0.0.0.0
@@ -6337,6 +6337,7 @@ adguardhome.atakorah.com A 0.0.0.0
 2wired.hopto.org A 0.0.0.0
 3.11i.eu A 0.0.0.0
 317252.xyz A 0.0.0.0
+3u6gx7qomyqyul1l.myfritz.net A 0.0.0.0
 45.32.17.58.vultrusercontent.com A 0.0.0.0
 45-76-84-146.colo.xandodigital.net A 0.0.0.0
 4yix.l.time4vps.cloud A 0.0.0.0
@@ -6655,6 +6656,7 @@ anixlab.com A 0.0.0.0
 an.loliconapp.top A 0.0.0.0
 a.ns.dnslify.com A 0.0.0.0
 antarlangit.my.id A 0.0.0.0
+antidns.s.tuna.tsinghua.edu.cn A 0.0.0.0
 anycast.censurfridns.nu A 0.0.0.0
 anycast.ffmuc.net A 0.0.0.0
 anycast.uncensoreddns.dk A 0.0.0.0
@@ -6841,7 +6843,6 @@ derevnya.px.i81.ru A 0.0.0.0
 destakmateriais.com.br A 0.0.0.0
 dev.gonnadive.com A 0.0.0.0
 deweerd.loseyourip.com A 0.0.0.0
-dff029179c4246e385296ea8de0b8eb8.pacloudflare.com A 0.0.0.0
 dfw01.dnscry.pt A 0.0.0.0
 dfw02.dnscry.pt A 0.0.0.0
 d.gametechnet.com A 0.0.0.0
@@ -7499,11 +7500,6 @@ dr.jp.sslbb.win A 0.0.0.0
 ds3617xs.jojo1204.xyz A 0.0.0.0
 dugout.dns.walshnet.co.uk A 0.0.0.0
 dupatruwi22.fun A 0.0.0.0
-dus.ysbs.uk A 0.0.0.0
-sdns.pro A 0.0.0.0
-sdvizhkov.ru A 0.0.0.0
-sea01.dnscry.pt A 0.0.0.0
-seanyan.ddns.net A 0.0.0.0
 sea-ydmaz-docker.southeastasia.cloudapp.azure.com A 0.0.0.0
 sec.iamninja.ru A 0.0.0.0
 secureadguarddns.charleslondon.online A 0.0.0.0
@@ -7906,7 +7902,6 @@ yanggan.eu.org A 0.0.0.0
 ycg01.dnscry.pt A 0.0.0.0
 ychen.ga A 0.0.0.0
 yeralin.net A 0.0.0.0
-yh.hk1.shuaib.icu A 0.0.0.0
 ymjx.shimmerl.top A 0.0.0.0
 ymq01.dnscry.pt A 0.0.0.0
 yory2cave.hopto.me A 0.0.0.0
@@ -7928,6 +7923,7 @@ ztv.su A 0.0.0.0
 zuhause.webteufel.net A 0.0.0.0
 zulkas.top A 0.0.0.0
 z.vipit.one A 0.0.0.0
+dus.ysbs.uk A 0.0.0.0
 duyyen.tk A 0.0.0.0
 dyn-ip.borjalopez.eu A 0.0.0.0
 dyn.velyn.my.id A 0.0.0.0
@@ -8129,7 +8125,6 @@ id.sdn.airns.net A 0.0.0.0
 ie-dub-w-1.nashkan.net A 0.0.0.0
 iev01.dnscry.pt A 0.0.0.0
 igor.hr.i81.ru A 0.0.0.0
-ii.lov.host A 0.0.0.0
 ime-ingenierias.xyz A 0.0.0.0
 inadsware.ddns.net A 0.0.0.0
 inf-wan.vip.meituan.com A 0.0.0.0
@@ -8137,7 +8132,6 @@ ingenmannsland.online A 0.0.0.0
 integration.dnsteam.globuscs.info A 0.0.0.0
 intertop.link A 0.0.0.0
 invidious.arashi.solutions A 0.0.0.0
-io_cli.cdn.ovpn.bond A 0.0.0.0
 iofixdns1.duckdns.org A 0.0.0.0
 iofixdns2.duckdns.org A 0.0.0.0
 i.passcloud.xyz A 0.0.0.0
@@ -8264,7 +8258,6 @@ lv.long-nguyen.info A 0.0.0.0
 lv-rig-w-2.nashkan.net A 0.0.0.0
 lwhjszcnzjhz.site A 0.0.0.0
 maikel.greppie.nl A 0.0.0.0
-mail.4-the.win A 0.0.0.0
 mail.andrewnw.xyz A 0.0.0.0
 mail.pragmasec.nl A 0.0.0.0
 mail.strassmair.org A 0.0.0.0
@@ -8304,7 +8297,6 @@ mkvvpssrv12.freemyip.com A 0.0.0.0
 m.myspace.sbs A 0.0.0.0
 mo0on15.com A 0.0.0.0
 moaz-adguard.duckdns.org A 0.0.0.0
-montmorot.duckdns.org A 0.0.0.0
 monty.best A 0.0.0.0
 moonbd.top A 0.0.0.0
 moto.adg.siudzinski.net A 0.0.0.0
@@ -8458,7 +8450,6 @@ ott01.dnscry.pt A 0.0.0.0
 outdoor.v6.army A 0.0.0.0
 outie.8ws.net A 0.0.0.0
 outiejr.8ws.net A 0.0.0.0
-ovh.panszelescik.pl A 0.0.0.0
 owndns.dedyn.io A 0.0.0.0
 pad3w.pp.ua A 0.0.0.0
 padermail.net A 0.0.0.0
@@ -8482,7 +8473,6 @@ pi4.jnraptor.net A 0.0.0.0
 pi.adblocker.eu.org A 0.0.0.0
 pi.daryllswer.net A 0.0.0.0
 pi-dns.gordon81.com A 0.0.0.0
-piekacz.pl A 0.0.0.0
 pihole.gcp.pathofgrace.com A 0.0.0.0
 pi.homeanywhere.org A 0.0.0.0
 pioko.net A 0.0.0.0
@@ -8532,7 +8522,6 @@ rafi.dynns.com A 0.0.0.0
 ralfs-dns.dsh.lol A 0.0.0.0
 raspberrydoc.duckdns.org A 0.0.0.0
 rasp.matthias-iwer.de A 0.0.0.0
-rdjcloud.duckdns.org A 0.0.0.0
 rdjdns.ajraspi.xyz A 0.0.0.0
 redsea.meetz.pw A 0.0.0.0
 resolv1.trash.net A 0.0.0.0
@@ -8604,6 +8593,10 @@ schiopuoffice.duckdns.org A 0.0.0.0
 scottdylewski.com A 0.0.0.0
 sdfasluqoiwuezcvcv.tech A 0.0.0.0
 sdn.airns.net A 0.0.0.0
+sdns.pro A 0.0.0.0
+sdvizhkov.ru A 0.0.0.0
+sea01.dnscry.pt A 0.0.0.0
+seanyan.ddns.net A 0.0.0.0
 
-; RPZ entries (5,442) md5sum: 1c3b1f94a8cc783b6ea32b8bb46835d1
-; Processed in: 0:00:05.706538
+; RPZ entries (5,435) md5sum: 923d9cc87e3fa5e5b99ecd6c2bcc3250
+; Processed in: 0:00:06.226393

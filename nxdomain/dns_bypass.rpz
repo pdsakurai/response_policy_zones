@@ -1,10 +1,10 @@
-; Last modified: 2024-06-23T01:26:04+08:00
+; Last modified: 2024-06-24T01:25:47+08:00
 ; Source #1: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-onlydomains.txt
 ; Source #2: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 ; Source #3: https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz
 
 $TTL 3600
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406230126 43200 60 2592000 30
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2406240125 43200 60 2592000 30
  IN NS localhost.
 
 vpngame.com CNAME .
@@ -6337,6 +6337,7 @@ adguardhome.atakorah.com CNAME .
 2wired.hopto.org CNAME .
 3.11i.eu CNAME .
 317252.xyz CNAME .
+3u6gx7qomyqyul1l.myfritz.net CNAME .
 45.32.17.58.vultrusercontent.com CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
@@ -6655,6 +6656,7 @@ anixlab.com CNAME .
 an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
+antidns.s.tuna.tsinghua.edu.cn CNAME .
 anycast.censurfridns.nu CNAME .
 anycast.ffmuc.net CNAME .
 anycast.uncensoreddns.dk CNAME .
@@ -6841,7 +6843,6 @@ derevnya.px.i81.ru CNAME .
 destakmateriais.com.br CNAME .
 dev.gonnadive.com CNAME .
 deweerd.loseyourip.com CNAME .
-dff029179c4246e385296ea8de0b8eb8.pacloudflare.com CNAME .
 dfw01.dnscry.pt CNAME .
 dfw02.dnscry.pt CNAME .
 d.gametechnet.com CNAME .
@@ -7499,11 +7500,6 @@ dr.jp.sslbb.win CNAME .
 ds3617xs.jojo1204.xyz CNAME .
 dugout.dns.walshnet.co.uk CNAME .
 dupatruwi22.fun CNAME .
-dus.ysbs.uk CNAME .
-sdns.pro CNAME .
-sdvizhkov.ru CNAME .
-sea01.dnscry.pt CNAME .
-seanyan.ddns.net CNAME .
 sea-ydmaz-docker.southeastasia.cloudapp.azure.com CNAME .
 sec.iamninja.ru CNAME .
 secureadguarddns.charleslondon.online CNAME .
@@ -7906,7 +7902,6 @@ yanggan.eu.org CNAME .
 ycg01.dnscry.pt CNAME .
 ychen.ga CNAME .
 yeralin.net CNAME .
-yh.hk1.shuaib.icu CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 yory2cave.hopto.me CNAME .
@@ -7928,6 +7923,7 @@ ztv.su CNAME .
 zuhause.webteufel.net CNAME .
 zulkas.top CNAME .
 z.vipit.one CNAME .
+dus.ysbs.uk CNAME .
 duyyen.tk CNAME .
 dyn-ip.borjalopez.eu CNAME .
 dyn.velyn.my.id CNAME .
@@ -8129,7 +8125,6 @@ id.sdn.airns.net CNAME .
 ie-dub-w-1.nashkan.net CNAME .
 iev01.dnscry.pt CNAME .
 igor.hr.i81.ru CNAME .
-ii.lov.host CNAME .
 ime-ingenierias.xyz CNAME .
 inadsware.ddns.net CNAME .
 inf-wan.vip.meituan.com CNAME .
@@ -8137,7 +8132,6 @@ ingenmannsland.online CNAME .
 integration.dnsteam.globuscs.info CNAME .
 intertop.link CNAME .
 invidious.arashi.solutions CNAME .
-io_cli.cdn.ovpn.bond CNAME .
 iofixdns1.duckdns.org CNAME .
 iofixdns2.duckdns.org CNAME .
 i.passcloud.xyz CNAME .
@@ -8264,7 +8258,6 @@ lv.long-nguyen.info CNAME .
 lv-rig-w-2.nashkan.net CNAME .
 lwhjszcnzjhz.site CNAME .
 maikel.greppie.nl CNAME .
-mail.4-the.win CNAME .
 mail.andrewnw.xyz CNAME .
 mail.pragmasec.nl CNAME .
 mail.strassmair.org CNAME .
@@ -8304,7 +8297,6 @@ mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
-montmorot.duckdns.org CNAME .
 monty.best CNAME .
 moonbd.top CNAME .
 moto.adg.siudzinski.net CNAME .
@@ -8458,7 +8450,6 @@ ott01.dnscry.pt CNAME .
 outdoor.v6.army CNAME .
 outie.8ws.net CNAME .
 outiejr.8ws.net CNAME .
-ovh.panszelescik.pl CNAME .
 owndns.dedyn.io CNAME .
 pad3w.pp.ua CNAME .
 padermail.net CNAME .
@@ -8482,7 +8473,6 @@ pi4.jnraptor.net CNAME .
 pi.adblocker.eu.org CNAME .
 pi.daryllswer.net CNAME .
 pi-dns.gordon81.com CNAME .
-piekacz.pl CNAME .
 pihole.gcp.pathofgrace.com CNAME .
 pi.homeanywhere.org CNAME .
 pioko.net CNAME .
@@ -8532,7 +8522,6 @@ rafi.dynns.com CNAME .
 ralfs-dns.dsh.lol CNAME .
 raspberrydoc.duckdns.org CNAME .
 rasp.matthias-iwer.de CNAME .
-rdjcloud.duckdns.org CNAME .
 rdjdns.ajraspi.xyz CNAME .
 redsea.meetz.pw CNAME .
 resolv1.trash.net CNAME .
@@ -8604,6 +8593,10 @@ schiopuoffice.duckdns.org CNAME .
 scottdylewski.com CNAME .
 sdfasluqoiwuezcvcv.tech CNAME .
 sdn.airns.net CNAME .
+sdns.pro CNAME .
+sdvizhkov.ru CNAME .
+sea01.dnscry.pt CNAME .
+seanyan.ddns.net CNAME .
 
-; RPZ entries (5,442) md5sum: 1c3b1f94a8cc783b6ea32b8bb46835d1
-; Processed in: 0:00:05.684495
+; RPZ entries (5,435) md5sum: 923d9cc87e3fa5e5b99ecd6c2bcc3250
+; Processed in: 0:00:06.205845
