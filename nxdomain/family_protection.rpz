@@ -1,0 +1,18 @@
+; Last modified: 2025-12-07T01:25:48+08:00
+; Source #1: https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
+; Source #2: https://raw.githubusercontent.com/pdsakurai/RaspberryPiTools/refs/heads/main/whitelist
+; Source #3: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts
+; Source #4: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
+; Source #5: https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/wildcard/fake-onlydomains.txt
+; Source #6: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
+; Source #7: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt
+; Source #8: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
+; Source #9: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
+
+$TTL 7200
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2512070125 3600 60 2592000 7200
+ IN NS localhost.
+
+
+; RPZ entries (0) md5sum: d41d8cd98f00b204e9800998ecf8427e
+; Processed in: 0:00:05.955558
