@@ -1,0 +1,30 @@
+; Last modified: 2026-06-17T01:26:27+08:00
+; Source #1: https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
+; Source #2: https://raw.githubusercontent.com/pdsakurai/RaspberryPiTools/refs/heads/main/whitelist
+; Source #3: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+; Source #4: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.amazon.txt
+; Source #5: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt
+; Source #6: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.huawei.txt
+; Source #7: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.winoffice.txt
+; Source #8: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.samsung.txt
+; Source #9: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.txt
+; Source #10: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.lgwebos.txt
+; Source #11: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.roku.txt
+; Source #12: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.vivo.txt
+; Source #13: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.oppo-realme.txt
+; Source #14: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt
+; Source #15: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt
+; Source #16: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung
+; Source #17: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei
+; Source #18: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
+; Source #19: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
+; Source #20: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
+; Source #21: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa
+
+$TTL 7200
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2606170126 3600 60 2592000 7200
+ IN NS localhost.
+
+
+; RPZ entries (0) md5sum: d41d8cd98f00b204e9800998ecf8427e
+; Processed in: 0:00:04.634176
