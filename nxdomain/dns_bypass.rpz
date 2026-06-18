@@ -1,10 +1,10 @@
-; Last modified: 2026-06-17T01:25:59+08:00
+; Last modified: 2026-06-19T01:25:56+08:00
 ; Source #1: https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
 ; Source #2: https://raw.githubusercontent.com/pdsakurai/RaspberryPiTools/refs/heads/main/whitelist
 ; Source #3: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 
 $TTL 7200
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2606170125 3600 60 2592000 7200
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2606190125 3600 60 2592000 7200
  IN NS localhost.
 
 ss.0001.xyz CNAME .
@@ -5457,6 +5457,7 @@ beanweb.qzz.io CNAME .
 8383hcurfi33783ufhirfu8rf0rhfour67.r-o-o-t.net CNAME .
 home.r01.fr CNAME .
 resolver.r0cket.net CNAME .
+tor.r0cket.net CNAME .
 pub-2b2f65db29c04d1f8dc6324a41a698bc.r2.dev CNAME .
 pub-7673769c88704e338cf94be8e7833d08.r2.dev CNAME .
 pub-8029ed10cf4e4db0b3757e6b82ef7a40.r2.dev CNAME .
@@ -15740,7 +15741,7 @@ v2ny.pro CNAME .
 v2ny.top CNAME .
 v2ny.xyz CNAME .
 v2plus.cc CNAME .
-v2ray.cc CNAME .
+ybqlymsu.com CNAME .
 ybstbrpb.com CNAME .
 ychen.cf CNAME .
 ychen.gq CNAME .
@@ -16034,6 +16035,7 @@ zytjniih.cc CNAME .
 zyvola.ru CNAME .
 zzextyow.com CNAME .
 zzzzz.click CNAME .
+v2ray.cc CNAME .
 v2rayclient.com CNAME .
 v2rayn.org CNAME .
 v2rayng.cyou CNAME .
@@ -17032,7 +17034,6 @@ yawzz.net CNAME .
 yazaebalsyadelatproxy.uk CNAME .
 ybmtkbiq.com CNAME .
 ybqjaguuii0obex4w.online CNAME .
-ybqlymsu.com CNAME .
 
-; RPZ entries (17,026) md5sum: 0016bfeee560ad5d9ad3f854434f378a
-; Processed in: 0:00:21.866117
+; RPZ entries (17,027) md5sum: b8f1992cbf4e8875ee6b94ec6b6c0664
+; Processed in: 0:00:22.267638

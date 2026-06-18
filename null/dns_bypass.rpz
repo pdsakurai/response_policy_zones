@@ -1,10 +1,10 @@
-; Last modified: 2026-06-17T01:25:59+08:00
+; Last modified: 2026-06-19T01:25:56+08:00
 ; Source #1: https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
 ; Source #2: https://raw.githubusercontent.com/pdsakurai/RaspberryPiTools/refs/heads/main/whitelist
 ; Source #3: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
 
 $TTL 7200
-@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2606170125 3600 60 2592000 7200
+@ IN SOA users.noreply.github.com. 23254804+pdsakurai.users/.noreply/.github/.com. 2606190125 3600 60 2592000 7200
  IN NS localhost.
 
 ss.0001.xyz A 0.0.0.0
@@ -5457,6 +5457,7 @@ beanweb.qzz.io A 0.0.0.0
 8383hcurfi33783ufhirfu8rf0rhfour67.r-o-o-t.net A 0.0.0.0
 home.r01.fr A 0.0.0.0
 resolver.r0cket.net A 0.0.0.0
+tor.r0cket.net A 0.0.0.0
 pub-2b2f65db29c04d1f8dc6324a41a698bc.r2.dev A 0.0.0.0
 pub-7673769c88704e338cf94be8e7833d08.r2.dev A 0.0.0.0
 pub-8029ed10cf4e4db0b3757e6b82ef7a40.r2.dev A 0.0.0.0
@@ -15740,7 +15741,7 @@ v2ny.pro A 0.0.0.0
 v2ny.top A 0.0.0.0
 v2ny.xyz A 0.0.0.0
 v2plus.cc A 0.0.0.0
-v2ray.cc A 0.0.0.0
+ybqlymsu.com A 0.0.0.0
 ybstbrpb.com A 0.0.0.0
 ychen.cf A 0.0.0.0
 ychen.gq A 0.0.0.0
@@ -16034,6 +16035,7 @@ zytjniih.cc A 0.0.0.0
 zyvola.ru A 0.0.0.0
 zzextyow.com A 0.0.0.0
 zzzzz.click A 0.0.0.0
+v2ray.cc A 0.0.0.0
 v2rayclient.com A 0.0.0.0
 v2rayn.org A 0.0.0.0
 v2rayng.cyou A 0.0.0.0
@@ -17032,7 +17034,6 @@ yawzz.net A 0.0.0.0
 yazaebalsyadelatproxy.uk A 0.0.0.0
 ybmtkbiq.com A 0.0.0.0
 ybqjaguuii0obex4w.online A 0.0.0.0
-ybqlymsu.com A 0.0.0.0
 
-; RPZ entries (17,026) md5sum: 0016bfeee560ad5d9ad3f854434f378a
-; Processed in: 0:00:21.886803
+; RPZ entries (17,027) md5sum: b8f1992cbf4e8875ee6b94ec6b6c0664
+; Processed in: 0:00:22.285143
